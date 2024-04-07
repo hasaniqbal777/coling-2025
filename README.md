@@ -1,6 +1,6 @@
-# ACL 2024 official website
+# COLING 2025 official website
 
-This is the code for the official website for the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024), based on the code for [NAACL-HLT 2021](https://github.com/naacl-org/naacl-2021-website/), the following is the configuration details.
+This is the code for the official website for the International Conference on Computational Linguistics (COLING) 2025, based on based on the code for [ACL 2024](https://github.com/acl-org/acl-2024/), the following is the configuration details.
 
 It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
@@ -108,7 +108,7 @@ If you fork this repository, the following files are the ones to pay attention t
 
 ## Domain Setup
 
-The following settings connect the the main domain booked for the conference (e.g. `naacl2021.org`) with the underlying Github Pages build. 
+The following settings connect the the main domain booked for the conference (e.g. `coling2025.org`) with the underlying Github Pages build. 
 
 On the domain side, the following DNS settings need to be set up: all four IPs belong to Github, the last row connects the www subdomain to the main domain:
 
@@ -120,7 +120,7 @@ A   @   185.199.111.153
 CNAME www   naacl2021.org
 ```
 
-In the settings for the repository on GitHub, the "custom domain" needs to be set to the main domain (e.g., `naacl2021.org`). This will create a CNAME file in the top folder of the Github repository. Note that it may take a few minutes for the changes to become effective until they are propagated through the DNS servers.
+In the settings for the repository on GitHub, the "custom domain" needs to be set to the main domain (e.g., `coling2025.org`). This will create a CNAME file in the top folder of the Github repository. Note that it may take a few minutes for the changes to become effective until they are propagated through the DNS servers.
 
 # License
 
