@@ -17,22 +17,22 @@ livereload: true
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ACL 2024"
+title                    : "COLING 2025"
 title_separator          : "-"
-name                     : "acl"
-description              : "Official website for the 62nd Annual Meeting of the Association for Computational Linguistics"
-url                      : "https://github.com/acl-org/acl-2024" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "acl-org/acl-2024" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+name                     : "coling"
+description              : "Official website for the 31st International Conference on Computational Linguistics (COLING 2025)"
+url                      : "https://github.com/hasaniqbal777/coling-2025" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : ""
+repository               : "hasaniqbal777/coling-2025" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logos/acl-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "          " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "ACL2024"
+    shortname            : "COLING2025"
 reCaptcha:
   siteKey                :
   secret                 :
