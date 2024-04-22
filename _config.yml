@@ -107,10 +107,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/aclmeeting
+      url: https://twitter.com/coling2025
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/acl-org/acl-2024
+      url: "https://github.com/hasaniqbal777/coling-2025"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
