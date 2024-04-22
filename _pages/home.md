@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_image: "/assets/images/banner.jpg"
   caption: 'Photo by <a href="https://visitabudhabi.ae/-/media/project/vad/homepage/november-2023/regions-map/admap-dsk-1-19-12.jpg">VisitAbuDhabi</a>'
-excerpt: "Abu Dhabi, UAE<br>Date to be announced soon"
+excerpt: "Abu Dhabi, UAE<br>January 21-24, 2025"
 ---
 
 ## Welcome!
