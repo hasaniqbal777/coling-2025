@@ -14,7 +14,7 @@ main:
   #- title: "Proceedings"
   #  url: "https://aclanthology.org/events/emnlp-2022/"
   - title: "Calls"
-    url: /calls/student_research_workshop/
+    url: /calls/workshop_proposals/
 
   # - title: "Program"
   #   url: /program/
@@ -25,8 +25,8 @@ main:
   #- title: "Blog"
   #  url: /blog/
 
-  # - title: "Committees"
-  #   url: /organization
+  - title: "Committees"
+    url: /organization
 
   #- title: "Sponsors"
   #  url: /sponsors/
@@ -84,8 +84,8 @@ calls:
     children:
       # - title: "Main Conference Papers"
       #   url: /calls/main_conference_papers/
-      - title: "Student Research Workshop"
-        url: /calls/student_research_workshop/
+      - title: "Workshop Proposals"
+        url: /calls/workshop_proposals/
       # - title: "System Demonstration"
       #   url: /calls/system_demonstration/
 #      - title: "Industry Track Papers"
