@@ -13,8 +13,8 @@ main:
 
   #- title: "Proceedings"
   #  url: "https://aclanthology.org/events/emnlp-2022/"
-  # - title: "Calls"
-  #   url: /calls/main_conference_papers/
+  - title: "Calls"
+    url: /calls/student_research_workshop/
 
   # - title: "Program"
   #   url: /program/
@@ -82,12 +82,12 @@ program:
 calls:
   - title: "Call for"
     children:
-      - title: "Main Conference Papers"
-        url: /calls/main_conference_papers/
+      # - title: "Main Conference Papers"
+      #   url: /calls/main_conference_papers/
       - title: "Student Research Workshop"
         url: /calls/student_research_workshop/
-      - title: "System Demonstration"
-        url: /calls/system_demonstration/
+      # - title: "System Demonstration"
+      #   url: /calls/system_demonstration/
 #      - title: "Industry Track Papers"
 #        url: /calls/industry_track/
 #      - title: "Style Files and Formatting"
