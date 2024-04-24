@@ -27,7 +27,6 @@ More information will be announced soon.
 
 ## Important Dates
 
-<!-- Main Conference Papers Due | Thursday | August 15, 2024  -->
 Workshop and Tutorials | Sunday - Monday | January 19 - 20, 2025
 Main Conference | Tuesday - Friday | January 21 - 24, 2025
 
