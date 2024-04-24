@@ -15,7 +15,7 @@ More information will be announced soon.
 
 ## News
 
-**The official ACL 2024 website is launched.**
+**The official COLING 2025 website is launched.**
 {: .text-center .notice--info}
 
 <style>
