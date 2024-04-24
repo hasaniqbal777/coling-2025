@@ -62,7 +62,7 @@ name="Preslav Nakov"
 picture="/assets/images/committee/person.jpg"
 site=""
 institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
-email = "Preslav.Nakov@mbzuai.ac.ae"
+email = ""
 %}
 
 {% include committee-member.html
@@ -70,7 +70,7 @@ name="Alham Fikri Aji"
 picture="/assets/images/committee/person.jpg"
 site=""
 institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
-email = "Alham.Fikri@mbzuai.ac.ae"
+email = ""
 %}
 
 {% include committee-member.html
@@ -78,7 +78,7 @@ name="Yova Kementchedjhieva"
 picture="/assets/images/committee/person.jpg"
 site=""
 institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
-email = "Yova.Kementchedjhieva@mbzuai.ac.ae"
+email = ""
 %}
 
 {% include committee-member.html
@@ -86,7 +86,7 @@ name="Ekaterina Kochmar"
 picture="/assets/images/committee/person.jpg"
 site=""
 institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
-email = "Ekaterina.Kochmar@mbzuai.ac.ae"
+email = ""
 %}
 
 {% include committee-member.html
@@ -94,7 +94,15 @@ name="Monojit Choudhury"
 picture="/assets/images/committee/person.jpg"
 site=""
 institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
-email = "Monojit.Choudhury@mbzuai.ac.ae"
+email = ""
+%}
+
+{% include committee-member.html
+name="Nizar Habash"
+picture="/assets/images/committee/person.jpg"
+site=""
+institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
+email = ""
 %}
 
 <h2>Workshop Chairs</h2>
@@ -163,7 +171,7 @@ name="Zeerak Talat"
 picture="/assets/images/committee/person.jpg"
 site=""
 institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
-email = "Zeerak.Talat@mbzuai.ac.ae"
+email = ""
 %}
 
 <h2>Website/Publicity/Social Media Chairs</h2>
@@ -181,7 +189,7 @@ name="Zain Muhammad Mujahid"
 picture="/assets/images/committee/person.jpg"
 site=""
 institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
-email = "Zain.Mujahid@mbzuai.ac.ae"
+email = ""
 %}
 
 {% include committee-member.html
@@ -189,7 +197,7 @@ name="Hasan Iqbal"
 picture="/assets/images/committee/person.jpg"
 site=""
 institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
-email = "Hasan.Iqbal@mbzuai.ac.ae"
+email = ""
 %}
 
 <h2>Visa Chairs</h2>
@@ -199,5 +207,5 @@ name="Preslav Nakov"
 picture="/assets/images/committee/person.jpg"
 site=""
 institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
-email = "Preslav.Nakov@mbzuai.ac.ae"
+email = ""
 %}
