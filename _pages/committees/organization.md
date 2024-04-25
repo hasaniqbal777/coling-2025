@@ -206,6 +206,6 @@ email = ""
 name="Preslav Nakov"
 picture="/assets/images/committee/person.jpg"
 site=""
-institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
+institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""
 %}
