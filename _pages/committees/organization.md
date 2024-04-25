@@ -61,7 +61,7 @@ sidebar:
 name="Preslav Nakov"
 picture="/assets/images/committee/person.jpg"
 site=""
-institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
+institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""
 %}
 
@@ -69,7 +69,7 @@ email = ""
 name="Alham Fikri Aji"
 picture="/assets/images/committee/person.jpg"
 site=""
-institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
+institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""
 %}
 
@@ -77,7 +77,7 @@ email = ""
 name="Yova Kementchedjhieva"
 picture="/assets/images/committee/person.jpg"
 site=""
-institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
+institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""
 %}
 
@@ -85,7 +85,7 @@ email = ""
 name="Ekaterina Kochmar"
 picture="/assets/images/committee/person.jpg"
 site=""
-institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
+institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""
 %}
 
@@ -93,7 +93,7 @@ email = ""
 name="Monojit Choudhury"
 picture="/assets/images/committee/person.jpg"
 site=""
-institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
+institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""
 %}
 
@@ -101,7 +101,7 @@ email = ""
 name="Nizar Habash"
 picture="/assets/images/committee/person.jpg"
 site=""
-institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
+institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""
 %}
 
@@ -110,7 +110,7 @@ email = ""
 name="Katsuhito Sudoh"
 picture="/assets/images/committee/person.jpg"
 site=""
-institution="Nara Institute of Science and Technology (NAIST), Japan"
+institution="Nara Institute of Science and Technology, Japan"
 email = ""
 %}
 
@@ -127,7 +127,7 @@ email = ""
 name="Djamé Seddah"
 picture="/assets/images/committee/person.jpg"
 site=""
-institution="Insitut National de Recherche en Informatique et en Automatique (INRIA), France"
+institution="Insitut National de Recherche en Informatique et en Automatique, France"
 email = ""
 %}
 
@@ -144,7 +144,7 @@ email = ""
 name="Brodie Mather"
 picture="/assets/images/committee/person.jpg"
 site=""
-institution="The Institute of Human & Machine Cognition (IHMC), USA"
+institution="The Institute of Human & Machine Cognition, USA"
 email = ""
 %}
 
@@ -152,7 +152,7 @@ email = ""
 name="Tilman Becker"
 picture="/assets/images/committee/person.jpg"
 site=""
-institution="German Research Center for Artificial Intelligence (DFKI), Germany"
+institution="German Research Center for Artificial Intelligence, Germany"
 email = ""
 %}
 
@@ -170,7 +170,7 @@ email = ""
 name="Zeerak Talat"
 picture="/assets/images/committee/person.jpg"
 site=""
-institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
+institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""
 %}
 
@@ -180,7 +180,7 @@ email = ""
 name="Sakhar AlKhereyf"
 picture="/assets/images/committee/person.jpg"
 site=""
-institution="King Abulaziz City for Science and Technology (KACST), Saudi Arabia"
+institution="King Abulaziz City for Science and Technology, Saudi Arabia"
 email = ""
 %}
 
@@ -188,7 +188,7 @@ email = ""
 name="Zain Muhammad Mujahid"
 picture="/assets/images/committee/person.jpg"
 site=""
-institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
+institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""
 %}
 
@@ -196,7 +196,7 @@ email = ""
 name="Hasan Iqbal"
 picture="/assets/images/committee/person.jpg"
 site=""
-institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
+institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""
 %}
 
