@@ -115,10 +115,10 @@ email = ""
 %}
 
 {% include committee-member.html
-name="Mahmoud El-Haj"
+name="Mo El-Haj"
 picture="/assets/images/committee/person.jpg"
 site=""
-institution="University of Lancaster, UK"
+institution="Lancaster University, UK"
 email = ""
 %}
 
