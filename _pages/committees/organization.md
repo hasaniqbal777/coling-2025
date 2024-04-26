@@ -56,6 +56,14 @@ sidebar:
    email = ""
 %}
 
+{% include committee-member.html
+   name="Steven Schockaert"
+   picture="/assets/images/committee/person.jpg"
+   site=""
+   institution="Cardiff University, UK"
+   email = ""
+%}
+
 <h2>Local Organization </h2>
 {% include committee-member.html
 name="Preslav Nakov"
