@@ -109,7 +109,7 @@ email = ""
 name="Nizar Habash"
 picture="/assets/images/committee/person.jpg"
 site=""
-institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
+institution="New York University Abu Dhabi, UAE<br>Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""
 %}
 
