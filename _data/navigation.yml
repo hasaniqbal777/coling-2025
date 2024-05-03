@@ -2,6 +2,15 @@
 #in masthead.html
 main:
 
+  - title: "About COLING"
+    url: /about/
+
+  - title: Calls
+    url: /calls/workshop-proposals/
+    dropdown:
+      - title: Workshop Proposals
+        url: /calls/workshop-proposals/
+
   #- title: "Schedule"
   #  url: /schedule/
 
@@ -13,8 +22,7 @@ main:
 
   #- title: "Proceedings"
   #  url: "https://aclanthology.org/events/emnlp-2022/"
-  - title: "Calls"
-    url: /calls/workshop_proposals/
+
 
   # - title: "Program"
   #   url: /program/
@@ -37,8 +45,15 @@ main:
   #- title: "Volunteers"
   #  url: /volunteers 
 
-  # - title: "Venue"
-  #   url: /venue/
+  - title: "Venue"
+    url: /venue/
+    dropdown:
+      - title: Venue
+        url: /venue/
+      - title: Visa
+        url: /venue/visa/
+      - title: Travel
+        url: /venue/travel/
 
   #- title: "Reviewer"
   #  url: /not_available
@@ -85,7 +100,7 @@ calls:
       # - title: "Main Conference Papers"
       #   url: /calls/main_conference_papers/
       - title: "Workshop Proposals"
-        url: /calls/workshop_proposals/
+        url: /calls/workshop-proposals/
       # - title: "System Demonstration"
       #   url: /calls/system_demonstration/
 #      - title: "Industry Track Papers"

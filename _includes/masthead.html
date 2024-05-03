@@ -5,7 +5,32 @@
 {% endif %}
 <style type="text/css">
 .tmp-disable{
-color:#CCCCCC
+  color:#CCCCCC
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-menu li {
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  color: #333;
+  font-size: 14px;
+}
+
+.dropdown-menu li:hover {
+  background-color: #ddd;
+}
+
+.masthead__menu-item:hover .dropdown-menu {
+  display: block;
 }
 </style>
 
@@ -24,14 +49,25 @@ color:#CCCCCC
             {%- else -%}
               {%- assign url = link.url | relative_url -%}
             {%- endif -%}
-            {%- if link.title contains 'Blog' or link.title contains 'Registration' or link.title contains 'Proceedings' or link.title contains 'Program' or link.title contains 'Committees' or link.title contains 'Venue' or link.title contains 'Volunteers' or link.title contains 'FAQ' or link.title contains 'Calls' or link.title contains 'Ethics' or  link.title contains 'Participants Info' or link.title contains 'Sponsors' or link.title contains 'Contact'-%}
+            {%- if link.title contains 'Blog' or link.title contains 'Registration' or link.title contains 'Proceedings' or link.title contains 'Program' or link.title contains 'Committees' or link.title contains 'Venue' or link.title contains 'Volunteers' or link.title contains 'FAQ' or link.title contains 'Ethics' or  link.title contains 'Participants Info' or link.title contains 'Sponsors' or link.title contains 'Contact'-%}
               <li class="masthead__menu-item">
                 <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
               </li>
             {%- else -%}
+              {% if link.dropdown %}
+              <li class="masthead__menu-item">
+                <a href="{{ url }}" class="dropdown-toggle" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+                <ul class="dropdown-menu">
+                  {% for sublink in link.dropdown %}
+                    <li><a href="{{ sublink.url }}" {% if sublink.description %}title="{{ sublink.description }}"{% endif %}>{{ sublink.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              </li>
+              {% else %}
               <li class="masthead__menu-item">
                 <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}><span style="color:#999999;">{{ link.title }}</span></a>
               </li>
+              {% endif %}
             {%- endif -%}
           {%- endfor -%}
         </ul>

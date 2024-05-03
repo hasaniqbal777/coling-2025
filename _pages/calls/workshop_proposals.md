@@ -2,7 +2,7 @@
 title: Call for Workshop Proposals
 layout: single
 excerpt: "COLING 2025 Workshop"
-permalink: /calls/workshop_proposals/
+permalink: /calls/workshop-proposals
 sidebar: 
     nav: "calls"
 toc: True
