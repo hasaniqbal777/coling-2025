@@ -6,7 +6,7 @@ main:
     url: /about/
 
   - title: Calls
-    url: /calls/main_conference_papers/
+    url: /calls/main_conference_papers
     dropdown:
       - title: Main Conference Papers
         url: /calls/main_conference_papers
