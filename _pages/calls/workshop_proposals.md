@@ -2,7 +2,7 @@
 title: Call for Workshop Proposals
 layout: single
 excerpt: "COLING 2025 Workshop"
-permalink: /calls/workshop-proposals
+permalink: /calls/workshop_proposals
 sidebar: 
     nav: "calls"
 toc: True
@@ -16,7 +16,7 @@ We solicit proposals in all areas of computational linguistics, language resourc
 Note: for this edition of COLING, we will not be conducting a joint call for workshops with the ACL conferences (AACL, ACL, EACL, EMNLP, NAACL). This is due to scheduling differences between COLING and the ACL conferences in 2025. COLING is happening much earlier than the *ACL conferences, which makes it impractical to coordinate a joint call. However, we anticipate  a return to joint workshop calls in the future.
 
 ## Important Dates
-All deadlines are 11:59PM UTC-11:00 (“anywhere on Earth”).
+All deadlines are 11:59PM [UTC-12:00](https://www.timeanddate.com/time/zone/timezone/utc-12) (“anywhere on Earth”).
 <style>
 .news-table { font-size: .9em; table-layout: fixed; text-align: left; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 80em; }

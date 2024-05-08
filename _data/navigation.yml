@@ -6,10 +6,12 @@ main:
     url: /about/
 
   - title: Calls
-    url: /calls/workshop-proposals/
+    url: /calls/main_conference_papers/
     dropdown:
+      - title: Main Conference Papers
+        url: /calls/main_conference_papers/
       - title: Workshop Proposals
-        url: /calls/workshop-proposals/
+        url: /calls/workshop_proposals/
 
   #- title: "Schedule"
   #  url: /schedule/
@@ -97,10 +99,10 @@ program:
 calls:
   - title: "Call for"
     children:
-      # - title: "Main Conference Papers"
-      #   url: /calls/main_conference_papers/
+      - title: "Main Conference Papers"
+        url: /calls/main_conference_papers/
       - title: "Workshop Proposals"
-        url: /calls/workshop-proposals/
+        url: /calls/workshop_proposals/
       # - title: "System Demonstration"
       #   url: /calls/system_demonstration/
 #      - title: "Industry Track Papers"
