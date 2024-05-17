@@ -103,6 +103,8 @@ calls:
     children:
       - title: "Main Conference Papers"
         url: /calls/main_conference_papers/
+      - title: Tutorials
+        url: /calls/tutorials  
       - title: "Workshop Proposals"
         url: /calls/workshop_proposals/
       # - title: "System Demonstration"
