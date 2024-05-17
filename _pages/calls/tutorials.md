@@ -66,13 +66,13 @@ The proposals should be submitted no later than 31 July, 2024, 11:59 PM Samoa St
 Submission is electronic. Please submit the proposals using the START system at this URL: [https://softconf.com/coling2025/tutorialsCL25](https://softconf.com/coling2025/tutorialsCL25)
 
 
-### Evaluation Criteria
+## Evaluation Criteria
 
 The tutorial proposals will be evaluated according to their originality and impact, the expected interest level of participants, as well as the quality of the organizing team and Program Committee and their contribution to the diversity of the conference.
 
 Each tutorial will be evaluated regarding its clarity and preparedness, novelty or timely character of the topic, the instructor’s experience, the audience interest, and the potential to increase diversity in our community.
 
-### Instructor Responsibilities
+## Instructor Responsibilities
 
 Accepted tutorial presenters will be notified by the date mentioned above. They must then provide abstracts of their tutorials for inclusion in the conference registration material by the specific deadlines. The abstract needs to be provided in ASCII format. The summary will be submitted in PDF format and can be updated from the version submitted for review. The instructors will make their material available in an appropriate way, for instance, by setting up a website. They will be invited to submit their slides to the ACL Anthology.
 
