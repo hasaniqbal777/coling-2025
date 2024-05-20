@@ -35,7 +35,7 @@ All deadlines are 11:59PM [UTC-12:00](https://www.timeanddate.com/time/zone/time
 .news-table tr td:nth-child(2) { width: 55em; }
 </style>
 
-| Proposal submission due | September 16, 2024 |
+| Proposal submission due | July 31, 2024 |
 | Notification of acceptance | August 31, 2024 |
 | COLIING2025 tutorials | January 19-20, 2025 |
 | COLING2025 conference | January 21-24, 2025 |
