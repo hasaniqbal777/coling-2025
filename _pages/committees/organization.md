@@ -99,7 +99,7 @@ email = ""
 
 {% include committee-member.html
 name="Teresa Lynn"
-picture="/assets/images/committee/profile_teresa_lynn.jpg"
+picture="/assets/images/committee/profile_teresa_lynn.png"
 site=""
 institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""
