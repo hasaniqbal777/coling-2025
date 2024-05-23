@@ -98,6 +98,14 @@ email = ""
 %}
 
 {% include committee-member.html
+name="Teresa Lynn"
+picture="/assets/images/committee/profile_teresa_lynn.jpg"
+site=""
+institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
+email = ""
+%}
+
+{% include committee-member.html
 name="Monojit Choudhury"
 picture="/assets/images/committee/monojit-choudhury-487px.jpg"
 site=""
