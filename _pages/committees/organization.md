@@ -34,7 +34,7 @@ sidebar:
 
 {% include committee-member.html
    name="Marianna Apidianaki"
-   picture="/assets/images/committee/marianna_apidianaki.jpg"
+   picture="/assets/images/committee/marianna_apidianaki.png"
    site=""
    institution="University of Pennsylvania, USA"
    email = ""
