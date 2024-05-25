@@ -190,7 +190,7 @@ institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""
 %}
 
-<h2>Website/Publicity/Social Media Chairs</h2>
+<h2>Publicity/Social Media Chairs</h2>
 
 {% include committee-member.html
 name="Sakhar AlKhereyf"
@@ -199,6 +199,8 @@ site=""
 institution="King Abulaziz City for Science and Technology, Saudi Arabia"
 email = ""
 %}
+
+<h2>Website Chairs</h2>
 
 {% include committee-member.html
 name="Zain Muhammad Mujahid"
