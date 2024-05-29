@@ -1,7 +1,7 @@
 ---
 title: About COLING 2025
 layout: single
-permalink: /about
+permalink: /about/
 sidebar: false
 toc: true
 toc_sticky: true
