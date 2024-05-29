@@ -23,7 +23,7 @@ All deadlines are 11:59PM [UTC-12:00](https://www.timeanddate.com/time/zone/time
 .news-table { font-size: .9em; table-layout: fixed;}
 /*.news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }*/
 .news-table tr td:nth-child(2) {width: 55em; }
-.green-text { color: green; }
+.green-text { color: red; }
 </style>
 | Submission link posted | May 24, 2024
 | ~~Proposal submission due~~ | ~~May 31, 2024~~
