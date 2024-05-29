@@ -56,7 +56,7 @@ The two pages for information about organisers, program committee, and reference
 - A very brief advertisement or tagline for the workshop, up to 140 characters, that highlights any key information you wish prospective attendees to know, and which would be suitable to be put onto a web-based survey (see below).
 - Unlimited space for references
 
-The proposals should be submitted no later than **May 31, 2024**, 11:59 PM Samoa Standard Time (SST) (UTC/GMT-11, ‘Anywhere on Earth).
+The proposals should be submitted no later than **June 14, 2024**, 11:59 PM Samoa Standard Time (SST) (UTC/GMT-11, ‘Anywhere on Earth).
 
 Submission is electronic, and the submission URL will be displayed on the COLING 2025 website: [https://coling2025.org](https://coling2025.org).
 
