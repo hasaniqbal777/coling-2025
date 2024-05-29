@@ -23,11 +23,11 @@ All deadlines are 11:59PM [UTC-12:00](https://www.timeanddate.com/time/zone/time
 .news-table { font-size: .9em; table-layout: fixed;}
 /*.news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }*/
 .news-table tr td:nth-child(2) {width: 55em; }
-.green-text { color: red; }
+.red-text { color: red; }
 </style>
 | Submission link posted | May 24, 2024
 | ~~Proposal submission due~~ | ~~May 31, 2024~~
-| <span class="green-text">Proposal submission due</span> | <span class="green-text">June 14, 2024</span>
+| <span class="red-text">Proposal submission due</span> | <span class="red-text">June 14, 2024</span>
 | Notification of acceptance | June 30, 2024
 | COLING-2025 Workshops | January 19-20, 2025
 | COLING-2025 conference | January 21-24, 2025
