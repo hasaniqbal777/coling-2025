@@ -58,6 +58,9 @@ main:
         url: /venue/visa/
       - title: Travel
         url: /venue/travel/
+  
+  - title: "Sponsorship"
+    url: /sponsorship/
 
   #- title: "Reviewer"
   #  url: /not_available
@@ -72,17 +75,17 @@ main:
   #  url: /ethics/faq/
 
 
-program:
-  - title: Programs
-    children:
-      - title: "Conference Overview"
-        url: /program/
+# program:
+#   - title: Programs
+#     children:
+#       - title: "Conference Overview"
+#         url: /program/
 #      - title: "Keynote"
 #        url: /program/keynotes/
-      - title: "Workshops"
-        url: /program/workshops/
-      - title: "Tutorials"
-        url: /program/tutorials/
+#       - title: "Workshops"
+#         url: /program/workshops/
+#       - title: "Tutorials"
+#         url: /program/tutorials/
 #      - title: "Careers in NLP"
 #        url: /program/careers_in_nlp/
 #      - title: "Social Programs"
