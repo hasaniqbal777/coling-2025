@@ -2,7 +2,7 @@
 title: First Call for Main Conference Papers
 layout: single
 excerpt: "COLING 2025 Workshop"
-permalink: /calls/main_conference_papers
+permalink: /calls/main_conference_papers/
 sidebar: 
     nav: "calls"
 toc: true

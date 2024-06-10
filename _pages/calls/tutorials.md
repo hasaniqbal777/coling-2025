@@ -2,7 +2,7 @@
 title: Call for Tutorials COLING 2025
 layout: single
 excerpt: "COLING 2025 Workshop"
-permalink: /calls/tutorials
+permalink: /calls/tutorials/
 sidebar: 
     nav: "calls"
 toc: true

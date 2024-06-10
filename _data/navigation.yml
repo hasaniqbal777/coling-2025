@@ -9,11 +9,11 @@ main:
     url: /calls/main_conference_papers
     dropdown:
       - title: Main Conference Papers
-        url: /calls/main_conference_papers
+        url: /calls/main_conference_papers/
       - title: Tutorials
-        url: /calls/tutorials  
+        url: /calls/tutorials/
       - title: Workshop Proposals
-        url: /calls/workshop_proposals
+        url: /calls/workshop_proposals/
 
   - title: "Committees"
     url: /organization
@@ -35,11 +35,11 @@ calls:
   - title: "Call for"
     children:
       - title: "Main Conference Papers"
-        url: /calls/main_conference_papers
+        url: /calls/main_conference_papers/
       - title: Tutorials
-        url: /calls/tutorials  
+        url: /calls/tutorials/
       - title: "Workshop Proposals"
-        url: /calls/workshop_proposals
+        url: /calls/workshop_proposals/
 
 committees:
   - title: Committees
