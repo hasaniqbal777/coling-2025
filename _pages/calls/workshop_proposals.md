@@ -38,7 +38,7 @@ All deadlines are 11:59PM [UTC-12:00](https://www.timeanddate.com/time/zone/time
 Workshop proposals should be submitted via the [COLING 2025 Workshop Proposal Submission Site](https://softconf.com/coling2025/wsCL25).
 
 Proposals should be submitted as PDF documents. Note that submissions should essentially be ready to be turned into a Call for Workshop Papers shortly after the  notification.
-The proposals should be at most two pages long for the main proposal, with additional two pages permitted for information about organisers, tentative program committee, and references. Hence, the entire proposal should not exceed FOUR pages in length, excluding references. Please note that workshops should either be 100% in-person or 100% virtual; hybrid formats will not be allowed. For in-person workshops, at least one workshop organiser should be physically present to run the workshop at COLING.
+The proposals should be at most two pages long for the main proposal, with additional two pages permitted for information about organisers, tentative program committee, and references. Hence, the entire proposal should not exceed FOUR pages in length, excluding references. **Please note that workshops should either be 100% in-person or 100% virtual; hybrid formats will not be allowed. For in-person workshops, at least one workshop organiser should be physically present to run the workshop at COLING.**
 
 ## Workshop Proposal Template (non-mandatory)
 https://www.overleaf.com/latex/templates/coling-2025-workshop-proposal-template/qzyhbgytvbjd 

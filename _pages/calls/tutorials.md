@@ -65,6 +65,7 @@ The proposals should be submitted no later than 31 July, 2024, 11:59 PM Samoa St
 
 Submission is electronic. Please submit the proposals using the START system at this URL: [https://softconf.com/coling2025/tutorialsCL25](https://softconf.com/coling2025/tutorialsCL25)
 
+**Please note that tutorials should either be 100% in-person or 100% virtual; hybrid formats will not be allowed. For in-person tutorials, at least one tutorial organiser should be physically present to run the tutorial at COLING.**
 
 ## Evaluation Criteria
 
