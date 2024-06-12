@@ -82,9 +82,7 @@ COLING 2025 will follow the ACL Anonymity Policy. As a result, no anonymity peri
 
 ### Multiple Submission Policy
 
-Papers which are submitted to COLING 2025 cannot be under review for other conferences or journals at the same time. The commitment process is treated as being under review for a conference. Authors can either commit their paper through ARR or directly submit it to the conference. Papers reviewed and committed to the conference through ARR cannot be submitted directly to the
-
- conference. In addition, we will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Submissions that violate these requirements will be desk rejected.
+Papers which are submitted to COLING 2025 cannot be under review for other conferences or journals at the same time. The commitment process is treated as being under review for a conference. Authors can either commit their paper through ARR or directly submit it to the conference. Papers reviewed and committed to the conference through ARR cannot be submitted directly to the conference. In addition, we will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Submissions that violate these requirements will be desk rejected.
 
 Website: [http://coling2025.org/](http://coling2025.org/)
 
