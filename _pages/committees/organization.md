@@ -173,6 +173,15 @@ institution="Macquarie University, Australia"
 email = ""
 %}
 
+<h2>Industrial Track Chairs</h2>
+{% include committee-member.html
+name="Kareem Darwish"
+picture="/assets/images/committee/Kareem-Darwish.jpeg"
+site=""
+institution="aiXplain, USA"
+email = ""
+%}
+
 <h2>Ethics Chairs</h2>
 
 {% include committee-member.html
@@ -190,6 +199,14 @@ name="Sakhar AlKhereyf"
 picture="/assets/images/committee/Sakhar-AlKhereyf.jpeg"
 site=""
 institution="King Abulaziz City for Science and Technology, Saudi Arabia"
+email = ""
+%}
+
+{% include committee-member.html
+name="Baotin Hu"
+picture="/assets/images/committee/person.jpg"
+site=""
+institution="Harbin Institute of Technology, China"
 email = ""
 %}
 
