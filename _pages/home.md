@@ -22,10 +22,11 @@ More information will be announced soon.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| June 24, 2024 | [Call for System Demonstrations](/calls/system_demonstrations) is posted.
 | May 24, 2024 | Submission link for [Call for Workshop Proposals](/calls/workshop_proposals) is posted.
 | May 17, 2024 | [Call for Tutorials](/calls/tutorials) is posted.
 | May 8, 2024 | [First Call for Main Conference Papers](/calls/main_conference_papers) is posted.
-| Apr 22, 2024 | [Call for Workshop Proposals](/calls/workshop_proposals) is posted.
+| April 22, 2024 | [Call for Workshop Proposals](/calls/workshop_proposals) is posted.
 {: .news-table}
 
 ## Important Dates
