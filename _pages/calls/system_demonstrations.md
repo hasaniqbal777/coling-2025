@@ -2,7 +2,7 @@
 title: COLING’2025 CALL FOR SYSTEM
 DEMONSTRATIONS
 layout: single
-excerpt: "COLING 2025 Workshop"
+excerpt: "COLING 2025 System Demonstrations"
 permalink: /calls/system_demonstrations/
 sidebar: 
     nav: "calls"
