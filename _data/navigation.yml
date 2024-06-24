@@ -42,7 +42,7 @@ calls:
         url: /calls/tutorials/
       - title: "Workshop Proposals"
         url: /calls/workshop_proposals/
-      - title: System Demonstrations
+      - title: "System Demonstrations"
         url: /calls/system_demonstrations/
 
 committees:
