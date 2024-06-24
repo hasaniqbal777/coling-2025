@@ -1,13 +1,12 @@
 ---
-title: COLING’2025 CALL FOR SYSTEM
-DEMONSTRATIONS
+title: Call for System Demonstrations
 layout: single
 excerpt: "COLING 2025 System Demonstrations"
 permalink: /calls/system_demonstrations/
 sidebar: 
     nav: "calls"
-toc: True
-toc_sticky: True
+toc: true
+toc_sticky: true
 ---
 
 ## Important Dates
