@@ -182,6 +182,25 @@ institution="aiXplain, USA"
 email = ""
 %}
 
+<h2>Sponsorship Chairs</h2>
+
+{% include committee-member.html
+name="Monojit Choudhury"
+picture="/assets/images/committee/monojit-choudhury-487px.jpg"
+site=""
+institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
+email = ""
+%}
+
+{% include committee-member.html
+name="Ahmed Dabbagh"
+picture="/assets/images/committee/Dr_Ahmed_Dabbagh.jpeg"
+site=""
+institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
+email = ""
+%}
+
+
 <h2>Ethics Chairs</h2>
 
 {% include committee-member.html
