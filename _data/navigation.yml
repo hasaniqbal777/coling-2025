@@ -16,6 +16,8 @@ main:
         url: /calls/workshop_proposals/
       - title: System Demonstrations
         url: /calls/system_demonstrations/
+      - title: Industry Track
+        url: /calls/industry_track/
 
   - title: "Committees"
     url: /organization
@@ -44,6 +46,8 @@ calls:
         url: /calls/workshop_proposals/
       - title: "System Demonstrations"
         url: /calls/system_demonstrations/
+      - title: "Industry Track"
+        url: /calls/industry_track/
 
 committees:
   - title: Committees
