@@ -94,7 +94,7 @@ COLING 2025 will not consider any paper that is under review in a journal or ano
 
 Submissions of identical or closely related work to multiple COLING 2025 tracks (e.g., to research track and industry track) will be treated as duplicate submissions. Such submissions violating the multiple submission policy will be rejected without review. The authors should also include the papers that their paper overlaps or extends in the references section as follows: *Anonymous Authors, “Title of the paper”, Under submission at COLING 2025 (TRACK NAME)*.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 **Is the industry track only for participants from industry?**
 
@@ -120,7 +120,7 @@ Absolutely. The industry track offers a forum to submit papers describing aspect
 
 Papers describing key lessons learned and challenges pertaining to real-world deployment of NLP and speech technologies are best suited for industry track. Authors are advised to review the call for papers for both tracks and submit to the track that best matches your work. The list of topics and reviewing criteria may be helpful. You can also reach out to the track chairs if you need help deciding.
 
-### Industry Track Chairs
+## Industry Track Chairs
 Contact: [industryCL25_coling2025@softconf.com](mailto:industryCL25_coling2025@softconf.com)
 
 - Kareem Darwish, aiXplain Inc. (USA)
