@@ -21,7 +21,7 @@ In particular, when submitting an anonymized preprint version, please specify it
 
 ## Style Files and Formatting
 
-<span style="color:red">The *COLING template MUST be used for your submission(s). If not, your submission(s) will be rejected.</span>.
+<span style="color:red">The *COLING template MUST be used for your submission(s). If not, your submission(s) will be rejected.</span>
 
 - All authors must follow the [general instructions for COLING 2025 proceedings](https://coling2025.org/downloads/coling-2025.pdf) which are an adaptation of (or rely on) the general instructions for *ACL proceedings, using the supplied style files.
 - Style files are directly available ([LaTeX](https://coling2025.org/downloads/coling-2025.zip), [Word](https://coling2025.org/downloads/coling-2025.docx)).
