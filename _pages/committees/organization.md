@@ -256,3 +256,13 @@ site=""
 institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""
 %}
+
+<h2>Publication Chairs</h2>
+
+{% include committee-member.html
+name="Emily Allaway"
+picture="/assets/images/committee/emily-allaway.png"
+site=""
+institution="University of Edinburgh, UK"
+email = ""
+%}
