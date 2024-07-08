@@ -22,7 +22,7 @@ More information will be announced soon.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| July 9, 2024 | [Submission and Style Guidelines](/calls/submission_style/) for COLING proceedings are posted.
+| July 9, 2024 | [Submission and Style Guidelines](/calls/submission_guidlines/) for COLING proceedings are posted.
 | June 30, 2024 | [Call for Industry Track](/calls/industry_track/) is posted.
 | June 24, 2024 | [Call for System Demonstrations](/calls/system_demonstrations/) is posted.
 | May 24, 2024 | Submission link for [Call for Workshop Proposals](/calls/workshop_proposals) is posted.

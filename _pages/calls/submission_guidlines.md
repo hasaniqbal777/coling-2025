@@ -2,7 +2,7 @@
 title: Submission and Style Guidelines
 layout: single
 excerpt: "COLING 2025 Submission and Style Guidelines"
-permalink: /calls/submission_style/
+permalink: /calls/submission_guidlines/
 sidebar: 
     nav: "calls"
 toc: true

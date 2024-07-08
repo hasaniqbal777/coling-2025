@@ -19,7 +19,7 @@ main:
       - title: Industry Track
         url: /calls/industry_track/
       - title: Submission and Style Guidelines
-        url: /calls/submission_style/
+        url: /calls/submission_guidlines/
 
   - title: "Committees"
     url: /organization
@@ -51,7 +51,7 @@ calls:
       - title: "Industry Track"
         url: /calls/industry_track/
       - title: "Submission and Style Guidelines"
-        url: /calls/submission_style/
+        url: /calls/submission_guidlines/
 
 committees:
   - title: Committees

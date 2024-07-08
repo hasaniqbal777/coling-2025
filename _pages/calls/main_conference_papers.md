@@ -63,7 +63,7 @@ All deadlines are 11:59PM [UTC-12:00](https://www.timeanddate.com/time/zone/time
 
 ## Submission Details
 
-COLING 2025 invites the submission of long papers of up to eight pages and short papers of up to four pages. These page limits only apply to the main body of the paper. At the end of the paper, after the main body but before the references, papers need to include a mandatory section discussing the limitations of the work and, optionally, a section discussing ethical considerations. Papers can include unlimited pages of references and an unlimited appendix.  Authors must follow the [submission guidelines](https://coling2025.org/calls/submission_style/) provided on the conference website.
+COLING 2025 invites the submission of long papers of up to eight pages and short papers of up to four pages. These page limits only apply to the main body of the paper. At the end of the paper, after the main body but before the references, papers need to include a mandatory section discussing the limitations of the work and, optionally, a section discussing ethical considerations. Papers can include unlimited pages of references and an unlimited appendix.  Authors must follow the [submission guidelines](https://coling2025.org/calls/submission_guidlines/) provided on the conference website.
 
 COLING 2025 adopts the ACL Ethics Policy.
 
