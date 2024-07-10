@@ -223,7 +223,7 @@ email = ""
 
 {% include committee-member.html
 name="Baotian Hu"
-picture="/assets/images/committee/person.jpg"
+picture="/assets/images/committee/hubaotian.png"
 site=""
 institution="Harbin Institute of Technology, China"
 email = ""
