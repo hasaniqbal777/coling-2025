@@ -9,34 +9,33 @@ toc: true
 toc_sticky: true
 ---
 
-## Paper Submission
+COLING 2025 invites the submission of long papers of up to eight pages and short papers of up to four pages. These page limits only apply to the main body of the paper. At the end of the paper (after the conclusions but before the references) papers need to include a mandatory section discussing the limitations of the work and, optionally, a section discussing ethical considerations. Papers can include unlimited pages of references and an unlimited appendix.  Authors should follow the [general instructions for COLING 2025 proceedings](https://coling2025.org/downloads/coling-2025.pdf), which are an adaptation of the general instructions for *ACL proceedings. 
 
-COLING 2025 invites submissions of up to eight (8) pages maximum, excluding references, for long papers, and four (4) pages, excluding references, for short papers and system demonstrations. Upon acceptance, final versions of papers will be given one additional page – up to nine (9) pages of content, for long papers, and to five (5) pages, for short papers and system demonstrations, excluding unlimited pages for acknowledgments and references – so that reviewers’ comments can be taken into account.
+To prepare your submission, please make sure to use the COLING 2025 style files available here:
 
-Submission is electronic, using the Softconf START conference management system. The submission site will be announced on the conference website soon.
+- [LaTeX](https://coling2025.org/downloads/coling-2025.zip)
+- [Word](https://coling2025.org/downloads/coling-2025.docx)
+- [Overleaf](https://www.overleaf.com/latex/templates/instructions-for-coling-2025-proceedings/hfhcytgpqmzf)
 
-Submission of papers (including an anonymized preprint) mush follow the ACL Policies for Submission, Review and Citation.
+<span style="color:red; font-weight:bold;">Papers deviating from the provided style files will be rejected without review.</span>
 
-In particular, when submitting an anonymized preprint version, please specify its full-path URL; the authors need to provide the full-path URL like [https://arxiv.org/abs/xxx](https://arxiv.org/abs/xxx) for a paper in arxiv.
+COLING 2025 adopts the ACL Ethics Policy.
 
-## Style Files and Formatting
+There are two routes for paper submission:
 
-<span style="color:red">The *COLING template MUST be used for your submission(s). If not, your submission(s) will be rejected.</span>
+### Direct submission
 
-- All authors must follow the [general instructions for COLING 2025 proceedings](https://coling2025.org/downloads/coling-2025.pdf) which are an adaptation of (or rely on) the general instructions for *ACL proceedings, using the supplied style files.
-- Style files are directly available ([LaTeX](https://coling2025.org/downloads/coling-2025.zip), [Word](https://coling2025.org/downloads/coling-2025.docx)).
-- The Overleaf template will be available soon.
-- It is highly recommended that appendices, which are material that can be read but are not critical, should be included in a single manuscript file, coming after the references of the main paper; In this standard guideline, both the main text and appendices should appear in a `single' manuscript file, without being separately maintained. But, authors also may place an appendix in a separate supplementary file, when the size of an appendix is too long to be included in a main PDF file.
-- Please do not modify these style files, or use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
+Papers should be submitted through *Softconf/START* using the following link:
+[https://softconf.com/coling2025/papers/](https://softconf.com/coling2025/papers/)
+
+Each paper will receive a minimum of three reviews. Authors will have the opportunity to provide a short rebuttal to clarify any misunderstandings. The review process will be double-blind. Reviewers will not see authors, authors will not see reviewers. Reviews and submissions will not be made publicly visible.
+
+### ACL Rolling Review (ARR) Papers
+
+Papers which have already been reviewed through the ACL Rolling Review (ARR) system can be committed to COLING 2025. These papers will not be re-reviewed. Senior Area Chairs and Program Chairs will make acceptance decisions based on the ARR reviews and meta-reviews.
 
 ## Optional Supplementary Materials: Appendices, Software and Data
-Each COLING 2025 submission can be accompanied by an appendix usually being included in a main PDF paper file, one `.tgz` or `.zip` archive containing software, and one `.tgz` or `.zip` archive containing data. COLING 2025 encourages the submission of these supplementary materials to improve the reproducibility of results, and to enable authors to provide additional information that does not fit in the paper. For example, preprocessing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work described in the paper can be put into the appendix. However, the paper submissions need to remain fully self-contained, as these supplementary materials are completely optional, and reviewers are not even asked to review or download them. If the pseudo-code or derivations or model specifications are an important part of the contribution, or if they are important for the reviewers to assess the technical correctness of the work, they should be a part of the main paper, and not appear in the appendix. Supplementary materials need to be fully anonymized to preserve the double-blind reviewing policy.
 
-## Appendices
+Each COLING 2025 submission can be accompanied by a single `.tgz` or `.zip` archive containing supplementary materials, such as program code and datasets. COLING 2025 encourages the submission of such supplementary materials to improve the reproducibility of results. For the main track, the supplementary materials need to be fully anonymized to preserve the double-blind reviewing policy.
 
-Appendices are material that can be read, and include lemmas, formulas, proofs, and tables that are not critical to the reading and understanding of the paper, as in *[ACLPUB](https://acl-org.github.io/ACLPUB/formatting.html#appendices). It is highly recommended that the appendices should come after the references; the main text and appendices should be contained in a `single` manuscript file, without being separately maintained. Letter them in sequence and provide an informative title: 
-*Appendix A. Title of Appendix*.
-
-## Extra space for ethical considerations
-
-Please note that extra space is allowed after the 8th page (4th page for short papers) for an ethics/broader impact statement. At submission time, this means that if you need extra space for the ethical considerations section, it should be placed after the conclusion so that it is possible to rapidly check that the rest of the paper still fits in 8 pages (4 pages for short papers). Ethical considerations sections, acknowledgements, and references do not count against these limits. For camera-ready versions 9 pages of content will be allowed for long (5 for short) papers. Ethical considerations sections, acknowledgements, and references do not count against these limits.
+Additional information, such as preprocessing decisions, model parameters or proofs should be put into the appendix of the main PDF submission. Note that submissions need to remain fully self-contained. In particular, any details that are important for reviewers to assess the technical correctness of the work should be included in the main body of the paper.

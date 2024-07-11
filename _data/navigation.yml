@@ -18,8 +18,6 @@ main:
         url: /calls/system_demonstrations/
       - title: Industry Track
         url: /calls/industry_track/
-      - title: Submission and Style Guidelines
-        url: /calls/submission_guidlines/
 
   - title: "Committees"
     url: /organization
@@ -50,6 +48,8 @@ calls:
         url: /calls/system_demonstrations/
       - title: "Industry Track"
         url: /calls/industry_track/
+  - title: "Submission"
+    children:
       - title: "Submission and Style Guidelines"
         url: /calls/submission_guidlines/
 
