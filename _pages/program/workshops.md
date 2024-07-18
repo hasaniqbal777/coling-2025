@@ -1,7 +1,7 @@
 ---
 title: Workshops
 layout: single
-excerpt: "ACL 2024 Conference Overview."
+excerpt: "COLING 2025 Workshops"
 permalink: /program/workshops/
 sidebar: 
     nav: "program"

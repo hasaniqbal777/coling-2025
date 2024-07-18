@@ -1,7 +1,7 @@
 ---
 title: Conference Overview
 layout: single
-excerpt: "ACL 2024 Conference Overview."
+excerpt: "COLING 2025 Program"
 permalink: /program/
 sidebar: 
     nav: "program"
