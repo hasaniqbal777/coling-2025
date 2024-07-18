@@ -56,7 +56,7 @@ The following workshops have been accepted for COLING 2025. <br>
       <td style="width: 100px;">In-person</td>
     </tr>
     <tr>
-      <td style="width: 500px;">The First Workshop on Multilingual Counterspeech Generation (MCG) <br> <a href="https://softconf.com/coling2025/MCG25/">Submission Link</a> | <a href="https://sites.google.com/view/multilang-counterspeech-gen">Workshop URL</a> </td>
+      <td style="width: 500px;">The First Workshop on Multilingual Counterspeech Generation (MCG) <br> <a href="https://softconf.com/coling2025/MCG25/">Submission Link</a> | Workshop URL </td>
       <td style="width: 100px;">In-person</td>
     </tr>
     <tr>
@@ -84,7 +84,7 @@ The following workshops have been accepted for COLING 2025. <br>
       <td style="width: 100px;">In-person</td>
     </tr>
     <tr>
-      <td style="width: 500px;">Authoring Aids at the Crossroads of AI, Cognitive Science and NLP (AAC-AI) <br> <a href="https://softconf.com/coling2025/AAC-AI25/">Submission Link</a> | <a href="https://sites.google.com/view/wraicogs1">Workshop URL</a> </td>
+      <td style="width: 500px;">Writing Aids at the Crossroads of AI, Cognitive Science and NLP WR-AI-CogS <br> <a href="https://softconf.com/coling2025/AAC-AI25/">Submission Link</a> | <a href="https://sites.google.com/view/wraicogs1">Workshop URL</a> </td>
       <td style="width: 100px;">In-person</td>
     </tr>
     <tr>
