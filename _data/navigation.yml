@@ -18,11 +18,14 @@ main:
         url: /calls/system_demonstrations/
       - title: Industry Track
         url: /calls/industry_track/
+      
+  - title: Program
+    url: /program/
+    dropdown:
+      - title: Workshops
+        url: /program/workshops/
 
-  - title: "Committees"
-    url: /organization
-
-  - title: "Venue"
+  - title: Venue
     url: /venue/
     dropdown:
       - title: Venue
@@ -34,6 +37,9 @@ main:
   
   - title: "Sponsorship"
     url: /sponsorship/
+
+  - title: Committee
+    url: /organization
 
 calls:
   - title: "Call for"
@@ -68,3 +74,9 @@ venue:
         url: /venue/visa/
       - title: "Travel"
         url: /venue/travel/
+
+program:
+  - title: Program
+    children:
+      - title: Workshops
+        url: /program/workshops/
