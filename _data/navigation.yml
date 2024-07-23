@@ -32,8 +32,10 @@ main:
         url: /venue/
       - title: Visa
         url: /venue/visa/
-      - title: Travel
-        url: /venue/travel/
+      - title: Important Information and FAQs
+        url: /venue/information/
+      - title: Places to Visit
+        url: /venue/places/
   
   - title: "Sponsorship"
     url: /sponsorship/
@@ -79,8 +81,12 @@ venue:
         url: /venue/
       - title: "Visa"
         url: /venue/visa/
-      - title: "Travel"
-        url: /venue/travel/
+      - title: Important Information
+        url: /venue/information/
+      - title: "Places to Visit"
+        url: /venue/places/
+      - title: FAQs
+        url: /venue/faqs/
 
 program:
   - title: Program
