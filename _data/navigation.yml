@@ -32,10 +32,12 @@ main:
         url: /venue/
       - title: Visa
         url: /venue/visa/
-      - title: Important Information and FAQs
+      - title: Important Information
         url: /venue/information/
       - title: Places to Visit
         url: /venue/places/
+      - title: FAQs
+        url: /venue/faqs/
   
   - title: "Sponsorship"
     url: /sponsorship/
