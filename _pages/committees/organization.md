@@ -2,7 +2,7 @@
 title: Organizing Committee
 layout: single
 excerpt: "COLING 2025 Organizing Committee."
-permalink: /organization/
+permalink: /committees/organization/
 sidebar: 
     nav: "committees"
 ---
@@ -232,16 +232,16 @@ email = ""
 <h2>Website Chairs</h2>
 
 {% include committee-member.html
-name="Zain Muhammad Mujahid"
-picture="/assets/images/committee/zmujahid.jpeg"
+name="Hasan Iqbal"
+picture="/assets/images/committee/Hasan-Iqbal.jpeg"
 site=""
 institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""
 %}
 
 {% include committee-member.html
-name="Hasan Iqbal"
-picture="/assets/images/committee/Hasan-Iqbal.jpeg"
+name="Zain Muhammad Mujahid"
+picture="/assets/images/committee/zmujahid.jpeg"
 site=""
 institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""

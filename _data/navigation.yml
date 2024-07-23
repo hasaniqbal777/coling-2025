@@ -39,7 +39,12 @@ main:
     url: /sponsorship/
 
   - title: Committee
-    url: /organization
+    url: /committees/organization
+    dropdown:
+      - title: Organizing Committee
+        url: /committees/organization/
+      - title: Senior Program Committee
+        url: /committees/program/
 
 calls:
   - title: "Call for"
@@ -63,7 +68,9 @@ committees:
   - title: Committees
     children:
       - title: "Organizing Committee"
-        url: /organization/
+        url: /committees/organization/
+      - title: "Senior Program Committee"
+        url: /committees/program/
 
 venue:
   - title: "Information for"
