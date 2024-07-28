@@ -36,8 +36,6 @@ main:
         url: /venue/information/
       - title: Places to Visit
         url: /venue/places/
-      - title: FAQs
-        url: /venue/faqs/
   
   - title: "Sponsorship"
     url: /sponsorship/
@@ -49,6 +47,9 @@ main:
         url: /committees/organization/
       - title: Senior Program Committee
         url: /committees/program/
+
+  - title: "FAQs"
+    url: /faqs/
 
 calls:
   - title: "Call for"
@@ -87,8 +88,6 @@ venue:
         url: /venue/information/
       - title: "Places to Visit"
         url: /venue/places/
-      - title: FAQs
-        url: /venue/faqs/
 
 program:
   - title: Program
