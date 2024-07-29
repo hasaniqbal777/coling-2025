@@ -56,7 +56,7 @@ The following workshops have been accepted for COLING 2025. <br>
       <td style="width: 100px;">In-person</td>
     </tr>
     <tr>
-      <td style="width: 500px;">The First Workshop on Multilingual Counterspeech Generation (MCG) <br> <a href="https://softconf.com/coling2025/MCG25/">Submission Link</a> | Workshop URL </td>
+      <td style="width: 500px;">The First Workshop on Multilingual Counterspeech Generation (MCG) <br> <a href="https://softconf.com/coling2025/MCG25/">Submission Link</a> | <a href="https://sites.google.com/view/multilang-counterspeech-gen/">Workshop URL</a> </td>
       <td style="width: 100px;">In-person</td>
     </tr>
     <tr>
