@@ -13,4 +13,4 @@ toc_sticky: True
 
 ### Are virtual presentations supported?
 
-The main conference is in-person only (not hybrid). However, there will be virtual presentation sessions, which will be virtual-only.  The virtual sessions will take place after the main conference (Jan 21-24, 2025) has finished, on Mon and Tue Jan 27-28, 2025;  these dates were chosen so that people who attend the main conference can attend the virtual sessions more easily.
+The main conference is in-person only (not hybrid). However, there will be virtual presentation sessions, which will take place some time after the main conference has finished on Mon and Tue Jan 27-28, 2025; so people who attend the main conference can attend the virtual sessions more easily.
