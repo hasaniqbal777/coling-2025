@@ -2,7 +2,7 @@
 title: General FAQs
 layout: single
 excerpt: "COLING 2025 General FAQs"
-permalink: /faqs/general
+permalink: /faqs/
 sidebar: 
     nav: "faqs"
 toc: True

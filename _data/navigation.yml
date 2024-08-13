@@ -43,10 +43,10 @@ main:
       - title: Senior Program Committee
         url: /committees/program/
   - title: "FAQs"
-    url: /faqs/general
+    url: /faqs/
     dropdown:
       - title: General
-        url: /faqs/general/
+        url: /faqs/
       - title: Submission
         url: /faqs/submission/
       - title: Virtual Participation
@@ -102,7 +102,7 @@ faqs:
   - title: FAQs
     children:
       - title: General
-        url: /faqs/general/
+        url: /faqs/
       - title: Submission
         url: /faqs/submission/
       - title: Virtual Participation

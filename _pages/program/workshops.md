@@ -22,7 +22,7 @@ The following workshops have been accepted for COLING 2025. <br>
   </thead>
   <tbody>
     <tr>
-      <td style="width: 500px;">VarDial 2025: The Twelfth Workshop on NLP for Similar Languages, Varieties and Dialects <br> <a href="https://softconf.com/coling2025/VarDial25/">Submission Link</a> | Workshop URL </td>
+      <td style="width: 500px;">VarDial 2025: The Twelfth Workshop on NLP for Similar Languages, Varieties and Dialects <br> <a href="https://softconf.com/coling2025/VarDial25/">Submission Link</a> | <a href="https://sites.google.com/view/vardial-2025">Workshop URL</a> </td>
       <td style="width: 100px;">In-person</td>
     </tr>
     <tr>
@@ -94,7 +94,7 @@ The following workshops have been accepted for COLING 2025. <br>
       <td style="width: 100px;">In-person</td>
     </tr>
     <tr>
-      <td style="width: 500px;">The Fifth Celtic Language Technology Workshop (CLT) <br> <a href="https://softconf.com/coling2025/CLT25/">Submission Link</a> | Workshop URL </td>
+      <td style="width: 500px;">The Fifth Celtic Language Technology Workshop (CLT) <br> <a href="https://softconf.com/coling2025/CLT25/">Submission Link</a> | <a href="https://cltworkshop.github.io/">Workshop URL</a> </td>
       <td style="width: 100px;">In-person</td>
     </tr>
     <tr>
