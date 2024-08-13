@@ -2,7 +2,7 @@
 title: Abu Dhabi FAQs
 layout: single
 excerpt: "Abu Dhabi FAQs"
-permalink: /faqs/abudhabi
+permalink: /faqs/abudhabi/
 sidebar: 
     nav: "faqs"
 toc: True

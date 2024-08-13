@@ -2,7 +2,7 @@
 title: Submission FAQs
 layout: single
 excerpt: "COLING 2025 Submission FAQs"
-permalink: /faqs/submission
+permalink: /faqs/submission/
 sidebar: 
     nav: "faqs"
 toc: True
