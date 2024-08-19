@@ -22,6 +22,8 @@ main:
     dropdown:
       - title: Workshops
         url: /program/workshops/
+      - title: Co-Located Events
+        url: /program/colocated/
   - title: Venue
     url: /venue/
     dropdown:
@@ -97,6 +99,8 @@ program:
     children:
       - title: Workshops
         url: /program/workshops/
+      - title: Co-Located Events
+        url: /program/colocated/
 
 faqs:
   - title: FAQs

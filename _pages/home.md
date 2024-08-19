@@ -22,6 +22,7 @@ More information will be announced soon.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| August 19, 2024 | [News for Arabic NLP/CL Winter School](/program/arabic-winter-school/) is posted.
 | July 12, 2024 | [Submission and Style Guidelines](/calls/submission_guidlines/) for COLING Main Conference Papers are posted.
 | July 12, 2024 | [Second Call for Main Conference Papers](/calls/main_conference_papers/) is posted.
 | June 30, 2024 | [Call for Industry Track](/calls/industry_track/) is posted.
@@ -34,6 +35,7 @@ More information will be announced soon.
 
 ## Important Dates
 
+Arabic NLP/CL Winter School | Saturday - Sunday | January 18 - 19, 2025
 Workshop and Tutorials | Sunday - Monday | January 19 - 20, 2025
 Main Conference | Tuesday - Friday | January 21 - 24, 2025
 
