@@ -10,8 +10,7 @@ excerpt: "Abu Dhabi, UAE<br>January 19-24, 2025"
 
 ## Welcome!
 
-The 31st International Conference on Computational Linguistics (COLING 2025) will take place in **Abu Dhabi, UAE** from **January 19th to 24th, 2025**.
-More information will be announced soon.
+The 31st International Conference on Computational Linguistics (COLING 2025) will take place in **Abu Dhabi, UAE** from **January 19th to 24th, 2025**. The main conference is in-person only, not hybrid. However, there will be virtual presentation sessions, for those who cannot come in person, which will take place on **January 27 to 28, 2025**; this will also allow people who attend the main conference to attend the virtual sessions more easily.
 
 ## News
 
