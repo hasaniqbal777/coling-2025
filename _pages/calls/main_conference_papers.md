@@ -71,6 +71,8 @@ Each paper will receive a minimum of three reviews. Authors will have the opport
 
 Papers which have already been reviewed through the ACL Rolling Review (ARR) system can be committed to COLING 2025. These papers will not be re-reviewed. Senior Area Chairs and Program Chairs will make acceptance decisions based on the ARR reviews and meta-reviews.
 
+<span style="color:blue; font-weight:bold;">For additional information, please see the <a href="https://coling2025.org/faqs/submission/">FAQ for submissions.</a></span>
+
 ## Optional Supplementary Materials: Appendices, Software and Data
 
 Each COLING 2025 submission can be accompanied by a single `.tgz` or `.zip` archive containing supplementary materials, such as program code and datasets. COLING 2025 encourages the submission of such supplementary materials to improve the reproducibility of results. For the main track, the supplementary materials need to be fully anonymized to preserve the double-blind reviewing policy.
