@@ -109,8 +109,6 @@ To prepare your submission, please make sure to use the COLING 2025 style files 
 - [Word](https://coling2025.org/downloads/coling-2025.docx)
 - [Overleaf](https://www.overleaf.com/latex/templates/instructions-for-coling-2025-proceedings/hfhcytgpqmzf)
 
-COLING 2025 adopts the ACL Ethics Policy.
-
 ### Video
 A short (max. 2 minutes) video demonstrating the system. This video will be used to evaluate the paper but won’t be published unless requested.
 
