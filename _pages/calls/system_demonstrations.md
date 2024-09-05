@@ -101,6 +101,16 @@ The maximum submission length is 6 pages, but with extra space for an optional e
 
 Papers must be submitted in English and must conform to the official COLING 2025 templates available from the link below; the only acceptable format for submissions is PDF. Your paper does not need to be anonymous (see Reviewing Policy). Any papers that do not follow the official style guidelines and page limits will be automatically rejected.
 
+Authors should follow the [general instructions for COLING 2025 proceedings](https://coling2025.org/downloads/coling-2025.pdf), which are an adaptation of the general instructions for *ACL proceedings. 
+
+To prepare your submission, please make sure to use the COLING 2025 style files available here:
+
+- [LaTeX](https://coling2025.org/downloads/coling-2025.zip)
+- [Word](https://coling2025.org/downloads/coling-2025.docx)
+- [Overleaf](https://www.overleaf.com/latex/templates/instructions-for-coling-2025-proceedings/hfhcytgpqmzf)
+
+COLING 2025 adopts the ACL Ethics Policy.
+
 ### Video
 A short (max. 2 minutes) video demonstrating the system. This video will be used to evaluate the paper but won’t be published unless requested.
 
