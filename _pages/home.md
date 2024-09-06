@@ -36,7 +36,8 @@ The 31st International Conference on Computational Linguistics (COLING 2025) wil
 
 Arabic NLP/CL Winter School | Saturday - Sunday | January 18 - 19, 2025
 Workshop and Tutorials | Sunday - Monday | January 19 - 20, 2025
-Main Conference | Tuesday - Friday | January 21 - 24, 2025
+Main Conference (In-Person Only) | Tuesday - Friday | January 21 - 24, 2025
+Main Conference (Virtual Only) |   Monday - Tuesday | January 27 - 28, 2025
 
 {: .news-table}
 
