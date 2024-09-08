@@ -266,3 +266,11 @@ site=""
 institution="University of Edinburgh, UK"
 email = ""
 %}
+
+{% include committee-member.html
+name="Guillermo Cámbara"
+picture="/assets/images/committee/person.jpg"
+site=""
+institution="Amazon"
+email = ""
+%}
