@@ -42,7 +42,3 @@ No, on the contrary, they will never be together again. The joint conference in 
 ### What will the acceptance rate be for the main track at COLING 2025?
 
 We cannot say now of course, since it depends on many factors, but we point to [the acceptance rates of past COLING conferences](https://aclweb.org/aclwiki/Conference_acceptance_rates) as a rough guide: around 30%.
-
-## Do the Limitations and Ethical Considerations sections count toward the 8-page limit for long papers (4-page limit for short papers)?
-
-No. The Limitations and Ethical Considerations sections do not count toward the page limit. They should be included at the end of the paper, after the conclusion and before the references, and can take up to one extra page.

@@ -274,3 +274,23 @@ site=""
 institution="Amazon"
 email = ""
 %}
+
+<h2>Volunteer Chairs</h2>
+
+{% include committee-member.html
+name="Artem Shelmanov"
+picture="/assets/images/committee/person.jpg"
+site=""
+institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
+email = ""
+%}
+
+<h2>Virtual Infrastructure Chairs</h2>
+
+{% include committee-member.html
+name="Alexander Shvets"
+picture="/assets/images/committee/Aleksandr-Shvets.jpg"
+site=""
+institution="Barcelona Supercomputing Center, Spain"
+email = ""
+%}

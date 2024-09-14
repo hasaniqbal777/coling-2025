@@ -13,6 +13,10 @@ toc_sticky: True
 
 ## General Questions
 
+## Do the Limitations and Ethical Considerations sections count toward the 8-page limit for long papers (4-page limit for short papers)?
+
+No. The Limitations and Ethical Considerations sections do not count toward the page limit. They should be included at the end of the paper, after the conclusion and before the references, and can take up to one extra page.
+
 ### Is it permissible for an author to be listed on multiple papers submitted to the conference?
 
 **Yes**. However, it may be the case that different authors need to register to present multiple papers (the registration policy has not been decided yet).

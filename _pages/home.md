@@ -12,6 +12,8 @@ excerpt: "Abu Dhabi, UAE<br>January 19-24, 2025"
 
 The 31st International Conference on Computational Linguistics (COLING 2025) will take place in **Abu Dhabi, UAE** from **January 19th to 24th, 2025**. The main conference is in-person only, not hybrid. However, there will be virtual presentation sessions, for those who cannot come in person, which will take place on **January 27 to 28, 2025**; this will also allow people who attend the main conference to attend the virtual sessions more easily.
 
+<span style="color:red; font-weight:bold;">The deadline for the direct submission is September 16, 2024. The ARR commitment deadline is October 20, 2024. </span>
+
 ## News
 
 **The official COLING 2025 website is launched.**
@@ -34,6 +36,8 @@ The 31st International Conference on Computational Linguistics (COLING 2025) wil
 
 ## Important Dates
 
+ARR Commitment Deadline | Sunday | October 20, 2024
+Direct Submission Deadline | Monday | September 16, 2024
 Arabic NLP/CL Winter School | Saturday - Sunday | January 18 - 19, 2025
 Workshop and Tutorials | Sunday - Monday | January 19 - 20, 2025
 Main Conference (In-Person Only) | Tuesday - Friday | January 21 - 24, 2025
