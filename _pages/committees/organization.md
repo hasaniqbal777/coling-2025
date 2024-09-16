@@ -205,7 +205,7 @@ email = ""
 
 {% include committee-member.html
 name="Zeerak Talat"
-picture="/assets/images/committee/person.jpg"
+picture="/assets/images/committee/zeerak.png"
 site=""
 institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""
