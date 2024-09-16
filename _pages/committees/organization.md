@@ -279,7 +279,7 @@ email = ""
 
 {% include committee-member.html
 name="Artem Shelmanov"
-picture="/assets/images/committee/Artem_Shelmanov.jpg"
+picture="/assets/images/committee/Artem_Shelmanov.png"
 site=""
 institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""
