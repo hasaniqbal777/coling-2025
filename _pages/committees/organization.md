@@ -151,7 +151,7 @@ email = ""
 <h2>Demonstration Chairs</h2>
 {% include committee-member.html
 name="Brodie Mather"
-picture="/assets/images/committee/person.jpg"
+picture="/assets/images/committee/brodie.jpeg"
 site=""
 institution="The Institute of Human & Machine Cognition, USA"
 email = ""
