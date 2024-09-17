@@ -269,7 +269,7 @@ email = ""
 
 {% include committee-member.html
 name="Guillermo Cámbara"
-picture="/assets/images/committee/person.jpg"
+picture="/assets/images/committee/guille_1.png"
 site=""
 institution="Amazon"
 email = ""
