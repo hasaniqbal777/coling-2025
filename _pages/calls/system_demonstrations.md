@@ -96,7 +96,7 @@ The submissions should address the following questions:
 There are two parts to the submission, the paper and a video.
 
 ### Paper
-The maximum submission length is 6 pages, but with extra space for an optional ethics/broader impact statement (only necessary if you think you may want to preempt reviewer questions, given the conference’s ethics policy) and unlimited pages for references. Accepted papers will be given one additional page of content so that reviewers’ comments can be taken into account.
+The maximum submission length is 6 pages, but with extra space for an optional ethics/broader impact statement (only necessary if you think you may want to preempt reviewer questions, given the conference’s ethics policy), unlimited pages for references and an unlimited appendix. Accepted papers will be given one additional page of content so that reviewers’ comments can be taken into account.
 
 Papers must be submitted in English and must conform to the official COLING 2025 templates available from the link below; the only acceptable format for submissions is PDF. Your paper does not need to be anonymous (see Reviewing Policy). Any papers that do not follow the official style guidelines and page limits will be automatically rejected.
 
