@@ -71,7 +71,6 @@ sidebar:
   - Maja Popović, *ADAPT Centre, Dublin City University*
 
 - **Phonology, Morphology, and Word Segmentation**
-  - Hai Zhao, *Shanghai Jiao Tong University*
   - Kemal Oflazer, *Carnegie Mellon University*
   - Eleanor Chodroff, *University of Zurich*
   - Ryan Cotterell, *ETH Zürich*
@@ -113,4 +112,4 @@ sidebar:
   - Vincent Ng, *University of Texas at Dallas*
   - Joel Tetrault, *Dataminr*
   - Sophia Ananiadou, *University of Manchester*
-  
+  - Hai Zhao, *Shanghai Jiao Tong University*
