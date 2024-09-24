@@ -211,6 +211,14 @@ institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""
 %}
 
+{% include committee-member.html
+name="Zeerak Talat"
+picture="/assets/images/committee/Su_Lin.png"
+site=""
+institution="Microsoft Research"
+email = ""
+%}
+
 <h2>Publicity/Social Media Chairs</h2>
 
 {% include committee-member.html

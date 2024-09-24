@@ -16,7 +16,7 @@ The following workshops have been accepted for COLING 2025. <br>
 <table style="font-size: 18px;">
   <thead>
     <tr>
-      <th style="width: 500px;">Workshop Title</th>
+      <th style="width: 500px;">Workshop</th>
       <th style="width: 50px;">Format</th>
     </tr>
   </thead>

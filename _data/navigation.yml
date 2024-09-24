@@ -1,7 +1,6 @@
 # main links
 #in masthead.html
 main:
-
   - title: "About COLING"
     url: /about/
   - title: Calls
@@ -22,6 +21,8 @@ main:
     dropdown:
       - title: Workshops
         url: /program/workshops/
+      - title: Tutorials
+        url: /program/tutorials/
       - title: Co-Located Events
         url: /program/colocated/
   - title: Venue
@@ -97,8 +98,12 @@ venue:
 program:
   - title: Program
     children:
+      - title: Conference Overview
+        url: /program/
       - title: Workshops
         url: /program/workshops/
+      - title: Tutorials
+        url: /program/tutorials/
       - title: Co-Located Events
         url: /program/colocated/
 
