@@ -23,7 +23,7 @@ The 31st International Conference on Computational Linguistics (COLING 2025) wil
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| August 19, 2024 | [News for Arabic NLP/CL Winter School](/program/arabic-winter-school/) is posted.
+| August 19, 2024 | [News for Arabic NLP/CL Winter School](/program/colocated/#arabic-nlpcl-winter-school/) is posted.
 | July 12, 2024 | [Submission and Style Guidelines](/calls/submission_guidlines/) for COLING Main Conference Papers are posted.
 | July 12, 2024 | [Second Call for Main Conference Papers](/calls/main_conference_papers/) is posted.
 | June 30, 2024 | [Call for Industry Track](/calls/industry_track/) is posted.
