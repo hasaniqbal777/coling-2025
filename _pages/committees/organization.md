@@ -212,7 +212,7 @@ email = ""
 %}
 
 {% include committee-member.html
-name="Zeerak Talat"
+name="Su Lin"
 picture="/assets/images/committee/Su_Lin.png"
 site=""
 institution="Microsoft Research"
