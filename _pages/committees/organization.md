@@ -114,6 +114,14 @@ institution="New York University Abu Dhabi, UAE<br>Mohamed bin Zayed University 
 email = ""
 %}
 
+{% include committee-member.html
+name="Ahmed Dabbagh"
+picture="/assets/images/committee/Dr_Ahmed_Dabbagh.jpeg"
+site=""
+institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
+email = ""
+%}
+
 <h2>Workshop Chairs</h2>
 {% include committee-member.html
 name="Katsuhito Sudoh"
