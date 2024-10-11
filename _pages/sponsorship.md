@@ -21,7 +21,7 @@ If you want to become Sponsor of COLING'2025, please, have a look at the [COLING
 
 ## Destination partner
 <div style="text-align:center; margin-bottom: 30px;">
-  <img src="/assets/images/partner/ADT_DescriptorLogo.png" style="max-width: 100%; height: auto;" />
+  <img src="/assets/images/partner/ADT_DescriptorLogo.png" style="max-width: 70%; height: auto;" />
 </div>
 
 
