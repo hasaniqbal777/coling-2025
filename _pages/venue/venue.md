@@ -21,7 +21,18 @@ To find out more, please visit [this page](https://visitabudhabi.ae/en).
 
 ## About the Venue
 
-COLING 2025 Venue will be announced soon.
+COLING 2025 will take place in the [Abu Dhabi National Exhibition Centre (ADNEC)](https://adnec.ae/). ADNEC is a multi-award-winning venue offering organizers of exhibitions, conferences, and events outstanding facilities spread over a total space of 151,000 square meters. ADNEC is just 15 minutes away from the rapidly expanding Abu Dhabi International Airport which serves over 50 airlines and 100 destinations in 46 countries around the globe. It is only 20 minutes from downtown Abu Dhabi and 90 minutes from Dubai International Airport.
+
+- Address: Abu Dhabi National Exhibitions Company, Khaleej Al Arabi Street, P.O. Box 5546, Abu Dhabi, United Arab Emirates
+- Phone: +971 (0) 2 444 6900
+- Web: [https://adnec.ae/](https://adnec.ae/)
+- E-mail: [customer.services@adnec.ae](customer.services@adnec.ae)
+
+For a virtual tour of ADNEC, [click here](https://www.adnec.ae/en/discover-adnec/virtual-tour).
+
+<figure>
+  <img src="/assets/images/abudhabi/adnec.jpeg" alt="ADNEC" style="width:100%">
+</figure>
 
 ## Transportation
 
