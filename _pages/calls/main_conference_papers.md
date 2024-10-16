@@ -73,6 +73,8 @@ Papers which have already been reviewed through the ACL Rolling Review (ARR) sys
 
 <span style="color:blue; font-weight:bold;">For additional information, please see the <a href="https://coling2025.org/faqs/submission/">FAQ for submissions.</a></span>
 
+ARR papers should be committed using [Softconf/START](https://softconf.com/coling2025/papers/). When making a new submission, you will be able to specify the details of the ARR paper that you want to commit, including the openreview ID of your paper.
+
 ## Optional Supplementary Materials: Appendices, Software and Data
 
 Each COLING 2025 submission can be accompanied by a single `.tgz` or `.zip` archive containing supplementary materials, such as program code and datasets. COLING 2025 encourages the submission of such supplementary materials to improve the reproducibility of results. For the main track, the supplementary materials need to be fully anonymized to preserve the double-blind reviewing policy.
