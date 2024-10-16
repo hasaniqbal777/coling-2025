@@ -24,9 +24,6 @@ If you want to become Sponsor of COLING'2025, please, have a look at the [COLING
   <img src="/assets/images/partner/ADT_DescriptorLogo.png" style="max-width: 70%; height: auto;" />
 </div>
 
-
 ## Sponsors
-
-
 
 {% include sponsors-list id="sponsors" layout="third" %}

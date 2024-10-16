@@ -310,3 +310,21 @@ site=""
 institution="Barcelona Supercomputing Center, Spain"
 email = ""
 %}
+
+<h2>Best Paper Committee Chairs</h2>
+
+{% include committee-member.html
+name="Kevin Duh"
+picture="/assets/images/committee/Kevin-Duh.png"
+site=""
+institution="Johns Hopkins University, USA"
+email = ""
+%}
+
+{% include committee-member.html
+name="Aline Villavicencio"
+picture="/assets/images/committee/A.Villavicencio.jpg"
+site=""
+institution="University of Sheffield, UK"
+email = ""
+%}
