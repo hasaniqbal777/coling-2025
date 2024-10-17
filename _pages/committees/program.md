@@ -8,108 +8,108 @@ sidebar:
 ---
 
 - **Linguistic Theories, Cognitive Modeling and Psycholinguistics**
-  - Abdellah Fourtassi, *Aix-Marseille Université*
-  - Jordan Kodner, *Stony Brook University*
-  - David Mortensen, *Carnegie Mellon University (CMU)*
+  - [Abdellah Fourtassi](mailto:abdellah.fourtassi@gmail.com), *Aix-Marseille Université*
+  - [Jordan Kodner](mailto:jordan.kodner@stonybrook.edu), *Stony Brook University*
+  - [David Mortensen](mailto:dmortens@andrew.cmu.edu), *Carnegie Mellon University (CMU)*
 
 - **Dialogue and Conversational Interaction**
-  - Chloé Clavel, *INRIA*
-  - Wenjie Li, *The Hong Kong Polytechnic University*
-  - Kallirroi Georgila, *University of Southern California*
+  - [Chloé Clavel](mailto:chloe.clavel@inria.fr), *INRIA*
+  - [Wenjie Li](mailto:cswjli@comp.polyu.edu.hk), *The Hong Kong Polytechnic University*
+  - [Kallirroi Georgila](mailto:kgeorgila@ict.usc.edu), *University of Southern California*
 
 - **Discourse and Pragmatics**
-  - Sharid Loáiciga, *University of Gothenburg*
-  - Philippe Muller, *University of Toulouse*
-  - Sebastian Schuster, *University College London*
+  - [Sharid Loáiciga](mailto:sharid.loaiciga@gu.se), *University of Gothenburg*
+  - [Philippe Muller](mailto:philippe.muller@irit.fr), *University of Toulouse*
+  - [Sebastian Schuster](mailto:s.schuster@ucl.ac.uk), *University College London*
 
 - **Information Retrieval and Text Mining**
-  - Goran Glavaš, *University of Würzburg*
-  - Wai Lam, *Chinese University of Hong Kong*
-  - Pierre Zweigenbaum, *University Paris-Saclay, LISN, CNRS*
+  - [Goran Glavaš](mailto:gogo.glavas@gmail.com), *University of Würzburg*
+  - [Wai Lam](mailto:wlam@se.cuhk.edu.hk), *Chinese University of Hong Kong*
+  - [Pierre Zweigenbaum](mailto:pz@limsi.fr), *University Paris-Saclay, LISN, CNRS*
 
 - **Ethics, Bias, and Fairness**
-  - Maria Antoniak, *Allen Institute for AI*
-  - Danushka Bollegalla, *University of Liverpool*
+  - [Maria Antoniak](mailto:maria.antoniak@colorado.edu), *Allen Institute for AI*
+  - [Danushka Bollegalla](mailto:danushka.bollegala@gmail.com), *University of Liverpool*
 
 - **Reasoning, Question Answering, and Sentence-level Semantics**
-  - Marie-Catherine de Marneffe, *Université Catholique de Louvain*
-  - Sanda Harabagiu, *University of Texas at Dallas*
-  - Niranjan Balasubramanian, *Stony Brook University*
+  - [Marie-Catherine de Marneffe](mailto:marie-catherine.demarneffe@uclouvain.be), *Université Catholique de Louvain*
+  - [Sanda Harabagiu](mailto:sanda@utdallas.edu), *University of Texas at Dallas*
+  - [Niranjan Balasubramanian](mailto:niranjan@cs.stonybrook.edu), *Stony Brook University*
 
 - **Information Extraction**
-  - Naoaki Okazaki, *Tokyo Institute of Technology*
-  - Qifan Wang, *META AI*
+  - [Naoaki Okazaki](mailto:okazaki@c.titech.ac.jp), *Tokyo Institute of Technology*
+  - [Qifan Wang](mailto:wqfcr618@gmail.com), *META AI*
 
 - **Language Modeling**
-  - Xiaodong Liu, *Microsoft Research*
-  - Lun-Wei Ku, *Academia Sinica*
-  - Soujanya Poria, *University of Singapore*
+  - [Xiaodong Liu](mailto:xiaodl@microsoft.com), *Microsoft Research*
+  - [Lun-Wei Ku](mailto:lunwei.jennifer.ku@gmail.com), *Academia Sinica*
+  - [Soujanya Poria](mailto:sporia@sutd.edu.sg), *University of Singapore*
 
 - **Language Resources and Evaluation**
-  - Serge Sharoff, *University of Leeds*
-  - Valerio Basile, *University of Turin*
-  - Nafise Sadat Moosavi, *University of Sheffield*
+  - [Serge Sharoff](mailto:S.Sharoff@leeds.ac.uk), *University of Leeds*
+  - [Valerio Basile](mailto:valerio.basile@unito.it), *University of Turin*
+  - [Nafise Sadat Moosavi](mailto:n.s.moosavi@sheffield.ac.uk), *University of Sheffield*
 
 - **Lexical Semantics**
-  - Aina Garí Soler, *Télécom Paris*
-  - Andrey Kutuzov, *University of Oslo*
-  - Sebastian Padó, *University of Stuttgart*
+  - [Aina Garí Soler](mailto:aina.garisoler@telecom-paris.fr), *Télécom Paris*
+  - [Andrey Kutuzov](mailto:andreku@ifi.uio.no), *University of Oslo*
+  - [Sebastian Padó](mailto:pado@ims.uni-stuttgart.de), *University of Stuttgart*
 
 - **Low-resourced and Less Studied Languages**
-  - Cristina España i Bonet, *Universitat Politècnica de Catalunya (UPC)*
-  - Yves Scherrer, *University of Oslo*
-  - Zoey Liu, *University of Florida*
+  - [Cristina España i Bonet](mailto:cristinae.uni@gmail.com), *Universitat Politècnica de Catalunya (UPC)*
+  - [Yves Scherrer](mailto:yvessc@ifi.uio.no), *University of Oslo*
+  - [Zoey Liu](mailto:liu.ying@ufl.edu), *University of Florida*
 
 - **Machine Learning for CL/NLP**
-  - João Sedoc, *New York University (NYU)*
-  - Bing Liu, *University of Illinois at Chicago (UIC)*
-  - Christos Christodoulopoulos, *Amazon*
+  - [João Sedoc](mailto:joao.sedoc@gmail.com), *New York University (NYU)*
+  - [Bing Liu](mailto:liub@uic.edu), *University of Illinois at Chicago (UIC)*
+  - [Christos Christodoulopoulos](mailto:chrchrs@amazon.co.uk), *Amazon*
 
 - **Multilinguality and Machine Translation**
-  - Ondřej Bojar, *Charles University*
-  - Benjamin Marie, *4i*
-  - Maja Popović, *ADAPT Centre, Dublin City University*
+  - [Ondřej Bojar](mailto:bojar@ufal.mff.cuni.cz), *Charles University*
+  - [Benjamin Marie](mailto:nlp@benjaminmarie.com), *4i*
+  - [Maja Popović](mailto:maja.popovic@adaptcentre.ie), *ADAPT Centre, Dublin City University*
 
 - **Phonology, Morphology, and Word Segmentation**
-  - Kemal Oflazer, *Carnegie Mellon University*
-  - Eleanor Chodroff, *University of Zurich*
-  - Ryan Cotterell, *ETH Zürich*
+  - [Kemal Oflazer](mailto:ko@andrew.cmu.edu), *Carnegie Mellon University*
+  - [Eleanor Chodroff](mailto:eleanor.chodroff@uzh.ch), *University of Zurich*
+  - [Ryan Cotterell](mailto:ryan.cotterell@gmail.com), *ETH Zürich*
 
 - **Syntax, Tagging, Chunking and Parsing**
-  - Yue Zhang, *Westlake University*
-  - Miryam de Lhoneux, *KU Leuven*
-  - Natalie Schluter, *Apple and Technical University of Denmark*
+  - [Yue Zhang](mailto:yue.zhang@wias.org.cn), *Westlake University*
+  - [Miryam de Lhoneux](mailto:miryam.delhoneux@kuleuven.be), *KU Leuven*
+  - [Natalie Schluter](mailto:natschluter@apple.com), *Apple and Technical University of Denmark*
 
 - **Multimodal and Grounded Language Acquisition, HRI**
-  - Casey Kennington, *Boise State University*
-  - Malihe Alikhani, *Northeastern University*
+  - [Casey Kennington](mailto:caseykennington@boisestate.edu), *Boise State University*
+  - [Malihe Alikhani](mailto:m.alikhani@northeastern.edu), *Northeastern University*
 
 - **Natural Language Generation, Summarization and Simplification**
-  - Kathy McKeown, *Columbia University*
-  - Xiaojun Wan, *Peking University*
-  - Fei Liu, *Emory University*
+  - [Kathy McKeown](mailto:kathy@cs.columbia.edu), *Columbia University*
+  - [Xiaojun Wan](mailto:wanxiaojun@pku.edu.cn), *Peking University*
+  - [Fei Liu](mailto:fei.liu@emory.edu), *Emory University*
 
 - **Offensive and Non-Inclusive Language Detection and Analysis**
-  - Sara Tonelli, *Fondazione Bruno Kessler*
-  - Eduardo Blanco, *University of Arizona*
+  - [Sara Tonelli](mailto:satonelli@fbk.eu), *Fondazione Bruno Kessler*
+  - [Eduardo Blanco](mailto:eduardoblanco@arizona.edu), *University of Arizona*
 
 - **Sentiment Analysis, Opinion and Argument Mining**
-  - Elena Cabrio, *Université Côte d'Azur*
-  - Manfred Stede, *Potsdam University*
-  - Simone Paolo Ponzetto, *Universität Mannheim*
+  - [Elena Cabrio](mailto:elena.cabrio@univ-cotedazur.fr), *Université Côte d'Azur*
+  - [Manfred Stede](mailto:stede@uni-potsdam.de), *Potsdam University*
+  - [Simone Paolo Ponzetto](mailto:ponzetto@uni-mannheim.de), *Universität Mannheim*
 
 - **Speech Recognition and Synthesis and Spoken Language Understanding**
-  - Rita Singh, *Carnegie Mellon University (CMU)*
-  - Frédéric Bechet, *Aix-Marseille Université*
-  - Sakriani Sakti, *Nara Institute of Science and Technology*
+  - [Rita Singh](mailto:rsingh@cs.cmu.edu), *Carnegie Mellon University (CMU)*
+  - [Frédéric Bechet](mailto:frederic.bechet@lis-lab.fr), *Aix-Marseille Université*
+  - [Sakriani Sakti](ssakti@is.naist.jp), *Nara Institute of Science and Technology*
 
 - **Interpretability and Explainability**
-  - Nadir Durrani, *Qatar Computing Research Institute*
-  - Carolin Lawrence, *NEC Laboratories Europe*
+  - [Nadir Durrani](mailto:ndurrani@hbku.edu.qa), *Qatar Computing Research Institute*
+  - [Carolin Lawrence](mailto:Carolin.Lawrence@neclab.eu), *NEC Laboratories Europe*
 
 - **NLP and LLM Applications**
-  - Dina Demner Fushman, *National Library of Medicine*
-  - Vincent Ng, *University of Texas at Dallas*
-  - Joel Tetrault, *Dataminr*
-  - Sophia Ananiadou, *University of Manchester*
-  - Hai Zhao, *Shanghai Jiao Tong University*
+  - [Dina Demner Fushman](mailto:ddemner@mail.nih.gov), *National Library of Medicine*
+  - [Vincent Ng](mailto:vince@utdallas.edu), *University of Texas at Dallas*
+  - [Joel Tetrault](mailto:tetreaul@gmail.com), *Dataminr*
+  - [Sophia Ananiadou](mailto:Sophia.Ananiadou@manchester.ac.uk), *University of Manchester*
+  - [Hai Zhao](mailto:zhaohai@cs.sjtu.edu.cn), *Shanghai Jiao Tong University*
