@@ -67,7 +67,7 @@ sidebar:
 
 - **Multilinguality and Machine Translation**
   - [Ondřej Bojar](mailto:bojar@ufal.mff.cuni.cz), *Charles University*
-  - [Benjamin Marie](mailto:nlp@benjaminmarie.com), *4i*
+  - [Benjamin Marie](mailto:nlp@benjaminmarie.com), *The Kaitchup*
   - [Maja Popović](mailto:maja.popovic@adaptcentre.ie), *ADAPT Centre, Dublin City University*
 
 - **Phonology, Morphology, and Word Segmentation**
