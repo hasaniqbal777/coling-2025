@@ -38,6 +38,7 @@ The 31st International Conference on Computational Linguistics (COLING 2025) wil
 
 Direct Submission Deadline | Monday | September 16, 2024
 ARR Commitment Deadline | Sunday | October 20, 2024
+Registration opens | Friday | November 15, 2024
 Notification of acceptance | Friday | November 29, 2024
 Arabic NLP/CL Winter School | Saturday - Sunday | January 18 - 19, 2025
 Workshop and Tutorials | Sunday - Monday | January 19 - 20, 2025

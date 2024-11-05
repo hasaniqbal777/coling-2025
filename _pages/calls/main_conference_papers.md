@@ -94,7 +94,6 @@ All deadlines are 11:59PM [UTC-12:00](https://www.timeanddate.com/time/zone/time
 | Deadline for direct submissions | September 16, 2024 |
 | Commitment deadline for ARR papers | October 20, 2024 |
 | Author rebuttal phase (for direct submissions) | October 30 - November 1, 2024 |
-| Registration opens | November 15, 2024 |
 | Notification of acceptance for COLING 2025 | November 29, 2024 |
 | Tutorials and Workshops | January 19-20, 2025 |
 | Main Conference | January 21-24, 2025 |
