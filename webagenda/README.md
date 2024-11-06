@@ -7,13 +7,13 @@ This directory contains the data files and code used to generate the schedule fo
 In order to run the code in this repository, you first need to create a [conda](https://conda.io/en/latest/) environment. First you should [install miniconda](https://conda.io/en/latest/miniconda.html). Once you have it installed, run the following to create the Python environment:
 
 ```bash
-conda create -n naacl2019 -c conda-forge --file agenda/requirements.txt
+conda create -n coling2025 -c conda-forge --file agenda/requirements.txt
 ```
 
 This will create a conda environment called `naacl2019` which you will need to "activate" before running any of the code. To activate this environment, run:
 
 ```bash
-conda activate naacl2019
+conda activate coling2025
 ```
 
 ### Contents 

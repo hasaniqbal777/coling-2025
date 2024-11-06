@@ -15,7 +15,7 @@ This blog post provides some insights and advice for LGBTQ+ visitors by LGBTQ+ p
 
 The primary author of this document is a cisgender gay Arab-American man. He has lived in the UAE with his cisgender gay European-American partner for almost a decade. They both have academic jobs, and love living in the UAE.
 
-The author’s advice and observations are based on his experience of living in the UAE, and his awareness of issues faced by other members of the LGBTQ+ community there. The intended audience of this document are LGBTQ+ conference attendees of EMNLP 2022.
+The author’s advice and observations are based on his experience of living in the UAE, and his awareness of issues faced by other members of the LGBTQ+ community there. The intended audience of this document are LGBTQ+ conference attendees of COLING 2025.
 
 This document is not intended to provide official legal advice.
 
