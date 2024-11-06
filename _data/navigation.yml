@@ -29,6 +29,8 @@ main:
         url: /program/tutorials/
       - title: Co-Located Events
         url: /program/colocated/
+      - title: Main Conference Keynotes
+        url: /program/events/keynotes/
   - title: Venue
     url: /venue/
     dropdown:
@@ -112,6 +114,10 @@ program:
         url: /program/tutorials/
       - title: Co-Located Events
         url: /program/colocated/
+  - title: Events
+    children:
+      - title: Keynotes
+        url: /program/events/keynotes/
 
 faqs:
   - title: FAQs
