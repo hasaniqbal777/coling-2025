@@ -23,17 +23,17 @@ The 31st International Conference on Computational Linguistics (COLING 2025) wil
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| November 15, 2024 | [Registration](/registration/) opens.
-| November 6, 2024 | [Call for Volunteers](/calls/volunteers/) is posted.
-| August 19, 2024 | [News for Arabic NLP/CL Winter School](/program/colocated/#arabic-nlpcl-winter-school/) is posted.
-| July 12, 2024 | [Submission and Style Guidelines](/calls/submission_guidlines/) for COLING Main Conference Papers are posted.
-| July 12, 2024 | [Second Call for Main Conference Papers](/calls/main_conference_papers/) is posted.
-| June 30, 2024 | [Call for Industry Track](/calls/industry_track/) is posted.
-| June 24, 2024 | [Call for System Demonstrations](/calls/system_demonstrations/) is posted.
-| May 24, 2024 | Submission link for [Call for Workshop Proposals](/calls/workshop_proposals) is posted.
-| May 17, 2024 | [Call for Tutorials](/calls/tutorials) is posted.
-| May 8, 2024 | [First Call for Main Conference Papers](/calls/main_conference_papers) is posted.
-| April 22, 2024 | [Call for Workshop Proposals](/calls/workshop_proposals) is posted.
+| NOV 15, 2024 | [Registration](/registration/) opens.
+| NOV 6, 2024 | [Call for Volunteers](/calls/volunteers/) is posted.
+| AUG 19, 2024 | [News for Arabic NLP/CL Winter School](/program/colocated/#arabic-nlpcl-winter-school/) is posted.
+| JUL 12, 2024 | [Submission and Style Guidelines](/calls/submission_guidlines/) for COLING Main Conference Papers are posted.
+| JUN 12, 2024 | [Second Call for Main Conference Papers](/calls/main_conference_papers/) is posted.
+| JUN 30, 2024 | [Call for Industry Track](/calls/industry_track/) is posted.
+| JUN 24, 2024 | [Call for System Demonstrations](/calls/system_demonstrations/) is posted.
+| MAY 24, 2024 | Submission link for [Call for Workshop Proposals](/calls/workshop_proposals) is posted.
+| MAY 17, 2024 | [Call for Tutorials](/calls/tutorials) is posted.
+| MAY 8, 2024 | [First Call for Main Conference Papers](/calls/main_conference_papers) is posted.
+| APR 22, 2024 | [Call for Workshop Proposals](/calls/workshop_proposals) is posted.
 {: .news-table}
 
 ## Important Dates
