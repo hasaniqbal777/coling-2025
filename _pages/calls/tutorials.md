@@ -1,7 +1,7 @@
 ---
 title: Call for Tutorials COLING 2025
 layout: single
-excerpt: "COLING 2025 Workshop"
+excerpt: "COLING 2025 Tutorials"
 permalink: /calls/tutorials/
 sidebar: 
     nav: "calls"

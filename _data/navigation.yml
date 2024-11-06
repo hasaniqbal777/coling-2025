@@ -16,6 +16,8 @@ main:
         url: /calls/system_demonstrations/
       - title: Industry Track
         url: /calls/industry_track/
+      - title: Volunteers
+        url: /calls/volunteers/
   - title: Program
     url: /program/
     dropdown:
@@ -70,6 +72,8 @@ calls:
         url: /calls/system_demonstrations/
       - title: "Industry Track"
         url: /calls/industry_track/
+      - title: "Volunteers"
+        url: /calls/volunteers/
   - title: "Submission"
     children:
       - title: "Submission and Style Guidelines"
