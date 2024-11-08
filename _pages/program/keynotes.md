@@ -7,9 +7,7 @@ sidebar:
     nav: "program"
 ---
 
-We are delighted to announce that the esteemed speakers listed below have graciously accepted our invitation to deliver keynote speeches at the main conference of COLING 2024:
-
-<small>More information about the keynote speaches will be updated soon.</small>
+We are delighted to announce that the esteemed speakers listed below have graciously accepted our invitation to deliver keynote speeches at the main conference of COLING 2025:
 
 ## [Katrin Erk](https://www.katrinerk.com)
 

@@ -220,7 +220,7 @@ email = ""
 %}
 
 {% include committee-member.html
-name="Su Lin"
+name="Su Lin Blodgett"
 picture="/assets/images/committee/Su_Lin.png"
 site=""
 institution="Microsoft Research"
