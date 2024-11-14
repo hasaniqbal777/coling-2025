@@ -49,7 +49,7 @@ The following tutorials have been accepted for COLING 2025. <br>
         <td style="width: 100px;">On-Site</td>
     </tr>
     <tr>
-      <td style="width: 500px;">Tutorial Proposal: Speculative Decoding for Efficient LLM Inference <br><br> <b>Authors: </b>Heming Xia, Cunxiao Du, Yongqi Li, Qian Liu and Wenjie Li </td>
+      <td style="width: 500px;">Speculative Decoding for Efficient LLM Inference <br><br> <b>Authors: </b>Heming Xia, Cunxiao Du, Yongqi Li, Qian Liu and Wenjie Li </td>
         <td style="width: 100px;">On-Site</td>
     </tr>
     <tr>
