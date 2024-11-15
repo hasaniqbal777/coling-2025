@@ -15,6 +15,19 @@ sponsors:
   image_path: /assets/images/sponsors/mbzuai.svg
   alt: "MBZUAI"
   title: "Mohammed Bin Zayed University of Artificial Intelligence"
+- url: https://www.microsoft.com/
+  image_path: /assets/images/sponsors/microsoft.png
+  alt: "Microsoft"
+  title: "Microsoft"
+- url: https://home.baidu.com/home/index
+  image_path: /assets/images/sponsors/baidu.png
+  alt: "Baidu"
+  title: "Baidu"
+- url: https://www.tii.ae/
+  image_path: /assets/images/sponsors/tii.svg
+  alt: "TII"
+  title: "Technology Innovation Institute"
+
 ---
 
 If you want to become Sponsor of COLING'2025, please, have a look at the [COLING'2025 Sponsorship brochure](https://coling2025.org/downloads/sponsorship.pdf) and get in touch with one of our [Sponsorship Chairs](mailto:coling2025.sponsorship@mbzuai.ac.ae). We thank you in advance for your interest and support.
