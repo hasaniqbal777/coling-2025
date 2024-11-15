@@ -24,7 +24,7 @@ sponsors:
   alt: "Baidu"
   title: "Baidu"
 - url: https://www.tii.ae/
-  image_path: /assets/images/sponsors/tii.svg
+  image_path: /assets/images/sponsors/tii.png
   alt: "TII"
   title: "Technology Innovation Institute"
 
