@@ -9,18 +9,6 @@ toc: True
 toc_sticky: True
 ---
 
-## About Abu Dhabi
-
-Abu Dhabi, the capital of the United Arab Emirates, is a city of contrasts where traditional meets modern, offering visitors an unforgettable experience. Situated on a set of islands in the Arabian Gulf, Abu Dhabi is a cosmopolitan city with a very large international presence (90% of residents). English is the lingua franca.
-
-To find out more, please visit [this page](https://visitabudhabi.ae/en).
-
-<figure>
-  <img src="/assets/images/abudhabi/abu-dhabi.jpeg" alt="Abu Dhabi" style="width:100%">
-</figure>
-
-## About the Venue
-
 COLING 2025 will take place in the [Abu Dhabi National Exhibition Centre (ADNEC)](https://adnec.ae/). ADNEC is a multi-award-winning venue offering organizers of exhibitions, conferences, and events outstanding facilities spread over a total space of 151,000 square meters. ADNEC is just 15 minutes away from the rapidly expanding Abu Dhabi International Airport which serves over 50 airlines and 100 destinations in 46 countries around the globe. It is only 20 minutes from downtown Abu Dhabi and 90 minutes from Dubai International Airport.
 
 - Address: Abu Dhabi National Exhibitions Company, Khaleej Al Arabi Street, P.O. Box 5546, Abu Dhabi, United Arab Emirates
@@ -32,6 +20,16 @@ For a virtual tour of ADNEC, [click here](https://www.adnec.ae/en/discover-adnec
 
 <figure>
   <img src="/assets/images/abudhabi/adnec.jpeg" alt="ADNEC" style="width:100%">
+</figure>
+
+## About Abu Dhabi
+
+Abu Dhabi, the capital of the United Arab Emirates, is a city of contrasts where traditional meets modern, offering visitors an unforgettable experience. Situated on a set of islands in the Arabian Gulf, Abu Dhabi is a cosmopolitan city with a very large international presence (90% of residents). English is the lingua franca.
+
+To find out more, please visit [this page](https://visitabudhabi.ae/en).
+
+<figure>
+  <img src="/assets/images/abudhabi/abu-dhabi.jpeg" alt="Abu Dhabi" style="width:100%">
 </figure>
 
 ## Transportation
