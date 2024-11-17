@@ -1,7 +1,7 @@
 ---
 title: COLING 2025 Sponsorship
 layout: single
-permalink: /sponsorship/
+permalink: /sponsors/
 sidebar: false
 toc: true
 toc_sticky: true

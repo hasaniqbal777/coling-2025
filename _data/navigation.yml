@@ -1,67 +1,32 @@
 # main links
 #in masthead.html
 main:
+  - title: Program
+    subnav: program
+
+  - title: "Registration"
+    url: /registration/
+
+  - title: "Participants Info"
+    url: /participants-info/
+
+  - title: Calls
+    subnav: calls
+
+  - title: Venue
+    subnav: venue
+  
+  - title: Committee
+    subnav: committees
+
+  - title: "Sponsors"
+    url: /sponsors/
+
+  - title: "FAQs"
+    subnav: faqs
+
   - title: "About COLING"
     url: /about/
-  - title: Calls
-    url: /calls/main_conference_papers
-    dropdown:
-      - title: Main Conference Papers
-        url: /calls/main_conference_papers/
-      - title: Tutorials
-        url: /calls/tutorials/
-      - title: Workshop Proposals
-        url: /calls/workshop_proposals/
-      - title: System Demonstrations
-        url: /calls/system_demonstrations/
-      - title: Industry Track
-        url: /calls/industry_track/
-      - title: Volunteers
-        url: /calls/volunteers/
-  - title: Program
-    url: /program/
-    dropdown:
-      - title: Conference Overview
-        url: /program/
-      - title: Workshops
-        url: /program/workshops/
-      - title: Tutorials
-        url: /program/tutorials/
-      - title: Co-Located Events
-        url: /program/colocated/
-      - title: Main Conference Keynotes
-        url: /program/events/keynotes/
-  - title: Venue
-    url: /venue/
-    dropdown:
-      - title: Venue
-        url: /venue/
-      - title: Visa
-        url: /venue/visa/
-      - title: Important Information
-        url: /venue/information/
-      - title: Places to Visit
-        url: /venue/places/
-  - title: "Sponsorship"
-    url: /sponsorship/
-  - title: Committee
-    url: /committees/organization
-    dropdown:
-      - title: Organizing Committee
-        url: /committees/organization/
-      - title: Senior Program Committee
-        url: /committees/program/
-  - title: "FAQs"
-    url: /faqs/
-    dropdown:
-      - title: General
-        url: /faqs/
-      - title: Submission
-        url: /faqs/submission/
-      - title: Virtual Participation
-        url: /faqs/virtual/
-      - title: Abu Dhabi
-        url: /faqs/abudhabi/
 
 calls:
   - title: "Call for"

@@ -1,0 +1,6 @@
+<div class="best-paper-box">
+  <p class="best-paper-title">“{{ include.title }}”</p>
+  <p class="best-paper-authors">{{ include.authors }}</p>
+  <p class="best-paper-category">{{ include.category }}</p>
+  <p class="best-paper-comment"><strong>Notes from the Best Paper Committee:</strong> {{ include.comment }}</p>
+</div>

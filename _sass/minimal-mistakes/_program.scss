@@ -1,9 +1,10 @@
 /* ==========================================================================
-    CONFERENCE SCHEDULE
+   CONFERENCE SCHEDULE
    ========================================================================== */
 
 div.schedule {
     max-width: 100%;
+    padding: 0 1em;
 }
 
 div#generatePDF {
@@ -26,7 +27,7 @@ a.session-selector {
     text-decoration: none;
     border-radius: $border-radius;
     @include breakpoint($medium) {
-      font-size: $type-size-7;
+        font-size: $type-size-7;
     }
     &.disabled {
         background-color: $light-gray;
@@ -49,7 +50,7 @@ a.session-deselector {
     text-decoration: none;
     border-radius: $border-radius;
     @include breakpoint($medium) {
-      font-size: $type-size-7;
+        font-size: $type-size-7;
     }
     &.disabled {
         background-color: $light-gray;
@@ -62,18 +63,16 @@ a.session-deselector {
 }
 
 div#generatePDFForm {
-    float: left;
     width: percentage(25/25);
     padding: 0.5em;
-    font-family: $serif;
+    margin-top: 2em;
     text-align: center;
     vertical-align: middle;
     font-size: $type-size-6;
     background-color: $background-color;
-    border: 1px solid $light-gray;
 
     a#generatePDFButton {
-        margin-top: 10px;
+        margin-top: .5em;
         font-size: $type-size-5;
 
         @include breakpoint($medium) {
@@ -87,71 +86,62 @@ div#generatePDFForm {
         height: 16px;
     }
 
-    span#checkBoxLabel {
+    label#checkBoxLabel {
         font-size: $type-size-5;
+        display: inline-block;
+        vertical-align: bottom;
     }
 }
 
 div.day {
-    float: left;
-    width: percentage(25/25);
     padding: 0.5em;
     font-weight: bold;
     text-align: left;
     vertical-align: middle;
     font-size: $type-size-4;
-    // background-color: $lighter-gray;
-    // border: 2px solid $light-gray;
     color: white;
     background-color: $primary-color;
     border: 1px solid black;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 2em;
+    margin-bottom: 1em;
 }
 
 div#introParagraph {
-    font-size: $type-size-7;
-    padding: 20px;
-
-    @include breakpoint($medium) {
-        font-size: $type-size-6;
+    font-size: $type-size-5-half;
+    padding: 1.5em;
+    i.fa-award {
+        color: #ee5f5b;
     }
 }
 
 div#popupInstructionsDiv {
-
-    div#title {
-        font-size: $type-size-6;
-        font-weight: bold;
-        text-align: center;
-        
-        @include breakpoint($medium) {
-            font-size: $type-size-5;
-        }
+    display: none;
+    font-size: $type-size-5-half;
+    text-align: left;
+    padding: 0 2em;
+    ul {
+        padding-left: 15px;
+        padding-top: 0px;
+        padding-bottom: 0px;
     }
+}
 
-    div#popupInstructions {
-        font-size: $type-size-8;
-        text-align:left;
-        ul {
-            padding-left: 15px;
-            padding-top: 0px;
-            padding-bottom: 0px;
-        }
-        @include breakpoint($medium) {
-            font-size: $type-size-7;
-            ul {
-                padding-left: 20px;
-            }
-        }
-    }
+.alertify div#popupInstructionsDiv {
+    display: block;
 }
 
 div.session-box {
     overflow: hidden;
     border: 2px solid $light-gray;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: .6em;
+    margin-bottom: .6em;
+
+    display: flex;
+    flex-direction: column;
+    @include breakpoint($medium) {
+        flex-direction: row;
+    }
+    flex-wrap: wrap;
 }
 
 div.session-header {
@@ -159,11 +149,10 @@ div.session-header {
     font-weight: bold;
     text-align: center;
     vertical-align: middle;
-    height: 35px;
+    padding: .5em;
     border-bottom: 2px solid $light-gray;
-    background-color: $lighter-gray;
-    // background-color: #FFE4E1;
-    // background-color: red;
+    background-color: $light-gray;
+    width: 100%;
 }
 
 div.session {
@@ -181,8 +170,8 @@ div.session {
         border-left: 2px solid $light-gray;
         border-bottom: 2px solid $light-gray;
         border-right: 2px solid $light-gray;
-        margin-top: 10px;
-        margin-bottom: 10px;
+        margin-top: .4em;
+        margin-bottom: .4em;
     }
 
     &.session-posters {
@@ -191,128 +180,40 @@ div.session {
     }
 
     &.session-papers-best {
-        float: left;
-        width: percentage(25/25);
         border: 2px solid $light-gray;
-        margin-top: 10px;
-        margin-bottom: 10px;
+        margin-top: .4em;
+        margin-bottom: .4em;
     }
 
-    &.session-papers1 {
-        float: left;
-        width: percentage(25/25);
-        border-bottom: 1px solid $light-gray;
-
-        @include breakpoint($medium) {
-            width: percentage(25/25);
-        }
-
-        @include breakpoint($medium-wide) {
-            width: percentage(25/25);
-        }
-
-        @include breakpoint($large) {
-            width: percentage(25/25);
-        }
-
+    &.session-papers {
+        border-top: 1px solid $light-gray;
+        width: 100%;
         @include breakpoint($x-large) {
-            width: percentage(25/25);
-        }
-
-        @include breakpoint($xx-large) {
-            border-right: 1px solid $light-gray;
-            width: percentage(5/25);
+            border-left: 1px solid $light-gray;
+            flex: 1 0 0;
         }
     }
- 
-    &.session-papers2, &.session-papers3, &.session-papers4 {
-        float: left;
-        width: percentage(25/25);
-        border-bottom: 1px solid $light-gray;
-
-        @include breakpoint($medium) {
-            width: percentage(25/25);
-            border-left: 1px solid $light-gray;
-        }
-
-        @include breakpoint($medium-wide) {
-            width: percentage(25/25);
-            border-left: 1px solid $light-gray;
-        }
-
-        @include breakpoint($large) {
-            width: percentage(25/25);
-            border-left: 1px solid $light-gray;
-        }
-
-        @include breakpoint($x-large) {
-            width: percentage(25/25);
-            border-left: 1px solid $light-gray;
-        }
-
-        @include breakpoint($xx-large) {
-            border-right: 1px solid $light-gray;
-            width: percentage(5/25);
-        }
-    }
-
-    &.session-papers5 {
-        float: right;
-        width: percentage(25/25);
-        border-bottom: 1px solid $light-gray;
-
-        @include breakpoint($medium) {
-            border-left: none;
-            width: percentage(25/25);
-        }
-
-        @include breakpoint($medium-wide) {
-            border-left: none;
-            width: percentage(25/25);
-        }
-
-        @include breakpoint($large) {
-            border-left: none;
-            width: percentage(25/25);
-        }
-
-        @include breakpoint($x-large) {
-            border-left: none;
-            width: percentage(25/25);
-        }
-
-        @include breakpoint($xx-large) {
-            border-left: 1px solid $light-gray;
-            width: percentage(5/25);
-        }
+    &.session-papers:nth-child(2) {
+        border-left: none;
     }
 
     .session-title {
-        font-size: $type-size-5-half;
+        font-size: $type-size-5;
         color: $text-color;
         text-decoration: none;
     }
 
     .session-time {
-        margin-right: 5px;
-        float: left;
-
-        font-size: $type-size-6;
+        display: block;
+        font-size: $type-size-5-half;
         font-style: italic;
     }
 
     &.session-break {
         border: none;
         font-style: italic;
-    }
-
-
-    .paper-session-details {
-        float: left;
-    } 
-
-    .poster-session-details {
-        float: left;
+        margin-top: .4em;
+        margin-bottom: .4em;
     }
 
     hr.detail-separator {
@@ -343,10 +244,6 @@ div.session {
         }
     }
 
-    td#tutorial-location {
-        cursor: pointer;
-    }
-
     .paper-table {
         border: 0px;
         font-size: $type-size-6;
@@ -369,10 +266,10 @@ div.session {
         font-weight: bold;
     }
 
-    .session-location {
-        font-size: $type-size-6;
-        float: left;
-        cursor: pointer;
+    .session-location, .session-external-location {
+        display: block;
+        font-size: $type-size-5-half;
+        font-style: italic;
     }
 
     .session-chair {
@@ -380,11 +277,6 @@ div.session {
         a {
             color: black;
         }
-    }
-
-    .session-external-location {
-        font-size: $type-size-6;
-        float: left;
     }
 
     .info-button {
@@ -399,44 +291,31 @@ div.session {
         }
     }
 
-    tr#tutorial, tr#poster, tr#workshop {
+    tr#tutorial, tr#paper, tr#poster, tr#workshop {
         cursor: pointer;
         background-color: $background-color;
         font-size: $type-size-5;
         &.selected {
             background-color: $light-gray;
         }
-    }
-
-
-    tr#paper {
-        cursor: pointer;
-        background-color: $background-color;
-        font-size: $type-size-5;
-        &.selected {
-            background-color: $light-gray;
+        &:hover {
+            background-color: #F2F2CC;
         }
-
-        @include breakpoint($large) {
-            &.hovered {
-                background-color: yellow;
-            }
-            &.conflicted {
-                background-color: #FF9999;
-            }
-            &.hovered.selected {
-                background-color: #4EEE94;
-            }
-            &.conflicted.selected {
-                background-color: #4EEE94;
-            }
+        &.conflicted {
+            background-color: #FF9999;
+        }
+        &.selected:hover {
+            background-color: #4EEE94;
+        }
+        &.conflicted.selected {
+            background-color: #4EEE94;
         }
     }
 
     tr#tutorial {
         a svg.video-icon {
             cursor: pointer;
-            
+
         }
     }
 
@@ -464,26 +343,46 @@ div.session {
         font-size: $type-size-5;
     }
 
-    #expander {
-      display: inline-block;
-      cursor: pointer;
+    .expander-wrapper {
+        cursor: pointer;
+    }
+    .expander-wrapper:hover .session-title {
+        text-decoration: underline;
+    }
 
-      margin-right: 5px;
-      width: 10px;
-      height: 10px;
-      @include breakpoint($medium) {
-        margin-right: 10px;
-        width: 12px;
-        height: 12px;
-      }
-      background: linear-gradient(to bottom, transparent 35%, $dark-gray 35%, $dark-gray 65%,  transparent 65%),
+    #expander {
+        display: inline-block;
+        cursor: pointer;
+
+        margin-right: 5px;
+        width: 10px;
+        height: 10px;
+        @include breakpoint($medium) {
+            margin-right: 10px;
+            width: 12px;
+            height: 12px;
+        }
+        background: linear-gradient(to bottom, transparent 35%, $dark-gray 35%, $dark-gray 65%,  transparent 65%),
         linear-gradient(to right, transparent 35%, $dark-gray 35%, $dark-gray 65%, transparent 65%);
-      border: 1px solid $gray;
+        border: 1px solid $gray;
     }
 
     #expander.expanded {
-      background: linear-gradient(to bottom, transparent 35%, $dark-gray 35%, $dark-gray 65%,  transparent 65%);
+        background: linear-gradient(to bottom, transparent 35%, $dark-gray 35%, $dark-gray 65%,  transparent 65%);
     }
 
-}
+    i.fa-award {
+        color: #ee5f5b;
+    }
 
+    i.fa-file-pdf:after {
+        content: "PDF";
+        font-family: $sans-serif;
+        margin-left: .2em;
+        text-decoration: underline;
+    }
+
+    i.icon-map {
+        cursor: pointer;
+    }
+}

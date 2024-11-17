@@ -40,9 +40,6 @@ plenarySessionHash = {};
 includePlenaryInSchedule = true;
 helpShown = false;
 
-/* the help text to show */
-var instructions = "<div id=\"popupInstructionsDiv\"><div id=\"title\">Help</div><div id=\"popupInstructions\"><ul><li>Click on a the \"<strong>+</strong>\" button or the title of a session to toggle it. Click the <strong>\"Expand All Sessions ↓\"</strong> button to expand <em>all</em> sessions in one go. Click again to collapse them. </li> <li>Click on a tutorial/paper/poster to toggle its selection. </li> <li>You can select more than one paper for a time slot. </li> <li>Icon glossary: <i class=\"far fa-file-pdf\"></i> = PDF, <i class=\"far fa-file-video\"></i> = Video, <i class=\"fa fa-user\"></i> = Session Chair, <i class=\"fab fa-twitter\"></i> = LiveTweeter. </li> <li>Click the <strong>\"Download PDF\"</strong> button at the bottom to download your customized PDF. </li> <li>To expand parallel sessions simultaneously, hold Shift and click on any of them. </li> <li>On non-mobile devices, hovering on a paper for a time slot highlights it in yellow and its conflicting papers in red. Hovering on papers already selected for a time slot (or their conflicts) highlights them in green. </li> <li>Hover over the time for any session to see its day and date as a tooltip.</li> <li>While saving the generated PDF on mobile devices, its name cannot be changed.</li> </ul></div></div>";
-
 /* function to pad with zeros */
 function padTime(str) {
     return String('0' + str).slice(-2);
@@ -89,13 +86,13 @@ function generatePDFfromTable() {
             if (pageNumber == 1) {
                 doc.setFontSize(16);
                 doc.setFontStyle('normal');
-                doc.text("NAACL 2019 Schedule", (doc.internal.pageSize.width - (data.settings.margin.left*2))/2 - 30, 50);
+                doc.text("NAACL 2025 Schedule", (doc.internal.pageSize.width - (data.settings.margin.left*2))/2 - 30, 50);
             }
 
             /* FOOTER on each page */
             doc.setFont('courier');
             doc.setFontSize(8);
-            doc.text('(Generated via https://naacl2019.org/schedule)', data.settings.margin.left, doc.internal.pageSize.height - 10);
+            doc.text('(Generated via https://2022.naacl.org/program/schedule/)', data.settings.margin.left, doc.internal.pageSize.height - 10);
         },
         didDrawCell: function(data) {
             /* split long plenary session text */
@@ -209,6 +206,9 @@ function isOverlapping(thisPaperRange, otherPaperRange) {
 }
 
 function getConflicts(paperObject) {
+
+    // NOTE: The presentation order is not settled yet, so don't show conflicts for now.
+    return $([]);
 
     /* first get the parallel sessions */
     var sessionId = paperObject.parents('.session').attr('id').match(/session-\d/)[0];
@@ -372,17 +372,17 @@ function isChosen(timeKey, item, type) {
 
 function toggleSession(sessionObj) {
     $(sessionObj).children('[class$="-details"]').slideToggle(300);
-    $(sessionObj).children('#expander').toggleClass('expanded');
+    $(sessionObj).find('#expander').toggleClass('expanded');
 }
 
 function openSession(sessionObj) {
     $(sessionObj).children('[class$="-details"]').slideDown(300);
-    $(sessionObj).children('#expander').addClass('expanded');
+    $(sessionObj).find('#expander').addClass('expanded');
 }
 
 function closeSession(sessionObj) {
     $(sessionObj).children('[class$="-details"]').slideUp(300);
-    $(sessionObj).children('#expander').removeClass('expanded');
+    $(sessionObj).find('#expander').removeClass('expanded');
 }
 
 function populateHiddenProgramTable() {
@@ -539,7 +539,10 @@ $(document).ready(function() {
     $(document).keypress(function(event) {
         if (doWhichKey(event) == 63 && !helpShown) {
             helpShown = true;
-            alertify.alert('', instructions, function(event) { helpShown = false;}).set('transition', 'fade');
+            alertify.alert(
+              'Help', document.getElementById('popupInstructionsDiv'),
+              function(event) { helpShown = false; })
+            .set({transition: 'fade', padding: false});
         }
     });
 
@@ -549,7 +552,10 @@ $(document).ready(function() {
             event.stopPropagation();
             event.preventDefault();
             helpShown = true;
-            alertify.alert('', instructions, function(event) { helpShown = false;}).set('transition', 'fade');
+            alertify.alert(
+              'Help', document.getElementById('popupInstructionsDiv'),
+              function(event) { helpShown = false; })
+            .set({transition: 'fade', padding: false});
         }
     });
 
@@ -571,29 +577,30 @@ $(document).ready(function() {
         }
     });
 
-    /* if the location is an external one, open it in google maps */
-    $('span.session-external-location').on('click', function(event) {
-        var placeName = $(this).text().trim().replace(" ", "+");
-        window.open("https://www.google.com/maps?q=" + placeName, "_blank");
-        event.stopPropagation();
-    });
+    // /* if the location is an external one, open it in google maps */
+    // $('span.session-external-location').on('click', function(event) {
+    //     var placeName = $(this).text().trim().replace(" ", "+");
+    //     window.open("https://www.google.com/maps?q=" + placeName, "_blank");
+    //     event.stopPropagation();
+    // });
 
     /* show the floorplan when any location is clicked */
-    $('span.session-location, span.inline-location').on('click', function(event) {
-        event.stopPropagation();
+    const MAP_URL = 'https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2020/12/15/1222/Hyatt-Regency-Seattle-Floor-Plan-English.pdf';
+    $('.icon-map').on('click', function(event) {
+         window.open(MAP_URL, '_blank');
     });
-    $('span.session-location, span.inline-location').magnificPopup({
-        items: {
-            src: '/assets/images/minneapolis/3d-floormap.png'
-        },
-        type: 'image',
-        fixedContentPos: 'auto'
-    });
+    // $('span.session-location, span.inline-location').magnificPopup({
+    //     items: {
+    //         src: '/assets/images/minneapolis/3d-floormap.png'
+    //     },
+    //     type: 'image',
+    //     fixedContentPos: 'auto'
+    // });
 
     /* get all the tutorial sessions and save the day and location for each of them in a hash */
     $('.session-tutorials').each(function() {
         var session = {};
-        session.title = $(this).children('.session-title').text().trim();
+        session.title = $(this).find('.session-title').text().trim();
         session.day = $(this).prevAll('.day:first').text().trim();
         sessionInfoHash[$(this).attr('id')] = session;
     });
@@ -601,7 +608,7 @@ $(document).ready(function() {
     /* get all the workshop sessions and save the day and location for each of them in a hash */
     $('.session-workshops').each(function() {
         var session = {};
-        session.title = $(this).children('.session-title').text().trim();
+        session.title = $(this).find('.session-title').text().trim();
         session.day = $(this).prevAll('.day:first').text().trim();
         sessionInfoHash[$(this).attr('id')] = session;
     });
@@ -609,7 +616,7 @@ $(document).ready(function() {
     /* get all the poster sessions and save the day and location for each of them in a hash */
     $('.session-posters').each(function() {
         var session = {};
-        session.title = $(this).children('.session-title').text().trim();
+        session.title = $(this).find('.session-title').text().trim();
         session.day = $(this).parent().prevAll('.day:first').text().trim();
         session.location = $(this).children('span.session-location').text().trim();
         var sessionTimeText = $(this).children('span.session-time').text().trim();                
@@ -627,7 +634,7 @@ $(document).ready(function() {
     });
     $(paperSessions).each(function() {
         var session = {};
-        session.title = $(this).children('.session-title').text().trim();
+        session.title = $(this).find('.session-title').text().trim();
         session.location = $(this).children('span.session-location').text().trim();
         session.day = $(this).parent().prevAll('.day:first').text().trim();
         var sessionTimeText = $(this).children('span.session-time').text().trim();                
@@ -652,7 +659,9 @@ $(document).ready(function() {
         var paperTitle = paperTimeObj.siblings('td').text().trim().replace(/\s\s+/g, " ");
 
         /* get the paper slot and the starting and ending times */
-        var paperTimeText = paperTimeObj.text().trim();
+        // NOTE: The presentation order is not settled yet, so use the session time for now.
+        // var paperTimeText = paperTimeObj.text().trim();
+        var paperTimeText = $(this).parents('.session-papers').children('.session-time').text().trim();
         var paperTimes = paperTimeText.split('\u2013');
         var paperSlotStart = paperTimes[0];
         var paperSlotEnd = paperTimes[1];
@@ -665,7 +674,7 @@ $(document).ready(function() {
     /* also save the plenary session info in another hash since we may need to add this to the pdf. Use the exact starting time as the hash key */
      $('.session-plenary').each(function() {
         var session = {};
-        session.title = $(this).children('.session-title').text().trim();
+        session.title = $(this).find('.session-title').text().trim();
         if (session.title == "Social Event") {
             session.location = $(this).children('span.session-external-location').text().trim();
         }
@@ -746,7 +755,7 @@ $(document).ready(function() {
     $('[class$="-details"]').hide();
 
     /* expand sessions when their title is clicked */
-    $('body').on('click', 'div.session-expandable .session-title, div#expander', function(event) {
+    $('body').on('click', 'div.session-expandable .expander-wrapper', function(event) {
         event.preventDefault();
         event.stopPropagation();
         var sessionObj = $(this).parent();
@@ -756,7 +765,7 @@ $(document).ready(function() {
             var sessionId = $(sessionObj).attr('id').match(/session-\d/)[0];
             var parallelSessions = $(sessionObj).siblings().addBack().filter(function() { return this.id.match(sessionId); });
 
-            var unexpandedParallelSessions = $(parallelSessions).filter(function() { return !$(this).children('#expander').hasClass('expanded'); });
+            var unexpandedParallelSessions = $(parallelSessions).filter(function() { return !$(this).find('#expander').hasClass('expanded'); });
 
             /* if all sessions are already expanded, then shift-clicking should close all of them */
             if (unexpandedParallelSessions.length == 0) {
@@ -773,23 +782,20 @@ $(document).ready(function() {
     });
 
     /* when we mouse over a paper icon, do not do anything */
-    $('body').on('mouseover', 'table.paper-table tr#paper svg[class$="-icon"]', function(event) {
+    $('body').on('mouseover', 'table.paper-table tr#paper i[class$="-icon"]', function(event) {
         return false;
     });
 
     /* when we mouse over a paper, highlight the conflicting papers */
     $('body').on('mouseover', 'div.session-expandable[id] table.paper-table tr#paper', function(event) {
         var conflictingPapers = getConflicts($(this));
-        $(this).addClass('hovered');
         $(conflictingPapers).addClass('conflicted');
     });
 
     /* when we mouse out, remove all highlights */
     $('body').on('mouseout', 'div.session-expandable[id] table.paper-table tr#paper', function(event) {
         var conflictingPapers = getConflicts($(this));
-        $(this).removeClass('hovered');
         $(conflictingPapers).removeClass('conflicted');
-
     });
 
     /* disable some events from propagating */
@@ -927,7 +933,7 @@ $(document).ready(function() {
     });
 
     /* open the URL in a new window/tab when we click on the any icon - whether it is the keynote slides or the video - this icon can be in the abstract or even in the title if there is no abstract */            
-    $('body').on('click', 'div.session-abstract p svg[class$="-icon"],span.session-title svg[class$="-icon"]', function(event) {
+    $('body').on('click', 'div.session-abstract p i[class$="-icon"],span.session-title i[class$="-icon"]', function(event) {
         event.stopPropagation();
         event.preventDefault();
         var urlToOpen = $(this).attr('data');
@@ -938,7 +944,7 @@ $(document).ready(function() {
 
 
     /* open the anthology or video URL in a new window/tab when we click on the PDF or video icon respectively  */            
-    $('body').on('click', 'table.tutorial-table tr#tutorial svg[class$="-icon"],table.paper-table tr#paper svg[class$="-icon"],table.paper-table tr#best-paper svg[class$="-icon"],table.poster-table tr#poster svg[class$="-icon"]', function(event) {
+    $('body').on('click', 'table.tutorial-table tr#tutorial i[class$="-icon"],table.paper-table tr#paper i[class$="-icon"],table.paper-table tr#best-paper i[class$="-icon"],table.poster-table tr#poster i[class$="-icon"]', function(event) {
         event.stopPropagation();
         event.preventDefault();
         var urlToOpen = $(this).attr('data');
@@ -949,7 +955,6 @@ $(document).ready(function() {
 
     $('body').on('click', 'div.session-expandable[id] table.paper-table tr#paper', function(event, fromSession) {
         event.preventDefault();
-        $(this).removeClass('hovered');
         getConflicts($(this)).removeClass('conflicted');
         var paperID = $(this).attr('paper-id');
         var paperTimeObj = $(this).children('td#paper-time');

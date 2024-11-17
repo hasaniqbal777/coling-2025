@@ -5,7 +5,8 @@ permalink: /
 header:
   overlay_image: "/assets/images/abudhabi/banner.jpg"
   caption: 'Photo by <a href="https://visitabudhabi.ae/-/media/project/vad/homepage/november-2023/regions-map/admap-dsk-1-19-12.jpg">VisitAbuDhabi</a>'
-excerpt: "January 19 &ndash; 24, 2025<br>Abu Dhabi, UAE<br>Abu Dhabi National Exhibition Centre (ADNEC)"
+excerpt: "Abu Dhabi, UAE"
+secondary_excerpt: "January 19 -- 24, 2025<br>"
 ---
 
 ## Welcome!

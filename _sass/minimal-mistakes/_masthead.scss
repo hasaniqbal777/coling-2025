@@ -26,7 +26,7 @@
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
-      max-width: $x-large;
+      max-width: $max-width;
     }
 
     nav {
@@ -40,7 +40,11 @@
 }
 
 .site-logo img {
-  max-height: 3rem;
+  max-height: 2.7rem;
+}
+
+.site-logo span {
+  display: inline-block;
 }
 
 .site-title {
@@ -50,15 +54,25 @@
   -ms-flex-item-align: center;
   align-self: center;
   font-weight: bold;
-  z-index: 20;
+  // z-index: 20;
+}
+
+.site-subtitle {
+  display: block;
+  font-size: $type-size-8;
 }
 
 .masthead__menu {
   float: left;
   margin-left: 0;
-  margin-right: 0;
   width: 100%;
   clear: both;
+
+  /* Add space for the accessibility widget, if needed */
+  margin-right: 55px;
+  @include breakpoint($x-large + 55px) {
+    margin-right: 0;
+  }
 
   .site-nav {
     margin-left: 0;
