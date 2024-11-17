@@ -14,9 +14,6 @@ The 31st International Conference on Computational Linguistics (COLING 2025) wil
 
 ## News
 
-**The official COLING 2025 website is launched.**
-{: .text-center .notice--info}
-
 <style>
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
