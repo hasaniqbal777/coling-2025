@@ -25,8 +25,7 @@ All deadlines are 11:59PM [UTC-12:00](https://www.timeanddate.com/time/zone/time
 
 <style>
 .news-table { font-size: .9em; table-layout: fixed; text-align: left; }
-.news-table tr td:nth-child(1) { font-weight: bold; width: 80em; }
-.news-table tr td:nth-child(2) { width: 55em; }
+.news-table tr td:nth-child(1) { font-weight: bold; width: 25em;}
 </style>
 
 | Application deadline | December 6, 2024 |

@@ -21,11 +21,7 @@ We are soliciting contributions that explore novel ideas and implementations acr
 All deadlines are 11:59PM [UTC-12:00](https://www.timeanddate.com/time/zone/timezone/utc-12) (“anywhere on Earth”).
 <style>
 .news-table { font-size: .9em; table-layout: fixed; text-align: left; }
-.news-table tr td:nth-child(1) { font-weight: bold; width: 80em; }
-.news-table { font-size: .9em; table-layout: fixed;}
-/*.news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }*/
-.news-table tr td:nth-child(2) {width: 55em; }
-.red-text { color: red; }
+.news-table tr td:nth-child(1) { font-weight: bold; width: 25em;}
 </style>
 | Paper submission deadline | October 6, 2024
 | Notification of acceptance | November 3, 2024
