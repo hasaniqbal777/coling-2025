@@ -22,7 +22,7 @@ The 31st International Conference on Computational Linguistics (COLING 2025) wil
 | Nov 30, 2024 | [Registration](/registration/) opens.
 | Nov 14, 2024 | [Camera-Ready Deadline](/calls/main_conference_papers/) is posted to December 15, 2024.
 | Nov 6, 2024 | [Call for Volunteers](/calls/volunteers/) is posted.
-| Aug 19, 2024 | [News for Arabic NLP/CL Winter School](/program/colocated/#arabic-nlpcl-winter-school/) is posted.
+| Aug 19, 2024 | [News for Arabic NLP Winter School](/program/colocated/#the-arabic-nlp-winter-school/) is posted.
 | Jul 12, 2024 | [Submission and Style Guidelines](/calls/submission_guidlines/) for COLING Main Conference Papers are posted.
 | Jun 12, 2024 | [Second Call for Main Conference Papers](/calls/main_conference_papers/) is posted.
 | Jun 30, 2024 | [Call for Industry Track](/calls/industry_track/) is posted.
@@ -40,7 +40,7 @@ ARR Commitment Deadline | Sunday | October 20, 2024
 Registration opens | Friday | November 30, 2024
 Notification of acceptance | Friday | November 29, 2024
 Camera-Ready Deadline | Monday | December 15, 2024
-Arabic NLP/CL Winter School | Saturday - Sunday | January 18 - 19, 2025
+Arabic NLP Winter School | Saturday - Sunday | January 18 - 19, 2025
 Workshop and Tutorials | Sunday - Monday | January 19 - 20, 2025
 Main Conference (In-Person Only) | Tuesday - Friday | January 21 - 24, 2025
 Main Conference (Virtual Only) |   Monday - Tuesday | January 27 - 28, 2025
