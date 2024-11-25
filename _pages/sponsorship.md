@@ -75,7 +75,7 @@ If you want to become Sponsor of COLING'2025, please, have a look at the [COLING
 </style>
 
 ## Destination Partner
-{% include sponsors-list id="partner" layout="third" %}
+{% include sponsors-list id="partner" layout="single" %}
 
 
 ## Host Institution
