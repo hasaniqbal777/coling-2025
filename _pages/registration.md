@@ -9,6 +9,8 @@ toc_sticky: true
 
 ## Registration Information
 
+**Early bird**
+
 | Fees |Student (USD)| Regular (USD)|
 |---|---|---|
 |Full Conference (includes all): Jan 19-24 |	500	|1050|
@@ -19,6 +21,32 @@ toc_sticky: true
 |Social Event add on: Jan 23 |	150	|150|
 |Virtual Poster Sessions: Jan 27-28 |	100	|200|
 |Arabic NLP Winter School: Jan 18-19 [[website]](https://winterschool2025.sigarab.org/) | 60	|150|
+
+**Late**
+
+| Fees |Student (USD)| Regular (USD)|
+|---|---|---|
+|Full Conference (includes all): Jan 19-24 |	650	|1200|
+|Main Conference (includes welcome reception and virtual sessions; excludes social event): Jan 22-24 |	525	|1000|
+|2 Day Workshops/Tutorials: Jan 19-20 |	200	|400|
+|1 Day Workshops/Tutorials: Jan 19 or 20 |	160	|250|
+|Welcome reception add-on: Jan 20 |	65	|75|
+|Social Event add on: Jan 23 |	150	|150|
+|Virtual Poster Sessions: Jan 27-28 |	200	|300|
+|Arabic NLP Winter School: Jan 18-19 [[website]](https://winterschool2025.sigarab.org/) | 160	|250|
+
+**On-site**
+
+| Fees |Student (USD)| Regular (USD)|
+|---|---|---|
+|Full Conference (includes all): Jan 19-24 |	750	|1300|
+|Main Conference (includes welcome reception and virtual sessions; excludes social event): Jan 22-24 |	625	|1100|
+|2 Day Workshops/Tutorials: Jan 19-20 |	250	|450|
+|1 Day Workshops/Tutorials: Jan 19 or 20 |	210	|300|
+|Welcome reception add-on: Jan 20 |	65	|75|
+|Social Event add on: Jan 23 |	150	|150|
+|Virtual Poster Sessions: Jan 27-28 |	250	|350|
+|Arabic NLP Winter School: Jan 18-19 [[website]](https://winterschool2025.sigarab.org/) | 210	|300|
 
 
 - The Full Conference fee includes access to the main conference, the welcome reception, the social event, the workshops and tutorials, the Arabic NLP Winter School, and the virtual poster sessions.
