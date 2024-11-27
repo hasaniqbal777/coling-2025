@@ -13,12 +13,17 @@ COLING 2025 has secured a room block at Aloft Abu Dhabi, near the conference ven
 
 ### Conference Host Hotel - [Aloft Abu Dhabi](https://www.marriott.com/en-us/hotels/auhnl-aloft-abu-dhabi/overview/)
 
-<span style="color:red; font-weight:bold;">Discounted Booking link coming soon.</span>
+Abu Dhabi National Exhibition Centre  
+Al Khaleej Al Arabi Street  
+P.O. Box 94943, Abu Dhabi, UAE  
+Tel: +971 (0) 2 654 5000  
+
+You will find the information for your [discounted online reservation on this link](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.marriott.com%2Fevent-reservations%2Freservation-link.mi%3Fid%3D1732374851309%26key%3DGRP%26guestreslink2%3Dtrue%26app%3Dresvlink&data=05%7C02%7CReservations.AloftAbuDhabi%40alofthotels.com%7C5e27115ffe5c4613da7008dd0bd310cb%7Cd2033364dec34a1c97723f41ca7c4b75%7C1%7C0%7C638679723335046243%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=66Ou0u4Z0YOdrXO5PFmUAqBFAulV9yywQSxtRCkuwRE%3D&reserved=0). If you have questions or need help with the link, please do not hesitate to ask. We appreciate your business and look forward to a successful event.
 
 Discounted rates:
 
-- AED 570.00++ Single Occupancy per room per night includes Breakfast
-- AED 650.00++ Double Occupancy per room per night includes Breakfast
+- AED 570.00 Avg/Night (including taxes and fees) Single Occupancy per room per night includes Breakfast
+- AED 650.00 Avg/Night (including taxes and fees) Double Occupancy per room per night includes Breakfast
 
 Set within the Abu Dhabi National Exhibition Centre, this contemporary hotel is 7 km from Sheikh Zayed Grand Mosque and 9 km from Mangrove National Park.
 
@@ -31,21 +36,23 @@ Parking is complimentary. Amenities include an international eatery, a chic sush
 #### [Andaz Capital Gate, Abu Dhabi](https://www.hyatt.com/andaz/abdcc-andaz-capital-gate-abu-dhabi)
 
 Al Khaleej Al Arabi Street,  
-P.O. Box 95165,  
-Abu Dhabi, United Arab Emirates  
-Tel: +971 2 596 1234  
+P.O. Box 95165, Abu Dhabi, UAE  
+Tel: +971 (0) 2 596 1234  
 5 minute walk to ADNEC  
 
 #### [Pearl Rotana Capital Centre](https://www.rotana.com/rotanahotelandresorts/unitedarabemirates/abudhabi/pearlrotana)
 
 Al Khaleej Al Arabi Street  
 Abu Dhabi Capital Centre  
-P.O. Box 94895, Abu Dhabi, U.A.E.  
-T: +971 2 307 5555  
+P.O. Box 94895, Abu Dhabi, UAE  
+Tel: +971 (0) 2 307 5555  
 7 minute walk or 5 minute drive to ADNEC  
  
 #### [Premier Inn Abu Dhabi Capital Centre](https://mena.premierinn.com/en/hotel-directory/abu-dhabi/abu-dhabi-capital-centre-hotel/)
 
+National Exhibition Centre
+Al Muntada Street, Capital Centre Abu Dhabi  
+Abu Dhabi, UAE  
 Phone:+971 (0) 4 521 9264  
 10 minute walk or 3 minute drive to ADNEC  
  
@@ -54,7 +61,7 @@ Phone:+971 (0) 4 521 9264
 Sheikh Rashid Bin Saeed Street  
 cor. Rabdan Street, 95208  
 Abu Dhabi, United Arab Emirates  
-Tel: +971 2 501 6444  
+Tel: +971 (0) 2 501 6444  
 10 minute drive to ADNEC  
  
 #### Additional booking options
