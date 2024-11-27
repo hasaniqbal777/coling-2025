@@ -35,6 +35,10 @@ silver:
     image_path: /assets/images/sponsors/google.png
     alt: Google
     title: Google
+  - url: https://toloka.ai
+    image_path: /assets/images/sponsors/toloka.png
+    alt: Toloka
+    title: Toloka
 
 workshop:
   - url: https://www.microsoft.com/
@@ -44,7 +48,7 @@ workshop:
 
 supporter:
   - url: https://www.aaico.com/
-    image_path: /assets/images/sponsors/AA_Lockup_R.png
+    image_path: /assets/images/sponsors/appliedai.png
     alt: AAICO
     title: The Applied AI Company
 
