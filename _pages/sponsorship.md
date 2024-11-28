@@ -24,6 +24,12 @@ diamond:
     alt: TII
     title: Technology Innovation Institute
 
+school:
+  - url: https://nyuad.nyu.edu/en/
+    image_path: /assets/images/sponsors/nyuad.png
+    alt: NYUAD
+    title: NYU Abu Dhabi
+
 gold:
   - url: https://home.baidu.com/home/index
     image_path: /assets/images/sponsors/baidu.png
@@ -39,12 +45,6 @@ silver:
     image_path: /assets/images/sponsors/toloka.png
     alt: Toloka
     title: Toloka
-
-workshop:
-  - url: https://www.microsoft.com/
-    image_path: /assets/images/sponsors/microsoft.png
-    alt: Microsoft
-    title: Microsoft
 
 supporter:
   - url: https://www.aaico.com/
@@ -90,6 +90,10 @@ If you want to become Sponsor of COLING'2025, please, have a look at the [COLING
 
 {% include sponsors-list id="diamond" layout="third" %}
 
+## Winter School Sponsor
+
+{% include sponsors-list id="school" layout="third" %}
+
 ## Gold
 
 {% include sponsors-list id="gold" layout="third" %}
@@ -97,9 +101,6 @@ If you want to become Sponsor of COLING'2025, please, have a look at the [COLING
 ## Silver
 
 {% include sponsors-list id="silver" layout="third" %}
-
-## Workshop Sponsor
-{% include sponsors-list id="workshop" layout="third" %}
 
 ## Supporter
 {% include sponsors-list id="supporter" layout="third" %}
