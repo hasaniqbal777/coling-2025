@@ -79,3 +79,16 @@ toc_sticky: true
 ## Author Registration Deadlines
 
 To assist the program chairs and the committee with publishing the conference details for the program and the Anthology, we ask all authors to register no later than December 23, 2024.
+
+## Cancelation Policy
+Participants who register within the early bird deadline are entitled to registration fee refunds for valid reasons, substantiated with documentation (e.g., visa delays, medical conditions). Cancellation must be notified to the [Conference Local-Chairs](mailto:coling2025-local-chairs@googlegroups.com). All refunds will be made after the conference. Refunds will be made to the same bank account or credit card as the original payment.
+For any other extenuating circumstances with respect to registration, please write to the local chairs at (what email do you want listed here) with the subject “COLING 2025 Registration Extenuating Circumstances Request”.  These may include single authors who have multiple papers, participants with financial, medical, or other challenges.  These will be reviewed on a case-by-case basis.
+
+Please refer to the following dates for cancellation:
+
+- Cancellation by December 23, 2024: Full refund less bank or credit card expenses and a $50 processing fee
+- Cancellation after January 4, 2024: No refund.
+
+Cancellation means that the final paper could be withdrawn from COLING 2025 Proceedings if no author has finally registered to the Main Conference.
+
+Please remember that cancelling your registration does not automatically cancel your hotel and travel arrangements. Each participant is responsible for cancelling their own hotel and travel reservations.
