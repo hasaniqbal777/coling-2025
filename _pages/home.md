@@ -42,9 +42,9 @@ Notification of acceptance | Friday | November 29, 2024
 Camera-Ready Deadline | Monday | December 15, 2024
 Arabic NLP Winter School | Saturday - Sunday | January 18 - 19, 2025
 Workshop and Tutorials | Sunday - Monday | January 19 - 20, 2025
-Main Conference. including Industry Track and Demos (In-Person Only) | Tuesday - Friday | January 21 - 24, 2025
-Main Conference. including Industry Track and Demos (Virtual Only) | Monday - Tuesday | January 27 - 28, 2025
-{: .news-table}
+Main Conference.<br> including Industry Track and Demos (In-Person Only) | Tuesday - Friday | January 21 - 24, 2025
+Main Conference.<br> including Industry Track and Demos (Virtual Only) | Monday - Tuesday | January 27 - 28, 2025
+{: .dates-table}
 
 <style>
 .dates-table { font-size: .9em; }
@@ -53,7 +53,4 @@ Main Conference. including Industry Track and Demos (Virtual Only) | Monday - Tu
 .dates-table del { color: #888; }
 </style>
 
-
-{: .dates-table}
-<br>
 <b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth).</b>
