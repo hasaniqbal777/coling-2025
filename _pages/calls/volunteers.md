@@ -15,9 +15,9 @@ A limited number of student volunteers are needed for the success of COLING 2025
 
 Tasks may include assisting at the registration desk, filling delegate packs, managing poster board sessions and displays, serving as volunteer coordinator for the day, and/or AV/technical support such as (but not limited to) managing social media (X/Twitter) and providing assistance for conference events including tutorials, the main conference, and workshops (either online or in-person versions).
 
-In exchange for one full day equivalent of work, students receive free registration to the main conference (including the ACL membership fee of the current year), workshops and tutorials, and the social events. The work will be divided, probably into two half-day shifts, and the shifts will be scheduled to maximize volunteer access to the conference events.
+In exchange for one full day equivalent of work, students receive free registration to the main conference, workshops and tutorials, and the social events. The work will be divided, probably into two half-day shifts, and the shifts will be scheduled to maximize volunteer access to the conference events.
 
-We’d like to kindly inform you that the award does not include provisions for travel and accommodation. If travel support is essential for you, we encourage you to explore the Diversity & Inclusion (D&I) funds as well.
+We’d like to kindly inform you that the award does not include provisions for travel and accommodation.
 
 ## Important Dates
 
