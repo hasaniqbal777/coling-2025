@@ -17,6 +17,7 @@ All deadlines are 11:59PM [UTC-12:00](https://www.timeanddate.com/time/zone/time
 </style>
 | Submissions due | September 30, 2024
 | Notifications | November 29, 2024
+| Camera-ready papers due | December, 15, 2024
 | Conference | January 19-24, 2025
 {: .news-table}
 
