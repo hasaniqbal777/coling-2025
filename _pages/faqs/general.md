@@ -42,3 +42,11 @@ No, on the contrary, they will never be together again. The joint conference in 
 ### What will the acceptance rate be for the main track at COLING 2025?
 
 We cannot say now of course, since it depends on many factors, but we point to [the acceptance rates of past COLING conferences](https://aclweb.org/aclwiki/Conference_acceptance_rates) as a rough guide: around 30%.
+
+### Is it possible to add authors or change the order of the authors for the final version of a paper?
+
+It is possible to change the order of the authors for the final version. Adding authors to a paper is not allowed.
+
+### Do camera-ready versions of the papers get an extra page?
+
+Yes, final versions of accepted papers are given one additional page of content (up to 9 pages for long papers, up to 5 pages for short papers) to address reviewers’ comments.
