@@ -81,9 +81,9 @@ toc_sticky: true
 To assist the program chairs and the committee with publishing the conference details for the program and the Anthology, we ask all authors to register no later than December 23, 2024.
 
 ## Cancelation Policy
-Participants who register within the early bird deadline are entitled to registration fee refunds for valid reasons, substantiated with documentation (e.g., visa delays, medical conditions). Cancellation must be notified to the Conference Registrar at colinginfo@yesevents.com. All refunds will be made after the conference. Refunds will be made to the same bank account or credit card as the original payment.
+Participants who register within the early bird deadline are entitled to registration fee refunds for valid reasons, substantiated with documentation (e.g., visa delays, medical conditions). Cancellation must be notified to the Conference Registrar at [colinginfo@yesevents.com](mailto:colinginfo@yesevents).com. All refunds will be made after the conference. Refunds will be made to the same bank account or credit card as the original payment.
 
-For any other extenuating circumstances with respect to registration, please write to the local chairs at coling2025-local-chairs@googlegroups.com with the subject “COLING 2025 Registration Extenuating Circumstances Request”.  These may include single authors who have multiple papers, participants with financial, medical, or other challenges.  These will be reviewed on a case-by-case basis.
+For any other extenuating circumstances with respect to registration, please write to the local chairs at [coling2025-local-chairs@googlegroups.com](mailto:coling2025-local-chairs@googlegroups.com) with the subject “COLING 2025 Registration Extenuating Circumstances Request”.  These may include single authors who have multiple papers, participants with financial, medical, or other challenges.  These will be reviewed on a case-by-case basis.
 
 Please refer to the following dates for cancellation:
 

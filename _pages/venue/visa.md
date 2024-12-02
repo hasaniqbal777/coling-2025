@@ -33,7 +33,7 @@ All other nationalities not mentioned in the above list are required to pre-arra
 
 ***Invitation letter***
 
-You will receive an invitation letter from Yes Events confirming that you have an accepted paper (main, insustry, demo, or workshop) or tutorial at Coling 2025.  For custom invitation letters, contact megs@aclweb.org .
+You will receive an invitation letter from Yes Events confirming that you have an accepted paper (main, insustry, demo, or workshop) or tutorial at Coling 2025.  For custom invitation letters, contact [megs@aclweb.org](megs@aclweb.org) .
 
 ***Who can apply the visa on your behalf?***
 
