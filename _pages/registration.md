@@ -87,7 +87,7 @@ For any other extenuating circumstances with respect to registration, please wri
 
 Please refer to the following dates for cancellation:
 
-- Cancellation by December 23, 2024: Full refund less bank or credit card expenses and a $50 processing fee
+- Cancellation by December 23, 2024: Full refund less bank or credit card expenses and a $50 processing fee.
 - Cancellation from December 24 - January 3rd will have a $200 Cancellation fee.
 - Cancellation after January 4, 2024: No refund. 
 
