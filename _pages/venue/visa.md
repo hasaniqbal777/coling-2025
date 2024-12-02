@@ -31,6 +31,10 @@ If you are a passport holder of the below country or territory, ***no advance vi
 
 All other nationalities not mentioned in the above list are required to pre-arrange a visa for entry into the United Arab Emirates.
 
+***Invitation letter***
+
+You will receive an invitation letter from Yes Events confirming that you have an accepted paper (main, insustry, demo, or workshop) or tutorial at Coling 2025.  For custom invitation letters, contact megs@aclweb.org .
+
 ***Who can apply the visa on your behalf?***
 
 - Airlines such as [Emirates](https://www.emirates.com/ae/english/before-you-fly/visa-passport-information/uae-visa-information/), [FlyDubai](https://www.flydubai.com/en/plan/visas-and-passports/dubai-visas), [Etihad Airways](https://www.etihad.com/en-ae/fly-etihad/visas) and [Air Arabia](https://www.airarabia.com/en/uae-visa) (click on the airline for more information)
@@ -42,6 +46,8 @@ We recommend [Capital Experience](http://www.capitalexperience.ae/), a sister co
 <figure>
   <img src="/assets/images/abudhabi/ce.png" alt="CE" style="width:100%">
 </figure>
+
+
 
 ### UAE Embassy in Countries around the World
 
