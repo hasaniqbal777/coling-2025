@@ -41,4 +41,4 @@ The local organization team has been in touch with leaders of LGBTQ+ affinity gr
 
 ### I have never been to the UAE before, and I have some questions about traveling there. Who can I talk to?
 
-The local organization team is happy to answer any questions and concerns by email or schedule Zoom sessions. Please email [mailto:coling2025-programchairs@googlegroups.com](mailto:coling2025-programchairs@googlegroups.com).
+The local organization team is happy to answer any questions and concerns by email or schedule Zoom sessions. Please email at [coling2025-programchairs@googlegroups.com](mailto:coling2025-local-chairs@googlegroups.com).
