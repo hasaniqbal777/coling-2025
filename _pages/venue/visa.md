@@ -38,7 +38,7 @@ You will receive an invitation letter from Yes Events confirming that you have a
 ***Who can apply the visa on your behalf?***
 
 - Airlines such as [Emirates](https://www.emirates.com/ae/english/before-you-fly/visa-passport-information/uae-visa-information/), [FlyDubai](https://www.flydubai.com/en/plan/visas-and-passports/dubai-visas), [Etihad Airways](https://www.etihad.com/en-ae/fly-etihad/visas) and [Air Arabia](https://www.airarabia.com/en/uae-visa) (click on the airline for more information)
-- Licensed travel agents or tour operators with whom you have arranged a trip. Please be sure to check the authenticity of travel agents before sharing any details and documentation.
+- Licensed travel agents like Danata Travel ([travelservices@dnata.com](mailto:travelservices@dnata.com)) or tour operators with whom you have arranged a trip. Please be sure to check the authenticity of travel agents before sharing any details and documentation.
 - Friends or relatives who are residing in the UAE
 
 We recommend [Capital Experience](http://www.capitalexperience.ae/), a sister company of ADNEC. They can assist with visa processing, and other services such as flight tickets, and airport transfers.
