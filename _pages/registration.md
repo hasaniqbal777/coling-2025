@@ -9,6 +9,10 @@ toc_sticky: true
 
 ## Registration Information
 
+### Registration is now open!
+
+Please click [here](https://acl.swoogo.com/COLING2025) to register for COLING 2025.
+
 **Early bird**
 
 | Fees |Student (USD)| Regular (USD)|
@@ -54,8 +58,6 @@ toc_sticky: true
 - Workshops and tutorials can be registered for separately, without requiring Main Conference registration.
 - Student fees are applicable only to full-time students. To qualify for student status, participants must provide proof of their academic standing (a student ID or a certificate for 2024–2025, signed by a supervisor) as a file (PDF, GIF, JPG, or PNG) during the registration process.
 - Social Event tickets for accompanying persons can be purchased during registration.
-
-**Registration will open on the Monday following the Accepted Papers Announcement.**
 
 ## Registration Dates
 
