@@ -328,3 +328,21 @@ site=""
 institution="University of Sheffield, UK"
 email = ""
 %}
+
+<h2>Social Diversity & Inclusion (SD&I) Chairs</h2>
+
+{% include bio-box
+name="Hawau Olamide Toyin"
+picture="/assets/images/committee/Hawau.jpeg"
+site=""
+institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
+email = ""
+%}
+
+{% include bio-box
+name="Mukund Choudhary"
+picture="/assets/images/committee/mukund.jpeg"
+site=""
+institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
+email = ""
+%}
