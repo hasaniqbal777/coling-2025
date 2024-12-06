@@ -19,6 +19,7 @@ The 31st International Conference on Computational Linguistics (COLING 2025) wil
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| Dec 6, 2024 | [Call for Birds of a Feather Sessions](/calls/bof/) is posted.
 | Dec 4, 2024 | [Registration](/registration/) link is posted.
 | Nov 30, 2024 | [Registration](/registration/) opens.
 | Nov 14, 2024 | [Camera-Ready Deadline](/calls/main_conference_papers/) is posted to December 15, 2024.
