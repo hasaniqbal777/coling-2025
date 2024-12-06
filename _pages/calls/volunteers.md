@@ -28,8 +28,8 @@ All deadlines are 11:59PM [UTC-12:00](https://www.timeanddate.com/time/zone/time
 .news-table tr td:nth-child(1) { font-weight: bold; width: 25em;}
 </style>
 
-| Application deadline | December 6, 2024 |
-| Notification of acceptance | December 15, 2024 |
+| Application deadline | December 10, 2024 |
+| Notification of acceptance | December 17, 2024 |
 {: .news-table}
 
 ## Selection Criteria
