@@ -81,6 +81,10 @@ program:
         url: /program/tutorials/
       - title: Co-Located Events
         url: /program/colocated/
+  - title: Accepted
+    children:
+      - title: Main Conference Papers
+        url: /program/main_conference_papers/
   - title: Events
     children:
       - title: Keynotes

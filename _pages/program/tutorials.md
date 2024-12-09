@@ -10,7 +10,6 @@ toc_sticky: true
 ---
 
 The following tutorials have been accepted for COLING 2025. <br>
-<small>More information will be updated soon</small>
 
 <table style="font-size: 18px;">
   <thead>
