@@ -127,6 +127,5 @@ Reviewing will be single-blind, so authors do not need to conceal their identity
 
 ## Demo Session Chairs
 Contact email: [coling2025demos@googlegroups.com](mailto:coling2025demos@googlegroups.com)
-- Tilman Becker, Czech Institute of Informatics, Robotics, and Cybernetics
 - Mark Dras, Macquarie University
 - Brodie Mather, Florida Institute for Human & Machine Cognition

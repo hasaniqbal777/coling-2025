@@ -166,14 +166,6 @@ email = ""
 %}
 
 {% include bio-box
-name="Tilman Becker"
-picture="/assets/images/committee/Tilman-Becker.jpg"
-site=""
-institution="German Research Center for Artificial Intelligence, Germany"
-email = ""
-%}
-
-{% include bio-box
 name="Mark Dras"
 picture="/assets/images/committee/mark-dras.jpg"
 site=""
