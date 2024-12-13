@@ -1,7 +1,7 @@
 ---
 title: Submission FAQs
 layout: single
-excerpt: "COLING 2025 Submission FAQs"
+excerpt: "Submission FAQs"
 permalink: /faqs/submission/
 sidebar: 
     nav: "faqs"

@@ -1,7 +1,7 @@
 ---
-title: General FAQs
+title: General FAQs About COLING
 layout: single
-excerpt: "COLING 2025 General FAQs"
+excerpt: "General FAQs About COLING"
 permalink: /faqs/
 sidebar: 
     nav: "faqs"

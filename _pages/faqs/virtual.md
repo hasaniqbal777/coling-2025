@@ -1,7 +1,7 @@
 ---
 title: Virtual Participation FAQs
 layout: single
-excerpt: "COLING 2025 Virtual Participation FAQs"
+excerpt: "Virtual Participation FAQs"
 permalink: /faqs/virtual/
 sidebar: 
     nav: "faqs"

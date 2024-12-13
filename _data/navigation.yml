@@ -93,11 +93,13 @@ program:
 faqs:
   - title: FAQs
     children:
-      - title: General
-        url: /faqs/
-      - title: Submission
-        url: /faqs/submission/
+      - title: Attending COLING 2025
+        url: /faqs/attending/
       - title: Virtual Participation
         url: /faqs/virtual/
+      - title: Submission
+        url: /faqs/submission/
       - title: Abu Dhabi
         url: /faqs/abudhabi/
+      - title: General FAQs About COLING
+        url: /faqs/
