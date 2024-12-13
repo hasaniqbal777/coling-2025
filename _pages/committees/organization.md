@@ -329,7 +329,7 @@ institution="University of Sheffield, UK"
 email = ""
 %}
 
-<h2>Social Diversity & Inclusion (SD&I) Chairs</h2>
+<h2>Birds-of-a-Feather (BoF) Chairs</h2>
 
 {% include bio-box
 name="Hawau Olamide Toyin"
