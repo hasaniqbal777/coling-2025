@@ -85,6 +85,8 @@ program:
     children:
       - title: Main Conference Papers
         url: /program/main_conference_papers/
+      - title: System Demonstration Papers
+        url: /program/system_demonstration_papers/
   - title: Events
     children:
       - title: Keynotes
