@@ -96,7 +96,7 @@ The following workshops have been accepted for COLING 2025. <br>
     </tr>
     <tr>
       <td style="width: 500px;">W13: The Fifth Celtic Language Technology Workshop (CLT) <br> <a href="https://softconf.com/coling2025/CLT25/">Submission Link</a> | <a href="https://cltworkshop.github.io/">Workshop URL</a> </td>
-      <td style="width: 100px;">In-Person</td>
+      <td style="width: 100px;">Online Only</td>
     </tr>
     <tr>
       <td style="width: 500px;">W14: Workshop of Evaluation of Multimodal Generation (EvalMG) <br> <a href="https://softconf.com/coling2025/EvalMG25/">Submission Link</a> | <a href="https://evalmg.github.io/">Workshop URL</a> </td>
