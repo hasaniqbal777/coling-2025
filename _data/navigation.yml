@@ -93,6 +93,8 @@ program:
     children:
       - title: Keynotes
         url: /program/events/keynotes/
+      - title: Social Excursions
+        url: /program/events/social_excursions/
 
 faqs:
   - title: FAQs
