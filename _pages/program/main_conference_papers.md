@@ -1333,7 +1333,7 @@ toc_sticky: true
 *Louis Castricato, Nathan Lile, Rafael Rafailov, Jan-Philipp Fränken and Chelsea Finn*
 - **Human Interest Framing across Cultures: A Case Study on Climate Change**  
 *Gisela Vallejo, Christine de Kock, Timothy Baldwin and Lea Frermann*
-- **OpenFactCheck: A Unified Framework for Factuality Evaluation of LLMs**  
+- **OpenFactCheck: Building, Benchmarking Customized Fact-Checking Systems and Evaluating the Factuality of Claims and LLMs**  
 *Yuxia Wang, Minghan Wang, Hasan Iqbal, Georgi N. Georgiev, Jiahui Geng and Preslav Nakov*
 - **Evaluating Model Alignment with Human Perception: A Study on Shitsukan in LLMs and LVLMs**  
 *Daiki Shiono, Ana Brassard, Yukiko Ishizuki and Jun Suzuki*
