@@ -18,7 +18,7 @@ Al Khaleej Al Arabi Street
 P.O. Box 94943, Abu Dhabi, UAE  
 Tel: +971 (0) 2 654 5000  
 
-You will find the information for your [discounted online reservation on this link](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.marriott.com%2Fevent-reservations%2Freservation-link.mi%3Fid%3D1732374851309%26key%3DGRP%26guestreslink2%3Dtrue%26app%3Dresvlink&data=05%7C02%7CReservations.AloftAbuDhabi%40alofthotels.com%7C5e27115ffe5c4613da7008dd0bd310cb%7Cd2033364dec34a1c97723f41ca7c4b75%7C1%7C0%7C638679723335046243%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=66Ou0u4Z0YOdrXO5PFmUAqBFAulV9yywQSxtRCkuwRE%3D&reserved=0). If you have questions or need help with the link, please do not hesitate to ask. We appreciate your business and look forward to a successful event.
+You will find the information for your [discounted online reservation on this link](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.marriott.com%2Fevent-reservations%2Freservation-link.mi%3Fid%3D1732375424288%26key%3DGRP%26guestreslink2%3Dtrue%26app%3Dresvlink&data=05%7C02%7CReservations.AloftAbuDhabi%40alofthotels.com%7Cd522a6a624a647230a4308dd0bd2e833%7Cd2033364dec34a1c97723f41ca7c4b75%7C1%7C0%7C638679722656641177%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=xVs2xU1yz3fp5JfImGE4IV%2BnLnJ2WBSdIRyc0nScsy8%3D&reserved=0). If you have questions or need help with the link, please do not hesitate to ask. We appreciate your business and look forward to a successful event.
 
 Discounted rates:
 
