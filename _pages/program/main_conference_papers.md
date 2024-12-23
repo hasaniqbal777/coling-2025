@@ -117,8 +117,6 @@ toc_sticky: true
 *Zhongquan Jian, Daihang Wu, Shaopan Wang, Yancheng Wang, Junfeng Yao, Meihong Wang and Qingqiang Wu*
 - **TaCIE: Enhancing Instruction Comprehension in Large Language Models through Task-Centred Instruction Evolution**  
 *Jiuding Yang, Shengyao Lu, Weidong Guo, Xiangyang Li, Kaitong Yang, Yu Xu and Di Niu*
-- **DPCL-Diff:The Temporal Knowledge Graph Reasoning based on Graph Node Diffusion Model with Dual-Domain Periodic Contrastive Learning**  
-*YuKun Cao, 利胜 汪, Xuefeng Xu, Luobin Huang, new Koo and YONGCHENG HE*
 - **LLaMA-E: Empowering E-commerce Authoring with Object-Interleaved Instruction Following**  
 *Kaize Shi, Xueyao Sun, Dingxian Wang, Yinlin Fu, Guandong Xu and Qing Li*
 - **LLMTreeRec: A Tree-based Large Language Model Framework for Cold-start Recommendation**  
@@ -282,7 +280,7 @@ toc_sticky: true
 - **Commonsense Subgraph for Inductive Relation Reasoning with Meta-learning**  
 *Feng Zhao, Zhilu Zhang, Cheng Yan and Xianggan Liu*
 - **Clear Up Confusion: Iterative Differential Generation for Fine-grained Intent Detection with Contrastive Feedback**  
-*Feng Zhang, Wei Chen, Meng Gao, Fei Ding, Tengjiao Wang, jiahui Yao and jiabin zheng*
+*Feng Zhang, Wei Chen, Meng Gao, Fei Ding, Tengjiao Wang, Jiahui Yao and Jiabin Zheng*
 - **Leveraging Explicit Reasoning for Inference Integration in Commonsense-Augmented Dialogue Models**  
 *Sarah E. Finch and Jinho D. Choi*
 - **Integrating Group-based Preferences from Coarse to Fine for Cold-start Users Recommendation**  
@@ -337,8 +335,6 @@ toc_sticky: true
 *Nilesh Kumar Sahu, Manjeet Yadav, Mudita Chaturvedi, Snehil Gupta and Haroon R. Lone*
 - **Oddballness: universal anomaly detection with language models**  
 *Filip Gralinski, Ryszard Staruch and Krzysztof Jurkiewicz*
-- **CMMaTH: A Chinese Multi-modal Math Skill Evaluation Benchmark for Foundation Models**  
-*Zhongzhi Li, Ming-Liang Zhang, Pei-Jie Wang, Rui-Song Zhang, Yin Fei, Zhi-Long Ji, Jin-Feng Bai, Zhen-Ru Pan, Jian Xu, Jia-Xin Zhang and Cheng-Lin Liu*
 - **CMMaTH: A Chinese Multi-modal Math Skill Evaluation Benchmark for Foundation Models**  
 *Zhongzhi Li, Ming-Liang Zhang, Pei-Jie Wang, Rui-Song Zhang, Yin Fei, Zhi-Long Ji, Jin-Feng Bai, Zhen-Ru Pan, Jian Xu, Jia-Xin Zhang and Cheng-Lin Liu*
 - **Efficient Tool Use with Chain-of-Abstraction Reasoning**  
@@ -497,7 +493,7 @@ toc_sticky: true
 *Guixin Su, Yongcheng Zhang, Tongguan Wang, Mingmin Wu and Ying Sha*
 - **Claim veracity assessment for explainable fake news detection**  
 *Bassamtiano Renaufalgi Irnawan, Sheng Xu, Noriko Tomuro, Fumiyo Fukumoto and Yoshimi Suzuki*
-- **ACE-$M^3$: Automatic Capability Evaluator for Multimodal Medical Models**  
+- **ACE-M^3: Automatic Capability Evaluator for Multimodal Medical Models**  
 *Xiechi Zhang, Shunfan Zheng, Linlin Wang, Gerard de Melo, Zhu Cao, xiaoling Wang and Liang He*
 - **A Dual Contrastive Learning Framework for Enhanced Multimodal Conversational Emotion Recognition**  
 *Yunhe XIE, Chengjie Sun, Ziyi Cao, Bingquan Liu, zhenzhou Ji, Yuanchao Liu and Lili Shan*
@@ -870,7 +866,7 @@ toc_sticky: true
 - **Re-Cent: A Relation-Centric Framework for Joint Zero-Shot Relation Triplet Extraction**  
 *Zehan Li, Fu Zhang, Kailun Lyu, Jingwei Cheng and Tianyue Peng*
 - **CoMIF: Modeling of Complex Multiple Interaction Factors for Conversation Generation**  
-*yuxuan chen, Wei Wei, Shixuan Fan, kaihe xu and Dangyang Chen*
+*Uuxuan Chen, Wei Wei, Shixuan Fan, Kaihe Xu and Dangyang Chen*
 - **Courtroom-LLM: A Legal-Inspired Multi-LLM Framework for Resolving Ambiguous Text Classifications**  
 *Sangkeun Jung*
 - **RoleBreak: Character Hallucination as a Jailbreak Attack in Role-Playing Systems**  

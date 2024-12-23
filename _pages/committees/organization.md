@@ -174,11 +174,20 @@ email = ""
 %}
 
 <h2>Industrial Track Chairs</h2>
+
 {% include bio-box
 name="Kareem Darwish"
 picture="/assets/images/committee/Kareem-Darwish.jpeg"
 site=""
 institution="aiXplain, USA"
+email = ""
+%}
+
+{% include bio-box
+name="Apoorv Agarwal"
+picture="/assets/images/committee/Apoorv-headshot.png"
+site=""
+institution=""
 email = ""
 %}
 
@@ -300,6 +309,14 @@ name="Alexander Shvets"
 picture="/assets/images/committee/Aleksandr-Shvets.jpg"
 site=""
 institution="Barcelona Supercomputing Center, Spain"
+email = ""
+%}
+
+{% include bio-box
+name="Tuhin Chakrabarty"
+picture="/assets/images/committee/tuhin.jpg"
+site=""
+institution="Stony Brook University, USA"
 email = ""
 %}
 
