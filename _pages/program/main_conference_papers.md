@@ -40,7 +40,7 @@ toc_sticky: true
 - **FedMKT: Federated Mutual Knowledge Transfer for Large and Small Language Models**  
 *Tao Fan, Guoqiang Ma, Yan Kang, Hanlin Gu, Yuanfeng Song, Lixin Fan, Kai Chen and Qiang Yang*
 - **Dynamic Graph Neural ODE Network for Multi-modal Emotion Recognition in Conversation**  
-*Yuntao Shou, tao meng, wei ai and KEQIN LI*
+*Yuntao Shou, Tao Meng, Wei Ai and Keqin Li*
 - **HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding**  
 *Peng Xia, Xingtong Yu, Ming Hu, Lie Ju, Zhiyong Wang, Peibo Duan and Zongyuan Ge*
 - **Persona-DB: Improving Large Language Model Personalization for Response Prediction with Collaborative Data Refinement**  
@@ -1399,7 +1399,7 @@ toc_sticky: true
 - **Generation-Augmented and Embedding Fusion in Document-Level Event Argument Extraction**  
 *Xingjian Lin, Shengfei Lyu, Xin Wang, Qiuju Chen and Huanhuan Chen*
 - **On the Human-level Performance of Visual Question Answering on Visual7W**  
-*Guanyi Chen, chenlian zhou and Xin Bai*
+*Guanyi Chen, Chenlian Zhou and Xin Bai*
 - **Learning from Impairment: Leveraging Insights from Clinical Linguistics for Efficient Language Models**  
 *Dominique Brunato*
 - **Exploring the Limitations of Detecting Machine-Generated Text**  
@@ -1509,7 +1509,7 @@ toc_sticky: true
 - **VoxpopuliTTS: a large-scale multilingual TTS corpus for zero-shot speech generation**  
 *Zhou Zhao, Wenrui Liu, Xize Cheng, Ziyue Jiang, Jionghao Bo, Xiaoda Yang, Minghui Fang, Shengpeng Ji, Jialong Zuo and Qian Yang*
 - **Evaluating Transformers for OCR Post-Correction in Early Modern Dutch Comedies and Farces**  
-*Florian Debaene, Aaron Maladry, Els Lefever and Veronique Hoste*
+*Florian Debaene, Aaron Maladry, Els Lefever and Véronique Hoste*
 - **In-Context Reinforcement Learning with Retrieval-Augmented Generation for Text-to-SQL**  
 *Rishit Toteja, Arindam Sarkar and Prakash Mandayam Comar*
 - **Efficient Architectures for High Resolution Vision-Language Models**  
