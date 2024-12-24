@@ -20,7 +20,7 @@ toc_sticky: true
 
 See detailed schedule under [Arabic NLP Winter School](https://winterschool2025.sigarab.org).
 
-| 14:00 – 18:30 | Registration (ADNEC) |
+| 14:00 – 19:00 | Registration (ADNEC) |
 {: .news-table}
 
 ## Sunday, January 19, 2025
@@ -29,7 +29,7 @@ See detailed schedule under [Arabic NLP Winter School](https://winterschool2025.
 
 See detailed schedules under [Workshop](/program/workshops/), [Tutorials](/program/tutorials/) and [Arabic NLP Winter School](https://winterschool2025.sigarab.org).
 
-| 08:00 – 16:30 | Registration |
+| 07:30 – 20:30 | Registration |
 | 10:30 – 11:00 | Break (Coffee, Tea & light bites) |
 | 15:30 – 16:00 | Break (Coffee, Tea & light bites) |
 {: .news-table}
@@ -38,10 +38,10 @@ See detailed schedules under [Workshop](/program/workshops/), [Tutorials](/progr
 
 <small>Breakfast, lunch, and dinner are not provided.</small>
 
-| 08:00 – 16:30 | Registration |
+| 07:30 – 17:30 | Registration |
 | 10:30 – 11:00 | Break (Coffee, Tea & light bites) |
 | 15:30 – 16:00 | Break (Coffee, Tea & light bites) |
-| 19:00 – 21:00 | Welcome Reception (Aloft’s Splash Garden) <br> Registered attendees only (Welcome drink ticket, light bites) |
+| 18:00 – 20:30 | Welcome Reception (Aloft’s Splash Garden) <br> Registered attendees only (Welcome drink ticket, light bites) |
 {: .news-table}
 
 Please check each workshop as schedules vary
@@ -54,7 +54,7 @@ Please check each workshop as schedules vary
 | 09:00 – 09:30 | Session 1: Plenary – Opening Session |
 | 09:30 – 10:30 | Welcome & Keynote Speaker: Emmanuel Dupoux <br> *Learning a language like infants do: results and challenges for developmentally inspired NLP* |
 | 10:30 – 11:00 | Break (Coffee, Tea & light bites) |
-| 11:00 – 12:30 | Session 2: Orals/Posters/BoF Session A Orals <br><br> **Hall B (A)** - Multilinguality and Machine Translation 1 <br> **Hall B (B)** - Semantics and Reasoning 1 <br> **Hall B (C)** - Natural Language Generation and Summarization 1 <br> **Capital Suite 7** - NLP Applications 1 <br> **Capital Suite 8** - Information Extraction and Retrieval 1 <br> **Capital Suite 9** - Cognitive Modeling and Language Acquisition 1 <br> **Atrium** Poster/Demos: NLP Applications; Information Extraction and Retrieval; Cognitive Modeling and Language Acquisition; Dialogue and Conversational Interaction <br> **Hall B (D)** – BoF: TBA |
+| 11:00 – 12:30 | Session 2: Orals/Posters/BoF Session A Orals <br><br> **Hall B (A)** - Multilinguality and Machine Translation 1 <br> **Hall B (B)** - Semantics and Reasoning 1 <br> **Hall B (C)** - Natural Language Generation and Summarization 1 <br> **Capital Suite 7** - NLP Applications 1 <br> **Atrium** Poster/Demos: NLP Applications; Information Extraction and Retrieval; Cognitive Modeling and Language Acquisition; Dialogue and Conversational Interaction <br> **Hall B (D)** – BoF: TBA |
 | 12:30 – 14:00 | Break (Lunch on own) |
 | 14:00 – 15:30 | Session 3: Orals/Posters/BoF Session B Orals <br><br> **Hall B (A)** - Discourse, phonology and syntax <br> **Hall B (B)** - Machine Learning <br> **Hall B (C)** - Interpretability and Explainability <br> **Capital Suite 7** - Language Resources and Evaluation 1 <br> **Atrium** - POSTER/Demos: Semantics and Reasoning; NLP Applications; Multilinguality, Machine Translation and Low-Resource Languages; Natural Language Generation and Summarization <br> **Hall B (D)** – BoF: TBA |
 | 15:30 – 16:00 | Break (Coffee, Tea & light bites) |
@@ -70,7 +70,7 @@ Please check each workshop as schedules vary
 | 10:30 – 11:00 | Break (Coffee, Tea & light bites) |
 | 11:00 – 12:30 | Session 6: Orals/Posters/BoF Session E Orals <br><br> **Hall B (A)** - Ethics, bias and fairness 1 <br> **Hall B (B)** - Multilinguality and machine translation 2 <br> **Hall B (C)** - Industry 2 <br> **Capital Suite 7** - NLP Applications 3 <br> **Atrium** - POSTER/Demos: Language Modeling; Semantics and Reasoning; Language Resources and Evaluation; Sentiment Analysis <br> **Hall B (D)** – BoF: TBA |
 | 12:30 – 14:00 | Break (Lunch on own) |
-| 14:00 – 15:30 | Session 7: Orals/Posters/BoF Session F Orals <br><br> **Hall B (A)** - Sentiment analysis 1 <br> **Hall B (B)** - Language modeling 1 <br> **Hall B (C)** - Industry 3 <br> **Capital Suite 7** - Language Resources and Evaluation 2 <br> **Atrium** - POSTER/Demos: Information Extraction and Retrieval; Multimodal NLP; Machine Learning <br> **Hall B (D)** – BoF: TBA |
+| 14:00 – 15:30 | Session 7: Orals/Posters/BoF Session F Orals <br><br> **Hall B (A)** - Semantics and reasoning 2 <br> **Hall B (B)** - Language modeling 1 <br> **Hall B (C)** - Industry 3 <br> **Capital Suite 7** - Language Resources and Evaluation 2 <br> **Atrium** - POSTER/Demos: Information Extraction and Retrieval; Multimodal NLP; Machine Learning <br> **Hall B (D)** – BoF: TBA |
 | 15:30 – 16:00 | Break (Coffee, Tea & light bites) |
 | 16:00 – 17:00 | Session 8: Plenary - Keynote Speaker: Katrin Erk <br> *Word meaning, in computational linguistics and beyond* |
 {: .news-table}
@@ -93,7 +93,7 @@ Please check each workshop as schedules vary
 Main Conference
 
 | 08:30 – 16:30 | Registration |
-| 09:00 – 10:00 | Session 11: Plenary - Keynote Speaker: Regina Barzilay <br> *Towards linguistically and culturally inclusive LLMs* |
+| 09:00 – 10:00 | Session 11: Plenary - Keynote Speaker: Partha Talukdar <br> *Towards linguistically and culturally inclusive LLMs* |
 | 10:00 – 10:30 | Break (Coffee, Tea & light bites) |
 | 10:30 – 12:00 | Session 12: Orals/Posters/BoF Session I Orals <br><br> **Hall B (A)** - Sentiment Analysis 2 <br> **Hall B (B)** - Natural Language Generation and Summarization 2 <br> **Hall B (C)** - Dialogue and Conversational Interaction 2 <br> **Capital Suite 7** - Multilinguality and machine translation 3 <br> **Atrium** - POSTER/Demos: NLP Applications; Language Resources and Evaluation; Language Modeling; Information Extraction and Retrieval <br> **Hall B (D)** – BoF: TBA |
 | 12:00 – 13:30 | Break (Lunch on own) |
