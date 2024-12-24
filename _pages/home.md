@@ -22,6 +22,7 @@ The 31st International Conference on Computational Linguistics (COLING 2025) wil
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| Dec 23, 2024 | [Program Overview](/program/) is posted.
 | Dec 23, 2024 | [Accepted Industry Track Papers](/program/industry_track_papers/) are posted.
 | Dec 13, 2024 | [Accepted System Demonstration Papers](/program/system_demonstration_papers/) are posted.
 | Dec 9, 2024 | [Accepted Main Conference Papers](/program/main_conference_papers/) are posted.

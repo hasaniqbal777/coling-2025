@@ -9,6 +9,8 @@ toc: true
 toc_sticky: true
 ---
 
+COLING 25 Paper Assignments are now available [here](https://docs.google.com/spreadsheets/d/1EzQl5drWfg3ohyaAz2327S4D4IPHNvEG2ZrtaIOFikk/edit?usp=sharing).
+
 <style>
 .news-table { font-size: .9em; table-layout: fixed; text-align: left; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 8em;}
@@ -29,7 +31,7 @@ See detailed schedule under [Arabic NLP Winter School](https://winterschool2025.
 
 See detailed schedules under [Workshop](/program/workshops/), [Tutorials](/program/tutorials/) and [Arabic NLP Winter School](https://winterschool2025.sigarab.org).
 
-| 07:30 – 20:30 | Registration |
+| 07:30 – 16:30 | Registration |
 | 10:30 – 11:00 | Break (Coffee, Tea & light bites) |
 | 15:30 – 16:00 | Break (Coffee, Tea & light bites) |
 {: .news-table}
@@ -38,10 +40,11 @@ See detailed schedules under [Workshop](/program/workshops/), [Tutorials](/progr
 
 <small>Breakfast, lunch, and dinner are not provided.</small>
 
-| 07:30 – 17:30 | Registration |
+| 07:30 - 17:30 | Registration (ADNEC) |
 | 10:30 – 11:00 | Break (Coffee, Tea & light bites) |
 | 15:30 – 16:00 | Break (Coffee, Tea & light bites) |
-| 18:00 – 20:30 | Welcome Reception (Aloft’s Splash Garden) <br> Registered attendees only (Welcome drink ticket, light bites) |
+| 18:00 - 20:30 | Registration (Aloft Splash Garden) |
+| 19:00 – 21:00 | Welcome Reception (Aloft’s Splash Garden) <br> Registered attendees only (Welcome drink ticket, light bites) |
 {: .news-table}
 
 Please check each workshop as schedules vary
