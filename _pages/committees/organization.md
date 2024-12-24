@@ -302,7 +302,7 @@ institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""
 %}
 
-<h2>Virtual Infrastructure Chairs</h2>
+<h2>Virtual Main Conference Chairs</h2>
 
 {% include bio-box
 name="Alexander Shvets"
