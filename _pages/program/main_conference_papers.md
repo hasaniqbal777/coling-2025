@@ -629,7 +629,7 @@ toc_sticky: true
 *Jiaxuan Liu, Zhaoci Liu, Yajun Hu, Yingying Gao, Shilei Zhang and Zhenhua Ling*
 - **OpenForecast: A Large-Scale Open-Ended Event Forecasting Dataset**  
 *Zhen Wang, Xi Zhou, Yating Yang, Bo Ma, Azmat Anwar, Lei Wang and Rui Dong*
-- **A Relevance-Based Reinforcement Learning Model for Computerized Adaptive Testing**  
+- **A Knowledge Graph Reasoning-Based Model for Computerized Adaptive Testing**  
 *Xinyi Qiu and Zhiyun Chen*
 - **TOOL-ED: Enhancing Empathetic Response Generation with the Tool Calling Capability of LLM**  
 *Huiying Cao, Yiqun Zhang, Shi Feng, Xiaocui Yang, Daling Wang and Yifei Zhang*
