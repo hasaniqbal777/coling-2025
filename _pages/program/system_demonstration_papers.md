@@ -31,7 +31,7 @@ toc_sticky: true
 *Yijie LI and Yuan Sun*
 - (ID: 36) **LUCE: A Dynamic Framework and Interactive Dashboard for Opinionated Text Analysis**  
 *Omnia Zayed, Gaurav Negi, Sampritha Hassan Manjunath, Devishree Pillai and Paul Buitelaar*
-- (ID: 39) **RAGoon: A Configurable Toolkit for RAG-enabled LLM Experimentation**  
+- (ID: 39) **RAGthoven: A Configurable Toolkit for RAG-enabled LLM Experimentation**  
 *Gregor Karetka, Demetris Skottis, Lucia Dutková, Peter Hraška and Marek Suppa*
 - (ID: 42) **MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering**  
 *Zhengyuan Zhu, Daniel Lee, Hong Zhang, Sai Sree Harsha, Loic Feujio, Akash Maharaj and Yunyao Li*

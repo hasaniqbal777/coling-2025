@@ -11,7 +11,7 @@ toc_sticky: true
 
 The following workshops have been accepted for COLING 2025. <br>
 
-## January 19, 2025
+## Sunday, January 19, 2025
 
 <table style="font-size: 18px;">
   <thead>
@@ -60,7 +60,7 @@ The following workshops have been accepted for COLING 2025. <br>
   </tbody>
 </table>
 
-## January 19-20, 2025
+## Sunday-Monday, January 19-20, 2025
 
 <table style="font-size: 18px;">
   <thead>
@@ -77,7 +77,7 @@ The following workshops have been accepted for COLING 2025. <br>
   </tbody>
 </table>
 
-## January 20, 2025
+## Monday, January 20, 2025
 <table style="font-size: 18px;">
   <thead>
     <tr>
