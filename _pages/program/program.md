@@ -9,7 +9,10 @@ toc: true
 toc_sticky: true
 ---
 
-COLING 25 Detailed Schedule, including all oral presentations and posters, is now available [here](https://docs.google.com/spreadsheets/d/1EzQl5drWfg3ohyaAz2327S4D4IPHNvEG2ZrtaIOFikk/edit?usp=sharing).
+<style>
+.red-text { color: red; font-weight: bold; font-size: 1em; }
+</style>
+<span class="red-text">COLING 25 Detailed Schedule, including all oral presentations and posters, is now available [here](https://docs.google.com/spreadsheets/d/1EzQl5drWfg3ohyaAz2327S4D4IPHNvEG2ZrtaIOFikk/edit?usp=sharing)
 
 <style>
 .news-table { font-size: .9em; table-layout: fixed; text-align: left; }
