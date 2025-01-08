@@ -30,6 +30,12 @@ school:
     alt: NYUAD
     title: NYU Abu Dhabi
 
+platinum:
+  - url: https://inceptionai.ai/index.html
+    image_path: /assets/images/sponsors/inception.png
+    alt: Inception AI
+    title: Inception AI
+
 gold:
   - url: https://home.baidu.com/home/index
     image_path: /assets/images/sponsors/baidu.png
@@ -79,8 +85,8 @@ If you want to become Sponsor of COLING'2025, please, have a look at the [COLING
 </style>
 
 ## Destination Partner
-{% include sponsors-list id="partner" layout="third" %}
 
+{% include sponsors-list id="partner" layout="third" %}
 
 ## Host Institution
 
@@ -93,6 +99,10 @@ If you want to become Sponsor of COLING'2025, please, have a look at the [COLING
 ## Winter School Sponsor
 
 {% include sponsors-list id="school" layout="third" %}
+
+## Platinum
+
+{% include sponsors-list id="platinum" layout="third" %}
 
 ## Gold
 
