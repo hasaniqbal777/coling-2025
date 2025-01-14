@@ -52,6 +52,12 @@ silver:
     alt: Toloka
     title: Toloka
 
+bronze:
+  - url: https://www.reverso.net/
+    image_path: /assets/images/sponsors/reverso_logo_2023.png
+    alt: Reverso
+    title: Reverso
+
 supporter:
   - url: https://www.aaico.com/
     image_path: /assets/images/sponsors/appliedai.png
@@ -111,6 +117,10 @@ If you want to become Sponsor of COLING'2025, please, have a look at the [COLING
 ## Silver
 
 {% include sponsors-list id="silver" layout="third" %}
+
+## Bronze
+
+{% include sponsors-list id="bronze" layout="third" %}
 
 ## Supporter
 {% include sponsors-list id="supporter" layout="third" %}
