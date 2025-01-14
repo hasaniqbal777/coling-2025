@@ -102,7 +102,7 @@ If you want to become Sponsor of COLING'2025, please, have a look at the [COLING
 
 {% include sponsors-list id="diamond" layout="third" %}
 
-## Winter School Sponsor
+## Arabic NLP Winter School Sponsor
 
 {% include sponsors-list id="school" layout="third" %}
 
