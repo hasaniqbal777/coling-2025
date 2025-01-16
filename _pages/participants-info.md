@@ -7,6 +7,13 @@ toc: true
 toc_sticky: true
 ---
 
+## Useful Contacts
+
+- For questions related to submissions, program etc.: [coling2025-programchairs@googlegroups.com](mailto:coling2025-programchairs@googlegroups.com)  
+- For questions related to local organisation: [coling2025-local-chairs@googlegroups.com](mailto:coling2025-local-chairs@googlegroups.com)  
+- For visa support: [https://coling2025.org/venue/visa/](mailto:https://coling2025.org/venue/visa/)  
+- For registration refunds and change from in-person to virtual presentations: [colinginfo@yesevents.com](mailto:colinginfo@yesevents.com)
+
 ## Hotel / Accommodation
 
 COLING 2025 has secured a room block at Aloft Abu Dhabi, near the conference venue, [Abu Dhabi National Exhibition Centre (ADNEC)](https://adnec.ae/). While there are hotels and lodging of all options we kindly ask delegates to book inside the conference block to ensure that we meet our contractual obligations.
@@ -75,3 +82,8 @@ Tel: +971 (0) 2 501 6444
 [Airbnb.com](https://www.airbnb.com/s/ADNEC-Centre-Al-Ain-~-Abu-Dhabi-~-United-Arab-Emirates/homes?search_mode=flex_destinations_search&refinement_paths%5B%5D=%2Fhomes&place_id=ChIJjal_Pdizij4RaRmJzMM06ok&checkin=2025-01-18&checkout=2025-01-25&adults=2&children=0)  
 [Vrbo.com](https://www.vrbo.com/search?destination=Abu%20Dhabi%20National%20Exhibition%20Centre%2C%20Abu%20Dhabi%2C%20Abu%20Dhabi%2C%20United%20Arab%20Emirates&regionId=6126940&latLong=24.41732%2C54.43647&flexibility=0_DAY&d1=2025-01-18&startDate=2025-01-18&d2=2025-01-25&endDate=2025-01-25&adults=2&theme=&userIntent=&semdtl=&sort=RECOMMENDED)  
 
+## Poster Orders
+
+Capital 360 Event Experience  
+All orders must be sent an email to [capital360.oc@adnec.ae](mailto:capital360.oc@adnec.ae) with the [COLING 25 Poster Order Form](https://drive.google.com/file/d/1n5U_VXoACAyaKv2FBpnXIa6ECOGB6fnn/view?usp=sharing) along with your A0 Portrait artwork.  
+CREDIT CARD PAYMENTS ONLY. Please note that orders will not proceed without payment, as this is to prevent uncollected posters.

@@ -11,6 +11,14 @@ toc_sticky: True
 
 <small>We plan on updating the FAQ continuously</small>
 
+### Is there a onsite poster printing service service available?
+
+Please check [this page](/participants-info/#poster-orders) for information on poster ordering.
+
+### What facilities do we have for the in-person demo session?
+
+As the Demo Call for Papers notes for in-person presentations, we expect at least one of the authors to present a live demo during a demo session at COLING 2025, with an accompanying poster. There will be a desk and monitor with HDMI cable available for the demo, and a poster board for a A0-sized poster.
+
 ### I am author of a paper that was assigned an oral presentation. Do I also need to prepare a poster?
 
 No. There will be no (virtual or in-person) posters for papers that have been assigned an oral presentation. The authors of these papers only need to prepare their talk.

@@ -758,7 +758,7 @@ toc_sticky: true
 - **Just Read the Codebook! Make Use of Quality Codebooks in Zero-Shot Classification of Multilabel Frame Datasets**  
 *Mattes Ruckdeschel*
 - **NLP for preserving Torlak, a vulnerable low-resource Slavic language**  
-*Li Tang*
+*Li Tang, Teodora Vukovic*
 - **Analyzing the Attention Heads for Pronoun Disambiguation in Context-aware Machine Translation Models**  
 *Paweł Mąka, Yusuf Can Semerci, Jan Scholtes and Gerasimos Spanakis*
 - **ModaFact: Multi-paradigm Evaluation for Joint Event Modality and Factuality Detection**  
@@ -1286,7 +1286,7 @@ toc_sticky: true
 - **Interaction Matters: An Evaluation Framework for Interactive Dialogue Assessment on English Second Language Conversations**  
 *Rena Gao, Carsten Roever and Jey Han Lau*
 - **Imposter: Text and Frequency Guidance for Subject Driven Action Personalization using Diffusion Models**  
-*Kuldeep Kulkarni, Sumit Shekhar, Balaji Vasan Srinivasan and Dinesh Manocha*
+*Divya Kothandaraman, Kuldeep Kulkarni, Sumit Shekhar, Balaji Vasan Srinivasan and Dinesh Manocha*
 - **FIPO: Free-form Instruction-oriented Prompt Optimization with Preference Dataset and Modular Fine-tuning Schema**  
 *Junru Lu, Siyu An, Min Zhang, Yulan He, di yin and Xing Sun*
 - **Case2Code: Learning Inductive Reasoning with Synthetic Data**  
