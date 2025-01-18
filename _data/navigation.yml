@@ -81,6 +81,8 @@ program:
         url: /program/tutorials/
       - title: Co-Located Events
         url: /program/colocated/
+      - title: Birds of a Feather
+        url: /program/bof/
   - title: Accepted
     children:
       - title: Main Conference Papers

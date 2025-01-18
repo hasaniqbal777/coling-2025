@@ -68,6 +68,17 @@ address this timely topic.
 **Organizers:** *Noorhan Abbas and Saad Ezzini*  
 **Time:** 14:00 - 17:30  
 **Location:** Online Only  
+**Abstract:** This cutting-edge tutorial, aims to introduce and clarify Retrieval-Augmented Generation (RAG) for the international computational linguistics community. RAG combines retrieval-based and generation-based models to produce accurate and contextually relevant outputs, making it a powerful tool for developing intelligent educational tools such as chatbots and question answering systems.  
+The tutorial will cover the following key topics:
+- An introduction to RAG, its significance, and diverse applications, particularly in the educational sector.
+- A detailed exploration of the core components and working mechanisms of RAG, highlighting the interaction between retrieval and generation components.
+- An overview of different retrieval methods, including traditional and vector-based approaches, and the role of vector databases and embedding models in optimizing retrieval processes.
+- Integration of Large Language Models (LLMs) within the RAG framework and the importance of prompt engineering in fine-tuning responses.
+- Current challenges and future directions in the field of RAG.
+
+To enhance practical understanding, two hands-on sessions will be included. The first session will focus on using the Unstructured API to pre-process various documents, such as PDF and PowerPoint files, creating metadata to make the retrieval process more efficient with LLMs. The second session will demonstrate different RAG pipelines and evaluation methods using the Haystack library, providing participants with hands-on experience in implementing and assessing RAG systems.  
+The tutorial is designed for NLP researchers and practitioners, AI and machine learning engineers, educators, software developers, graduate students and academics. It will equip attendees with the knowledge and tools to implement RAG, fostering innovation and enhancing the capabilities of educational chatbots and question answering systems globally.
+For more info, please refer to the tutorial website: [https://ezzini.github.io/edurag/](https://ezzini.github.io/edurag/)
 
 ## Monday, January 20, 2025
 

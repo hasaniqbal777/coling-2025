@@ -11,7 +11,7 @@ toc_sticky: True
 
 <small>We plan on updating the FAQ continuously</small>
 
-### Is there a onsite poster printing service service available?
+### Is there an onsite poster printing service service available?
 
 Please check [this page](/participants-info/#poster-orders) for information on poster ordering.
 
