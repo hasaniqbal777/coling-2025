@@ -18,6 +18,14 @@ The 31st International Conference on Computational Linguistics (COLING 2025) wil
 </style>
 <span class="red-text">COLING 25 Detailed Schedule, including all oral presentations and posters, is now available [here](https://docs.google.com/spreadsheets/d/1EzQl5drWfg3ohyaAz2327S4D4IPHNvEG2ZrtaIOFikk/edit?usp=sharing)
 
+## Onsite Poster Printing Details:
+
+**Vendor:** Capital 360 Event Experience  
+**Payment:** Orders can be placed using a credit card, **(364 AED/~$100 USD)**. For those unable to use a credit card, we recommend printing your poster beforehand and bringing it with you to the conference.  
+**How to Order:** Send an email to [capital360.oc@adnec.ae](mailto:capital360.oc@adnec.ae). Include the [COLING 25 Poster Order Form](https://drive.google.com/file/d/1n5U_VXoACAyaKv2FBpnXIa6ECOGB6fnn/view?usp=sharing) and your A0 Portrait artwork in the email.  
+**Pickup:** Posters can be picked up at the **Customer Service desk located near Conference Hall A from 8:00 AM to 6:00 PM** during the main conference days.  
+*If you need to place a last-minute poster order, including on-site requests, you can do so online or in person at the Customer Service Desk. Your poster will be ready for pickup within 24 hours. Please note, if you wish to pay in cash, you must first visit the Customer Service desk at Conference Hall A to complete your payment before placing your order.*
+
 ## News
 
 **[Registration](/registration) is officially open**

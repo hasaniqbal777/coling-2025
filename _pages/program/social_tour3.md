@@ -11,6 +11,13 @@ toc_sticky: true
 
 ## Sand Dunes & 4x4 Desert Safari
 
+<style>
+.red-text { color: red; font-weight: bold; font-size: 1em; }
+</style>
+<span class="red-text">Heading to the Abu Dhabi desert? Nights can get chilly! Be sure to pack warm clothes so you stay cozy after sundown. Safe travels and see you soon!
+
+
+
 ### 1. Sand Dunes & 4x4 Desert Safari
 
 <figure>
