@@ -122,14 +122,8 @@ efforts for participants.
 the parallels between usage-based learning and the data-driven “learning” of pre-trained models. However,
 a key difference between a usage-based learning account for humans and that of LLMs is in embodiment
 and multimodality—for the most part, LLMs use text alone, whereas usage-based theories posit that each
-token of linguistic experience is stored with a wealth of experiential information that enriches the symbol through cross-modal association. Therefore, the first goal of this tutorial is to provide a summary of
-language acquisition and second language learning from a usage-based theoretical linguistic perspective.
+token of linguistic experience is stored with a wealth of experiential information that enriches the symbol through cross-modal association. Therefore, the first goal of this tutorial is to provide a summary of language acquisition and second language learning from a usage-based theoretical linguistic perspective.
 With this understanding of human usage-based learning, we will turn to evidence demonstrating the ways
 in which machine learning, primarily via large, pre-trained vision and language models, does and does
 not parallel human learning. The overarching goal of this is not to say that the two processes are similar
-or dissimilar in order to conclude that dissimilarity denotes inferiority (if the knowledge arrived at is the
-same, then it may not matter how it was learned). Rather, we explore the resulting differences in what is
-known and understood about the world, and take this as a starting point for considering how to supplement
-and improve natural language understanding (NLU), particularly for physically situated applications. Our
-target audience is those interested in the intersection of linguistic theory and NLU implementations, such
-as human-robot interaction.
+or dissimilar in order to conclude that dissimilarity denotes inferiority (if the knowledge arrived at is the same, then it may not matter how it was learned). Rather, we explore the resulting differences in what is known and understood about the world, and take this as a starting point for considering how to supplement and improve natural language understanding (NLU), particularly for physically situated applications. Our target audience is those interested in the intersection of linguistic theory and NLU implementations, such as human-robot interaction. For more info, please refer to the [tutorial website](https://sites.google.com/view/linguistic-theory-and-ai/)
