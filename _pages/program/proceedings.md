@@ -9,12 +9,6 @@ toc: true
 toc_sticky: true
 ---
 
-AbjadNLP-2025          Coling-Rel             LoResLM-2025           SUMEval-2
-BUCC                   EvalMG                 MCG                    VarDial-2025
-CHiPSAL-2025           FinNLP-FNP-LLMFinLegal Nakba-NLP-2025         WACL-4
-CHum                   GenAIDetect            NeusymBridge           WRAICOGS
-CLT                    GenAIK                 RegNLP-2025
-CoMeDi                 IndoNLP                SEALP
 <style>
 .red-text { color: red; font-weight: bold; font-size: 1em; }
 </style>
