@@ -14,6 +14,8 @@ toc_sticky: true
 </style>
 <span class="red-text">COLING 25 Detailed Schedule, including all oral presentations and posters, is now available [here](https://docs.google.com/spreadsheets/d/1EzQl5drWfg3ohyaAz2327S4D4IPHNvEG2ZrtaIOFikk/edit?usp=sharing)
 
+[Conference handbook](https://coling2025.org/downloads/Handbook250113.pdf) is now live!
+
 <style>
 .news-table { font-size: .9em; table-layout: fixed; text-align: left; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 8em;}
