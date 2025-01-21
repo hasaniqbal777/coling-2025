@@ -2,7 +2,8 @@
 title: Participants Information
 layout: single
 permalink: /participants-info/
-sidebar: false
+sidebar: 
+    nav: "participants-info"
 toc: true
 toc_sticky: true
 ---

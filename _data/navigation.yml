@@ -8,7 +8,7 @@ main:
     url: /registration/
 
   - title: "Participants Info"
-    url: /participants-info/
+    subnav: participants-info
 
   - title: Calls
     subnav: calls
@@ -97,8 +97,6 @@ program:
     children:
       - title: Keynotes
         url: /program/events/keynotes/
-      - title: Social Excursions
-        url: /program/events/social_excursions/
 
 faqs:
   - title: FAQs
@@ -113,3 +111,11 @@ faqs:
         url: /faqs/abudhabi/
       - title: General FAQs About COLING
         url: /faqs/
+
+participants-info:
+  - title: Participants Info
+    children:
+      - title: Participants Info
+        url: /participants-info/
+      - title: Social Excursions
+        url: /participants-info/social_excursions/

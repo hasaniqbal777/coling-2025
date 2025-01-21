@@ -2,7 +2,7 @@
 title: Social Excursions (Tour Option 2)
 layout: single
 excerpt: "COLING 2025 Social Excursions"
-permalink: /program/events/social/tour2/
+permalink: /participants-info/social_excursions/tour2/
 sidebar: 
     nav: "program"
 toc: true
