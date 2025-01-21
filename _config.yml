@@ -187,6 +187,7 @@ exclude:
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
   - "*-old.pdf"
+  - "/proceedings"
 keep_files:
   - .git
   - .svn
