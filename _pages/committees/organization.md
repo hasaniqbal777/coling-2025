@@ -355,3 +355,13 @@ site=""
 institution="Mohamed bin Zayed University of Artificial Intelligence, UAE"
 email = ""
 %}
+
+<h2>Handbook Chair</h2>
+
+{% include bio-box
+name="Salam Khalifa"
+picture="/assets/images/committee/salam.jpg"
+site=""
+institution="Stony Brook University, USA"
+email = ""
+%}
