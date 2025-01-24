@@ -9,6 +9,14 @@ toc: true
 toc_sticky: true
 ---
 
+Thank you for joining the us in Abu Dhabi for COLING 25. While the In-person sessions are completed we have 2 more days of Virtual Poster Presentations in Gather.
+
+COLING 2025 continues after the weekend! We invite you to enjoy 350 more brilliant COLING papers at the Main Virtual Poster Sessions on Monday and Tuesday of the coming week.
+
+Please check the schedule section and reserve convenient time slots in your calendar (you need to log in to Gather once to see it and have access to the event): [Gather Event](https://app.gather.town/events/qcSFZ95gTzOHsV7_gNeh). The papers and their schedules are available at the [program table](https://docs.google.com/spreadsheets/d/1EzQl5drWfg3ohyaAz2327S4D4IPHNvEG2ZrtaIOFikk/edit?usp=sharing).
+
+We hope to see you all for extra networking and fruitful discussions!
+
 <style>
 .red-text { color: red; font-weight: bold; font-size: 1em; }
 </style>

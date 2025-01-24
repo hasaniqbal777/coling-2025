@@ -31,6 +31,9 @@ The 31st International Conference on Computational Linguistics (COLING 2025) wil
 **[Registration](/registration) is officially open**
 {: .text-center .notice--info}
 
+**Thank you for joining the us in Abu Dhabi for COLING 25. While the In-person sessions are completed we have 2 more days of Virtual Poster Presentations in Gather. For more information, please visit [program](/program) page.**
+{: .text-center .notice--info}
+
 <style>
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
