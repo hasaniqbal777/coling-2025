@@ -118,3 +118,18 @@ Main Conference
 | 15:30 – 16:30 | Session 14: Awards |
 | 16:30 – 17:00 | Closing Remarks |
 {: .news-table}
+
+## Monday, January 27, 2025
+
+Main Virtual Conference
+
+| 19:00 – 20:30 GMT+4 | Gather Session 1 (access to Gather App will be sent via email and is available in Whova) |
+{: .news-table}
+
+## Tuesday, January 28, 2025
+
+Main Virtual Conference
+
+| 07:00 – 08:30 GMT+4 | Gather Session 2 (access to Gather App will be sent via email and is available in Whova) |
+| 13:00 – 14:30 GMT+4 | Gather Session 3 (access to Gather App will be sent via email and is available in Whova) |
+{: .news-table}
