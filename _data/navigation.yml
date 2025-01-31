@@ -97,6 +97,10 @@ program:
     children:
       - title: Keynotes
         url: /program/events/keynotes/
+  - title: Awards
+    children:
+      - title: Best Papers
+        url: /program/best_papers/
 
 faqs:
   - title: FAQs
