@@ -17,6 +17,15 @@ toc_sticky: true
 ### [Towards Understanding Multi-Task Learning (Generalization) of LLMs via Detecting and Exploring Task-Specific Neurons](https://aclanthology.org/2025.coling-main.200/)
 *Yongqi Leng, Deyi Xiong*
 
+<a href="https://coling2025.org/downloads/awards/765.pdf" class="btn btn--info" style="width: 100%;">Presentation</a>
+
+<div class="responsive-video-container">
+  <video controls width="100%">
+    <source src="https://github.com/hasaniqbal777/coling-2025/raw/refs/heads/main/downloads/awards/765.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 ## Best Short Paper Awards
 
 ### [Beyond Surprisal: A Dual Metric Framework for Lexical Skill Acquisition in LLMs](https://aclanthology.org/2025.coling-main.443/)
@@ -25,26 +34,57 @@ toc_sticky: true
 ### [Detecting Conversational Mental Manipulation with Intent-Aware Prompting](https://aclanthology.org/2025.coling-main.616/)
 *Jiayuan Ma, Hongbin Na, Zimu Wang, Yining Hua, Yue Liu, Wei Wang and Ling Chen*
 
+<a href="https://coling2025.org/downloads/awards/2212.pdf" class="btn btn--info" style="width: 100%;">Presentation</a>
+
+<div class="responsive-video-container">
+  <video controls width="100%">
+    <source src="https://github.com/hasaniqbal777/coling-2025/raw/refs/heads/main/downloads/awards/2212.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 ## Best Social Impact Paper Awards
 
 ### [CHIFRAUD: A Long-term Web Text Dataset for Chinese Fraud Detection](https://aclanthology.org/2025.coling-main.398/)
 *Min Tang, Lixin Zou, Zhe Jin, ShuJie Cui, Shiuan Ni Liang and Weiqing Wang*
 
+<a href="https://coling2025.org/downloads/awards/1469.pdf" class="btn btn--info" style="width: 100%;">Presentation</a>
+
 ### [PIRsuader: A Persuasive Chatbot for Mitigating Psychological Insulin Resistance in Type-2 Diabetic Patients](https://aclanthology.org/2025.coling-main.401/)
 *Sujatha Das Gollapalli and See-Kiong Ng*
+
+<div class="responsive-video-container">
+  <video controls width="100%">
+    <source src="https://github.com/hasaniqbal777/coling-2025/raw/refs/heads/main/downloads/awards/1482.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ## Best Low-Resource Language Paper Awards
 
 ### [BERT-based Classical Arabic Poetry Authorship Attribution](https://aclanthology.org/2025.coling-main.409/)
 *Lama Alqurashi, Serge Sharoff, Janet Watson and Jacob Blakesley*
 
+<a href="https://coling2025.org/downloads/awards/1519.pdf" class="btn btn--info" style="width: 100%;">Presentation</a>
+
 ## Best Dataset Paper Awards
 
 ### [NYT-Connections: A Deceptively Simple Text Classification Task that Stumps System-1 Thinkers](https://aclanthology.org/2025.coling-main.134/)
 *Angel Yahir Loredo Lopez, Tyler McDonald and Ali Emami*
 
+<a href="https://coling2025.org/downloads/awards/493.pdf" class="btn btn--info" style="width: 100%;">Presentation</a>
+
+<div class="responsive-video-container">
+  <video controls width="100%">
+    <source src="https://github.com/hasaniqbal777/coling-2025/raw/refs/heads/main/downloads/awards/493.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 ### [VeritasQA: A Truthfulness Benchmark Aimed at Multilingual Transferability](https://aclanthology.org/2025.coling-main.366/)
 *Javier Aula-Blasco, Júlia Falcão, Susana Sotelo, Silvia Paniagua, Aitor Gonzalez-Agirre and Marta Villegas*
+
+<a href="https://coling2025.org/downloads/awards/1335.pdf" class="btn btn--info" style="width: 100%;">Presentation</a>
 
 ## Outstanding Paper Awards
 
